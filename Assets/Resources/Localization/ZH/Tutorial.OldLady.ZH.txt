@@ -1,0 +1,9 @@
+INT	STRING	STRING
+ID	Name	Info1
+ID	Name	Info1
+0	Akane Bounty Master	Hunter! Over here! Thank the Three you've arrived. Yomi Village is overrun with wolves, tainted by some demonic anger. Together we must push them back. 
+1	Elder Shaman Pan	Greetings, Hunter. We are glad you have come. I hope it is not already too late...
+2	Akane Bounty Master	Enough talk - let us clear this threat from the village! Attack now!
+3	Elder Shaman Pan	You have proven yourself here today, but many challenges await you on Yomi Island. 
+4	Elder Shaman Pan	Take this. It is an amulet infused the karmic signature of Yomi Village. You can use the magic within the amulet it to travel to waypoints on the Island. It can also return you to the village.
+5	Elder Shaman Pan	After your sea journey and the battle, you must rest the night. In the morning, speak with the Bounty Master. 

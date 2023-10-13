@@ -1,0 +1,8 @@
+INT	INT	INT	INT	INT	INT	INT
+PlatFormID	PayMoney1	PayMoney2	PayMoney3	RealMoney1	RealMoney2	RealMoney3
+PlatFormID	PayMoney1	PayMoney2	PayMoney3	RealMoney1	RealMoney2	RealMoney3
+0	120	150	180	12	15	18
+1	120	150	180	12	15	18
+2	115	150	180	10	15	18
+3	120	150	180	12	15	18
+4	120	150	180	12	15	18

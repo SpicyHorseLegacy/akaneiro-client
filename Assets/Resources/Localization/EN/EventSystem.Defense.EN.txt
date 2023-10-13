@@ -1,0 +1,39 @@
+INT	STRING	STRING	STRING	INT	INT
+ID	Title	Description1	Description2	Defense	class
+ID	Title	Description1	Description2	Defense	class
+11001	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Skin of Stone I[-]	Speak to Trainer Takeda to begin your training.	30	1
+11002	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Iron Thorns I[-]	Speak to Trainer Takeda to begin your training.	30	1
+11003	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Ring of Frost I[-]	Speak to Trainer Takeda to begin your training.	60	1
+11004	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Mend I[-]	Speak to Trainer Takeda to begin your training.	60	1
+11005	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Haunting Scream I[-]	Speak to Trainer Takeda to begin your training.	90	1
+11006	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Prayer I[-]	Speak to Trainer Takeda to begin your training.	150	1
+11007	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Skin of Stone II[-]	Speak to Trainer Takeda to begin your training.	210	1
+11008	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Iron Thorns II[-]	Speak to Trainer Takeda to begin your training.	210	1
+11009	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Ring of Frost II[-]	Speak to Trainer Takeda to begin your training.	240	1
+11010	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Mend II[-]	Speak to Trainer Takeda to begin your training.	240	1
+11011	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Haunting Scream II[-]	Speak to Trainer Takeda to begin your training.	270	1
+11012	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Prayer II[-]	Speak to Trainer Takeda to begin your training.	330	1
+11013	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Skin of Stone III[-]	Speak to Trainer Takeda to begin your training.	390	1
+11014	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Iron Thorns III[-]	Speak to Trainer Takeda to begin your training.	390	1
+11015	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Ring of Frost III[-]	Speak to Trainer Takeda to begin your training.	420	1
+11016	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Mend III[-]	Speak to Trainer Takeda to begin your training.	420	1
+11017	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Haunting Scream III[-]	Speak to Trainer Takeda to begin your training.	450	1
+11018	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Prayer III[-]	Speak to Trainer Takeda to begin your training.	510	1
+11019	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Skin of Stone IV[-]	Speak to Trainer Takeda to begin your training.	570	1
+11020	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Iron Thorns IV[-]	Speak to Trainer Takeda to begin your training.	570	1
+11021	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Ring of Frost IV[-]	Speak to Trainer Takeda to begin your training.	600	1
+11022	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Mend IV[-]	Speak to Trainer Takeda to begin your training.	600	1
+11023	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Haunting Scream IV[-]	Speak to Trainer Takeda to begin your training.	630	1
+11024	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Prayer IV[-]	Speak to Trainer Takeda to begin your training.	690	1
+11025	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Skin of Stone V[-]	Speak to Trainer Takeda to begin your training.	750	1
+11026	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Iron Thorns V[-]	Speak to Trainer Takeda to begin your training.	750	1
+11027	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Ring of Frost V[-]	Speak to Trainer Takeda to begin your training.	780	1
+11028	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Mend V[-]	Speak to Trainer Takeda to begin your training.	780	1
+11029	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Haunting Scream V[-]	Speak to Trainer Takeda to begin your training.	810	1
+11030	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Skin of Stone VI[-]	Speak to Trainer Takeda to begin your training.	870	1
+11031	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Iron Thorns VI[-]	Speak to Trainer Takeda to begin your training.	870	1
+11032	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Prayer V[-]	Speak to Trainer Takeda to begin your training.	870	1
+11033	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Ring of Frost VI[-]	Speak to Trainer Takeda to begin your training.	900	1
+11034	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Mend VI[-]	Speak to Trainer Takeda to begin your training.	900	1
+11035	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Haunting Scream VI[-]	Speak to Trainer Takeda to begin your training.	930	1
+11036	New Ability Available!	You now have enough DEFENSE to learn [00FF00]Chi Prayer VI[-]	Speak to Trainer Takeda to begin your training.	990	1

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: b923193230c42a04cb523c0a0311e15f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: CH_Werewolf_Normal
+    100002: Bip001 R Forearm
+    100004: Bip001 L UpperArm
+    100006: Bip001 L Finger0
+    100008: Bip001 L Finger01
+    100010: Bip001 L Finger1
+    100012: Bip001 L Finger11
+    100014: Bip001 L Finger2
+    100016: Bip001 L Finger21
+    100018: Bip001 L Finger3
+    100020: Bip001 L Finger31
+    100022: Bip001 L Forearm
+    100024: Bip001 L Clavicle
+    100026: Bip001 R Clavicle
+    100028: Bip001 R Finger01
+    100030: Bip001 R Finger1
+    100032: Bip001 R Finger11
+    100034: Bip001 R Finger2
+    100036: Bip001 R Finger21
+    100038: Bip001 R Finger3
+    100040: Bip001 R Finger31
+    100042: Bip001 L HorseLink
+    100044: Bip001 R Finger0
+    100046: Bip001 R UpperArm
+    100048: Bip001 R HorseLink
+    100050: Bip001 Tail
+    100052: Bip001 R Calf
+    100054: Bip001 L Toe0
+    100056: //RootNode
+    100058: WP_WereWolf
+    100060: Bip001 R Foot
+    100062: Bip001 L Foot
+    100064: Bip001 R Thigh
+    100066: Bip001 Prop1
+    100068: Bip001 L Calf
+    100070: Bip001 Spine1_a
+    100072: Bip001 Spine1_b
+    100074: Bip001 Mouth
+    100076: Bip001 Head
+    100078: Bip001 Neck
+    100080: Bip001 Tail1
+    100082: Bip001 R Toe0
+    100084: Bip001 Tail2
+    100086: Bip001 L Thigh
+    100088: Bip001 R Hand
+    100090: Bip001 Prop2
+    100092: Bip001 L Hand
+    100094: Bip001 Spine1
+    100096: Bip001 Spine
+    100098: Bip001 Pelvis
+    100100: Bip001
+    100102: Root
+    100104: CH_Warewolf_Normal
+    400000: CH_Werewolf_Normal
+    400002: Bip001 R Forearm
+    400004: Bip001 L UpperArm
+    400006: Bip001 L Finger0
+    400008: Bip001 L Finger01
+    400010: Bip001 L Finger1
+    400012: Bip001 L Finger11
+    400014: Bip001 L Finger2
+    400016: Bip001 L Finger21
+    400018: Bip001 L Finger3
+    400020: Bip001 L Finger31
+    400022: Bip001 L Forearm
+    400024: Bip001 L Clavicle
+    400026: Bip001 R Clavicle
+    400028: Bip001 R Finger01
+    400030: Bip001 R Finger1
+    400032: Bip001 R Finger11
+    400034: Bip001 R Finger2
+    400036: Bip001 R Finger21
+    400038: Bip001 R Finger3
+    400040: Bip001 R Finger31
+    400042: Bip001 L HorseLink
+    400044: Bip001 R Finger0
+    400046: Bip001 R UpperArm
+    400048: Bip001 R HorseLink
+    400050: Bip001 Tail
+    400052: Bip001 R Calf
+    400054: Bip001 L Toe0
+    400056: //RootNode
+    400058: WP_WereWolf
+    400060: Bip001 R Foot
+    400062: Bip001 L Foot
+    400064: Bip001 R Thigh
+    400066: Bip001 Prop1
+    400068: Bip001 L Calf
+    400070: Bip001 Spine1_a
+    400072: Bip001 Spine1_b
+    400074: Bip001 Mouth
+    400076: Bip001 Head
+    400078: Bip001 Neck
+    400080: Bip001 Tail1
+    400082: Bip001 R Toe0
+    400084: Bip001 Tail2
+    400086: Bip001 L Thigh
+    400088: Bip001 R Hand
+    400090: Bip001 Prop2
+    400092: Bip001 L Hand
+    400094: Bip001 Spine1
+    400096: Bip001 Spine
+    400098: Bip001 Pelvis
+    400100: Bip001
+    400102: Root
+    400104: CH_Warewolf_Normal
+    2300000: WP_WereWolf
+    3300000: WP_WereWolf
+    4300000: Refbox
+    4300002: CH_Warewolf_Normal
+    4300004: WP_WereWolf
+    4300006: CH_Werewolf_Normal
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: CH_Werewolf_Normal
+    13700002: CH_Warewolf_Normal
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

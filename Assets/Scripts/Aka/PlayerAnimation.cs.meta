@@ -1,0 +1,8 @@
+fileFormatVersion: 2
+guid: 157d0c1e27d0edc429f7deac8c3a29a2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MovementSound: {fileID: 400000, guid: 534aaa95d9bf8ac4e97bc4337838652b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}

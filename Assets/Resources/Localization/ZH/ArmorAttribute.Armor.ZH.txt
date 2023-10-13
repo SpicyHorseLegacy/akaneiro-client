@@ -1,0 +1,7 @@
+INT	STRING	INT	INT	INT
+ID	Weapon	Chance 	 Amount	Value
+Armor ID	Weapon	Armor Type Drop Chance %	Armor Amount	Value
+2001	Head Armor	30	40	12
+2002	Chest Armor	25	80	12
+2003	Leg Armor	30	50	12
+2010	Cloak	15	30	12

@@ -1,0 +1,12 @@
+INT	STRING	INT	INT	INT	FLOAT	FLOAT	INT	FLOAT	STRING	STRING	INT	STRING
+ID	Color	AttachChance	GemProgramType	GemTelent	EffectBonus	Value	Value	Value	Gem Desc String 1	Gem Desc String 2	IconID	Gem Name
+ID	Gem Type	Attach Chance %	GemProgramType	GemTelent	Gem Effect Formula	Shop Price Value	Gem Trail VFX	Gem Effect Bonus	Gem Desc String 1	Gem Desc String 2	IconID	Name String
+1	Ruby 	20	1	1	0.2	2.5	0	3	Stat Boost: 	Power +3	1	Ruby 
+2	Sapphire 	20	1	4	0.2	2.5	0	3	Stat Boost: 	Skill +3	2	Sapphire 
+3	Emerald 	20	1	2	0.2	2.5	0	3	Stat Boost: 	Defense +3	3	Emerald 
+4	Garnet 	12	1	3	0.1	3.5	0	2	Stat Boost: 	Power and Defense +2	4	Garnet 
+5	Amethyst 	12	1	5	0.1	3.5	0	2	Stat Boost: 	Skill and Power +2	5	Amethyst 
+6	Malachite 	12	1	6	0.1	3.5	0	2	Stat Boost: 	Defense and Skill +2	6	Malachite 
+7	Obsidian 	1	1	7	0.2	5	0	3	Stat Boost: 	All +3	7	Obsidian 
+8	Golden 	0	2	16	0.2	5	0	0.2	Slight boost to 	Karma Shard value	8	Golden 
+9	Jade 	3	1	7	0.2	5	0	2	Stat Boost: 	All +2	9	Jade 

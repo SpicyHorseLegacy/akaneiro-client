@@ -1,0 +1,12 @@
+INT	STRING	INT	INT	INT	FLOAT	STRING	STRING	INT	INT	STRING	INT	INT
+ID	EnchantString	AttachChance	EnchantLevel	StatusID	Value	Enchant Desc String 1	Enchant Desc String 2	EnchantType	IconID	Enchant Name	Min	Max
+ID	Enchant String	(NOT USED) Attach Chance	Enchant Level	StatusID	Value	Enchant Desc String 1	Enchant Desc String 2	EnchantType	IconID	Name String	Min Item Level for Enchant	Max Item Level for Enchant
+101	Raging I	20	1	70101	1.5	Small boost to 	attack damage	1	1	Raging 	1	60
+102	Raging II	8	2	70102	2	Moderate boost to 	attack damage	1	1	Raging 	12	60
+103	Raging III	2	3	70103	3	Large boost to 	attack damage	1	1	Raging 	25	60
+201	Thirsty I	22	1	72701	1.5	Slight chance of 	stealing health	2	2	Thirsty 	1	60
+202	Thirsty II	8	2	72702	2	Moderate chance of 	stealing health	2	2	Thirsty 	12	60
+203	Thirsty III	2	3	72703	3	High chance of 	stealing health	2	2	Thirsty 	25	60
+301	Brutal I	25	1	71901	1.5	Slight chance of 	stunning enemies	3	3	Brutal 	1	60
+302	Brutal II	10	2	71902	2	Moderate chance of 	stunning enemies	3	3	Brutal 	12	60
+303	Brutal III	3	3	71903	3	High chance of 	stunning enemies	3	3	Brutal 	25	60

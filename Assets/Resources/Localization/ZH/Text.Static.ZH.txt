@@ -1,0 +1,144 @@
+STRING	STRING
+TextIndex	English
+TextIndex	English
+UNLOCK	UNLOCK
+EXIT	EXIT
+CHANGETHREAT	Are you sure you want to Trade Karma to change the Threat level?
+BACK	BACK
+REWARDOFFERED	REWARD OFFERED:
+INCREASEDTHREATTIME	Increased Threat in
+MISSIONOBJECTIVE	Mission Objective:
+GETKS	GET KARMA SHARDS
+GETKC	GET KARMA CRYSTALS
+GOODVALUE	Good Value
+BESTVALUE	Best Value
+AMOUNT	Amount:
+OK	OK
+ENTERNAME	Enter name
+GENDER	Gender
+DISCIPLINE	Discipline
+SELECT	Select
+RETURNMENU	Return to Menu
+DISFROMSER	Disconnected from server.
+PLAYERSTATS	Player Stats
+BASESTATS	BASE STATS
+BONUSES	BONUSES
+STATS	Stats
+RECORD	Record
+POWER	Power
+DEFENSE	Defense
+SKILL	Skill
+HEALTH	Health
+ENERGY	Energy
+MAINDPS	Mainhand DPS :
+OFFDPS	Offhand DPS :
+CRITICALCHANCE	Critical Chance :
+CRITICALDMG	Critical Dmg :
+DMGREDUCTION	Damage Reduction :
+DMGBONUS	Dmg Bonus:
+RESISTANCE	Resistance:
+INV	Inventory
+TRANSMUTE	Transmute 
+MAINHAND	main hand
+OFFHAND	off hand
+CHOOSEABI	Choose Abilities
+CHOOSEAGROUP	Choose a group:
+OPTIONS	Options
+GAMEMENU	GAME MENU
+SETTINGS	Settings
+HELPIDX	Help Index
+GIFTCODE	Gift Code
+BUGREPORT	Bug Report
+RETURNVILLAGE	Return to Village
+LOGOUT	Log Out
+QUITGAME	Quit Game
+GAMEPLAY	GAME PLAY
+VIDEO	VIDEO
+AUTOATK	Auto Attack
+AUTOFADELOOTNAME	Auto-Fade Loot Names
+FULLSCREEN	Full Screen
+SHADOWS	Shadows
+QUALITY	Quality
+LOW	Low
+NORMAL	Normal
+HIGH	High
+BEST	Best
+AUDIO	AUDIO
+SOUNDFX	Sound FX
+MUSIC	Music
+MUTESOUNDFX	Mute Sound FX
+MUTEMUSIC	Mute Music
+TASKCOMPLETE	TASK COMPLETE :
+XP	EXP
+FILTERSETTING	Filter Setting
+PUBLIC	Public
+DEBUG	Debug
+SYSTEM	System
+COLORSETTING	Color Setting
+VENDORGATO	Vendor Gato
+STATGROWTH	Stat Growth
+NEXT	Next
+YOUARELEVEL	You are now[#FFFF00] Level
+LOADING	Loading
+REGISTER	Register
+EMAILADDR	Email address
+PASSWORD	Password
+LOGIN	Login
+KARMASHARDS	Karma Shards
+KARMACRYSTALS	Karma Crystals
+MAPUNLOCK	Map Unlock
+PACKAGE1	Package 1
+PACKAGE2	Package 2
+PACKAGE3	Package 3
+COMINGSOON	Coming Soon...
+UNLOCKMAPPAG1	Unlock Yomi Island: Areas 2 - 8!
+UNLOCKMAPPAG2	  Unlock Yomi Island:          Areas 2 - 8!         Plus 8888 karma!
+CHOOSEACTION	Choose an action:
+ESCAPEPRAYER	Escape Prayer
+FREE	Free
+ESCTOVILLAGE	Escape to Yomi Village
+XPEARNLOST	XP earnings are lost
+ITEMANDKARMARETAINED	Items and Karma are retained
+REVIVALPRAYER	Revival Prayer
+RETURNFULLPOWER	Return to Full Power
+SMITENEARBYENEMIES	Smite nearby enemies
+SHINIGAMISCROLL	Shinigami Scroll
+RETURNWITHVENGANCE	Return with a  Vengeance
+INCVFOR7SECONDS	Invincible for 7 seconds
+SUPERSMITEENEMIES	Super-smite nearby enemies
+NOPENALTYEARN	No penalty to earnings
+HUNTER	Hunter
+DELETE	Delete
+LEVEL	Level
+NEWRECRUIT	New Recruit
+SUMMONERSHIMIZU	Summoner Shimizu
+SUMMON	Summon
+FRIENDS	Friends
+ALL	All
+ABIIMPROVESTAT	Abilities improve stat
+TRAINERTAKEDA	Trainer Takeda
+GIFTFROMTHEVILLAGE	Gifts from the village
+MARKYOURATTENDANCE	Return daily to receive gifts of increasing value
+THANKS	 Thanks!
+CONGRATULATIONS	Congratulations!
+YOUHAVERECEIVED	You have received 
+GREAT	Great!
+EQUIPPED	EQUIPPED
+DAMAGE	DAMAGE
+SPEED	SPEED
+VALUE	Value
+NOTENOUGHTMONEY	You don't have enough Karma to complete this transaction.
+LEVELCAPS	Level Cap [          ]
+MISSIONSUCCESS	Mission Success:
+MISSIONSUMMARY	Mission Summary
+KARMAREWARDBONUS	Karma Reward Bonus
+EXPBREAKDOWN	Experience Breakdown
+MISSIONEARNINGS	Mission Earnings
+THREATBOUNS	Threat Bonus
+TOTALEXP	Total Experience
+PING	Ping
+ACTIVITIES	Activities
+CONTINUE	Continue
+YOUHAVEEARNED	You have earned
+THREATBALANCE	Threat Balance
+THREATBALANCEINFO	Lower Threat = Better loot drops Higher threat = More experience

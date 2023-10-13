@@ -1,0 +1,903 @@
+INT	STRING
+ID	Dialogue
+ID	Dialogue text
+0	[DEBUG] Gate Closed
+1	[DEBUG] Gate Open
+2	Come visit!
+3	New stock just in!
+4	New missions available!
+5	Help protect our people
+6	Do you need a sushi roll?
+7	Psssst! Need a lockbox key?
+8	Ben is a Noobcake
+9	[invalid Chars] … ’
+10	New missions available!
+11	Help protect our people
+12	Thank the Three for your help
+13	Mission Vendor (4)
+14	Mission Vendor (5)
+15	Mission Vendor (6)
+16	Mission Vendor (7)
+17	Mission Vendor (8)
+18	Mission Vendor (9)
+19	Mission Vendor (10)
+20	New stock just in! Check it out!
+21	Come visit the Item shop!
+22	Buy or sell items here!
+23	Item Vendor (4)
+24	Item Vendor (5)
+25	Item Vendor (6)
+26	Item Vendor (7)
+27	Item Vendor (8)
+28	Item Vendor (9)
+29	Item Vendor (10)
+30	The Ability Training shop is now open!
+31	Visit here to expand your combat skillset!
+32	Learn a new Ability today!
+33	Ability Vendor (4)
+34	Ability Vendor (5)
+35	Ability Vendor (6)
+36	Ability Vendor (7)
+37	Ability Vendor (8)
+38	Ability Vendor (9)
+39	Ability Vendor (10)
+40	Spirit Helpers can boost your skills!
+41	Come visit!
+42	Your favourite Spirit Helper is available
+43	Spirit Helper Vendor (4)
+44	Spirit Helper Vendor (5)
+45	Spirit Helper Vendor (6)
+46	Spirit Helper Vendor (7)
+47	Spirit Helper Vendor (8)
+48	Spirit Helper Vendor (9)
+49	Spirit Helper Vendor (10)
+50	Help protect our people.
+51	Thank the Three for your help.
+52	My items may help you on your way.
+53	Ainu Elder (4)
+54	Ainu Elder (5)
+55	Ainu Elder (60
+56	Ainu Elder (7)
+57	Ainu Elder (8)
+58	Ainu Elder (9)
+59	Ainu Elder (10)
+60	Akaneiro (60)
+61	Akaneiro (61)
+62	Akaneiro (62)
+63	Akaneiro (63)
+64	Akaneiro (64)
+65	Akaneiro (65)
+66	Akaneiro (66)
+67	Akaneiro (67)
+68	Akaneiro (68)
+69	Akaneiro (69)
+70	We are currently repairing shop damage
+71	The Crafting Shop is opening soon!
+72	Item Crafting currently out of service!
+73	Craft any item you want
+74	I can help create the perfect weapon
+75	Bring your materials to me
+76	Craft Vendor (7)
+77	Craft Vendor (8)
+78	Craft Vendor (9)
+79	Craft Vendor (10)
+80	I only deal with quality items
+81	Rarity is my speciality!
+82	I have the item you need… At a price
+83	Hey, look what I picked up
+84	Psssst! Over here, check this out!
+85	You wouldn't believe what I just found
+86	Rare Item Vendor (7)
+87	Rare Item Vendor (8)
+88	Rare Item Vendor (9)
+89	Rare Item Vendor (10)
+90	They seem somehow possessed...
+91	I'm ready!
+92	Strike them down!
+93	Twisted wretches, it's a mercy...
+94	Watch yourself, more of them!
+95	Well Struck, Hunter!
+96	Yokai corruption! I knew it was so!
+97	Back to hell, beast!
+98	A job well done- take your rest.
+99	Do not fear, I shall keep you standing.
+100	Praise the Three!
+101	A word with you, Red Hunter.
+102	You've killed my lovely pets - Die!
+103	I am one of many... you will suffer…
+104	Come quickly!
+105	Hunter! Over here!
+106	Akaneiro (106)
+107	Akaneiro (107)
+108	Akaneiro (108)
+109	Akaneiro (109)
+110	The path is abandoned
+111	I fear the worst for the villagers
+112	I must be getting close
+113	What happened here...
+114	I can hear the wolves. They're inside my head
+115	Please, kill me...
+116	Rest in peace old soul
+117	The village is now safe
+118	But the cost was great...
+119	Killed... but not eaten?  Wolves don't act this way.
+120	The wolves run freely in the Bleeding Grove Orchard
+121	but I'm informed that the Yokai have taken over
+122	What evil mischief are they up to?
+123	Up ahead, the Alpha Wolf has been killed
+124	The Yokai will pay for disturbing the balance!
+125	I am Vile Tongue!
+126	How dare you disturb our ritual!
+127	The wolves are nothing without my control!
+128	A1_M2: Comment 9
+129	A1_M2: Comment 10
+130	The Ushi Oni has rallied the Amano Imps
+131	They plan to sow chaos on Yomi Island
+132	I will not let this happen.
+133	Greetings Hunter, my name is Kirumi
+134	You must put down the Oni Captains
+135	Now is my chance to take down Ushi Oni
+136	Why would they send such a puny warrior...
+137	You are no match for the Ushi oni!
+138	Your mouth is bigger than your muscles
+139	I will end this quickly. 
+140	A1_M4: Comment 1
+141	A1_M4: Comment 2
+142	A1_M4: Comment 3
+143	A1_M4: Comment 4
+144	A1_M4: Comment 5
+145	A1_M4: Comment 6
+146	A1_M4: Comment 7
+147	A1_M4: Comment 8
+148	A1_M4: Comment 9
+149	A1_M4: Comment 10
+150	A1_M5: Comment 1
+151	A1_M5: Comment 2
+152	A1_M5: Comment 3
+153	A1_M5: Comment 4
+154	A1_M5: Comment 5
+155	A1_M5: Comment 6
+156	A1_M5: Comment 7
+157	A1_M5: Comment 8
+158	A1_M5: Comment 9
+159	A1_M5: Comment 10
+160	A1_M6: Comment 1
+161	A1_M6: Comment 2
+162	A1_M6: Comment 3
+163	A1_M6: Comment 4
+164	A1_M6: Comment 5
+165	A1_M6: Comment 6
+166	A1_M6: Comment 7
+167	A1_M6: Comment 8
+168	A1_M6: Comment 9
+169	A1_M6: Comment 10
+170	A1_M7: Comment 1
+171	A1_M7: Comment 2
+172	A1_M7: Comment 3
+173	A1_M7: Comment 4
+174	A1_M7: Comment 5
+175	A1_M7: Comment 6
+176	A1_M7: Comment 7
+177	A1_M7: Comment 8
+178	A1_M7: Comment 9
+179	A1_M7: Comment 10
+180	A1_M8: Comment 1
+181	A1_M8: Comment 2
+182	A1_M8: Comment 3
+183	A1_M8: Comment 4
+184	A1_M8: Comment 5
+185	A1_M8: Comment 6
+186	A1_M8: Comment 7
+187	A1_M8: Comment 8
+188	A1_M8: Comment 9
+189	A1_M8: Comment 10
+190	A1_M9: Comment 1
+191	A1_M9: Comment 2
+192	A1_M9: Comment 3
+193	A1_M9: Comment 4
+194	A1_M9: Comment 5
+195	A1_M9: Comment 6
+196	A1_M9: Comment 7
+197	A1_M9: Comment 8
+198	A1_M9: Comment 9
+199	A1_M9: Comment 10
+200	(empty)
+201	(empty)
+202	(empty)
+203	(empty)
+204	(empty)
+205	(empty)
+206	(empty)
+207	(empty)
+208	(empty)
+209	(empty)
+210	The spirits of fallen wolves roam Jawbone Ravine
+211	You must be Daisuke
+212	The Ghostclaw Cult were once monks from the local temple. 
+213	After they were cursed they retreated into Moroko's Maw.
+214	I will take you to them. 
+215	That was close!
+216	Lycanthropy has destroyed the monk's minds... 
+217	Moroko's Maw lies ahead, please secure the entrance
+218	These souls are mine!
+219	The world is better off with one less Ghostclaw Prophet
+220	The Ghostclaw Cult is raising wolves from death
+221	The Ghostclaw Scribe will be held responsible
+222	This must be the place
+223	Here
+224	I am the Ghostclaw Scribe!
+225	Ghostclaw Scribe, easily defeated!
+226	We are too strong!
+227	Give up now Hunter!
+228	There is nothing you can do!
+229	Don't resist your terrible fate!
+230	These twisted caves are corrupt with Ghostclaw magic
+231	I need to put an end to this. I need to free Moroko's soul
+232	This must be where Smallwind resides
+233	The resistance is becoming thick
+234	I must be getting close to Moroko's lair
+235	You are no match for the Ghostclaw!
+236	Intruder!
+237	Die!
+238	The Ghostclaw have resurrected me!
+239	The soul of Moroko may rest once again
+240	A2_M4: Comment 1
+241	A2_M4: Comment 2
+242	A2_M4: Comment 3
+243	A2_M4: Comment 4
+244	A2_M4: Comment 5
+245	A2_M4: Comment 6
+246	A2_M4: Comment 7
+247	A2_M4: Comment 8
+248	A2_M4: Comment 9
+249	A2_M4: Comment 10
+250	A2_M5: Comment 1
+251	A2_M5: Comment 2
+252	A2_M5: Comment 3
+253	A2_M5: Comment 4
+254	A2_M5: Comment 5
+255	A2_M5: Comment 6
+256	A2_M5: Comment 7
+257	A2_M5: Comment 8
+258	A2_M5: Comment 9
+259	A2_M5: Comment 10
+260	A2_M6: Comment 1
+261	A2_M6: Comment 2
+262	A2_M6: Comment 3
+263	A2_M6: Comment 4
+264	A2_M6: Comment 5
+265	A2_M6: Comment 6
+266	A2_M6: Comment 7
+267	A2_M6: Comment 8
+268	A2_M6: Comment 9
+269	A2_M6: Comment 10
+270	A2_M7: Comment 1
+271	A2_M7: Comment 2
+272	A2_M7: Comment 3
+273	A2_M7: Comment 4
+274	A2_M7: Comment 5
+275	A2_M7: Comment 6
+276	A2_M7: Comment 7
+277	A2_M7: Comment 8
+278	A2_M7: Comment 9
+279	A2_M7: Comment 10
+280	A2_M8: Comment 1
+281	A2_M8: Comment 2
+282	A2_M8: Comment 3
+283	A2_M8: Comment 4
+284	A2_M8: Comment 5
+285	A2_M8: Comment 6
+286	A2_M8: Comment 7
+287	A2_M8: Comment 8
+288	A2_M8: Comment 9
+289	A2_M8: Comment 10
+290	A2_M9: Comment 1
+291	A2_M9: Comment 2
+292	A2_M9: Comment 3
+293	A2_M9: Comment 4
+294	A2_M9: Comment 5
+295	A2_M9: Comment 6
+296	A2_M9: Comment 7
+297	A2_M9: Comment 8
+298	A2_M9: Comment 9
+299	A2_M9: Comment 10
+300	(empty)
+301	(empty)
+302	(empty)
+303	(empty)
+304	(empty)
+305	(empty)
+306	(empty)
+307	(empty)
+308	(empty)
+309	(empty)
+310	The forest has awoken.
+311	Bloodthirsty trees consume all who have travel this road
+312	The Roots of Blood will consume you
+313	Not today you foul beast. 
+314	None shall pass!
+315	You are no match for the Akane
+316	A3_M1: Comment 7
+317	A3_M1: Comment 8
+318	A3_M1: Comment 9
+319	A3_M1: Comment 10
+320	Yokai thieves are defiling the resting place of revered elders
+321	I have to put an end to this nonsense. 
+322	I will show you a REAL Shambling Death!
+323	Too easy. 
+324	You can't win Hunter, why do you even try!?
+325	I will restore the balance, none shall get in the way. 
+326	A3_M2: Comment 7
+327	A3_M2: Comment 8
+328	A3_M2: Comment 9
+329	A3_M2: Comment 10
+330	It can't be true...
+331	A gigantic Oni skeleton has merged with a twisted Jinmenju tree!
+332	I have to lay this abomination to eternal rest. 
+333	The Cave of Bones...
+334	Mwahahahahaha!
+335	You don't live up to your name Bonedancer. 
+336	We are Gashadokuro
+337	Return to the earth from where you belong
+338	You shall not escape Hell again
+339	A3_M3: Comment 10
+340	A3_M4: Comment 1
+341	A3_M4: Comment 2
+342	A3_M4: Comment 3
+343	A3_M4: Comment 4
+344	A3_M4: Comment 5
+345	A3_M4: Comment 6
+346	A3_M4: Comment 7
+347	A3_M4: Comment 8
+348	A3_M4: Comment 9
+349	A3_M4: Comment 10
+350	A3_M5: Comment 1
+351	A3_M5: Comment 2
+352	A3_M5: Comment 3
+353	A3_M5: Comment 4
+354	A3_M5: Comment 5
+355	A3_M5: Comment 6
+356	A3_M5: Comment 7
+357	A3_M5: Comment 8
+358	A3_M5: Comment 9
+359	A3_M5: Comment 10
+360	A3_M6: Comment 1
+361	A3_M6: Comment 2
+362	A3_M6: Comment 3
+363	A3_M6: Comment 4
+364	A3_M6: Comment 5
+365	A3_M6: Comment 6
+366	A3_M6: Comment 7
+367	A3_M6: Comment 8
+368	A3_M6: Comment 9
+369	A3_M6: Comment 10
+370	A3_M7: Comment 1
+371	A3_M7: Comment 2
+372	A3_M7: Comment 3
+373	A3_M7: Comment 4
+374	A3_M7: Comment 5
+375	A3_M7: Comment 6
+376	A3_M7: Comment 7
+377	A3_M7: Comment 8
+378	A3_M7: Comment 9
+379	A3_M7: Comment 10
+380	A3_M8: Comment 1
+381	A3_M8: Comment 2
+382	A3_M8: Comment 3
+383	A3_M8: Comment 4
+384	A3_M8: Comment 5
+385	A3_M8: Comment 6
+386	A3_M8: Comment 7
+387	A3_M8: Comment 8
+388	A3_M8: Comment 9
+389	A3_M8: Comment 10
+390	A3_M9: Comment 1
+391	A3_M9: Comment 2
+392	A3_M9: Comment 3
+393	A3_M9: Comment 4
+394	A3_M9: Comment 5
+395	A3_M9: Comment 6
+396	A3_M9: Comment 7
+397	A3_M9: Comment 8
+398	A3_M9: Comment 9
+399	A3_M9: Comment 10
+400	(empty)
+401	(empty)
+402	(empty)
+403	(empty)
+404	(empty)
+405	(empty)
+406	(empty)
+407	(empty)
+408	(empty)
+409	(empty)
+410	The Temple
+411	The majestic temple lays in ruin
+412	Once a tranquil yard now falls eerily in silence
+413	What poor souls met their end here...
+414	Such brutality displays markings of the Bloodfang clan
+415	The Amano presence is heavy here
+416	The Warden seems to have claimed this land
+417	The main entrance is destroyed, I have to find another way
+418	The entrance to the cellar is up ahead
+419	Bloodfang will pay for what he has done. 
+420	The temple cellar is a maze of twisted passages
+421	I've heard tales of a terrible beast who resides here
+422	He stalks the surrounding caves
+423	The Abbot's journal tells of how an attempt 
+424	to renew the temple was recently thwarted
+425	when the Bloodfang arrived, slaughtering all.
+426	There is the exit below! But how to get there...
+427	I will crush you!
+428	You will not leave here alive!
+429	A4_M2: Comment 10
+430	Chief Bloodfang resides in the bell tower at the top of the temple
+431	His destiny awaits my arrival
+432	There must be a switch close by...
+433	The temple is all but destroyed, I'm surprised it still stands. 
+434	There is another switch needed to complete the path
+435	Chief Bloodfang, tonight your reign of terror ends!
+436	I have been waiting for you too, Hunter. 
+437	Your story ends now. 
+438	Unlike you, I live to fight another day. 
+439	A4_M3: Comment 10
+440	A4_M4: Comment 1
+441	A4_M4: Comment 2
+442	A4_M4: Comment 3
+443	A4_M4: Comment 4
+444	A4_M4: Comment 5
+445	A4_M4: Comment 6
+446	A4_M4: Comment 7
+447	A4_M4: Comment 8
+448	A4_M4: Comment 9
+449	A4_M4: Comment 10
+450	A4_M5: Comment 1
+451	A4_M5: Comment 2
+452	A4_M5: Comment 3
+453	A4_M5: Comment 4
+454	A4_M5: Comment 5
+455	A4_M5: Comment 6
+456	A4_M5: Comment 7
+457	A4_M5: Comment 8
+458	A4_M5: Comment 9
+459	A4_M5: Comment 10
+460	A4_M6: Comment 1
+461	A4_M6: Comment 2
+462	A4_M6: Comment 3
+463	A4_M6: Comment 4
+464	A4_M6: Comment 5
+465	A4_M6: Comment 6
+466	A4_M6: Comment 7
+467	A4_M6: Comment 8
+468	A4_M6: Comment 9
+469	A4_M6: Comment 10
+470	A4_M7: Comment 1
+471	A4_M7: Comment 2
+472	A4_M7: Comment 3
+473	A4_M7: Comment 4
+474	A4_M7: Comment 5
+475	A4_M7: Comment 6
+476	A4_M7: Comment 7
+477	A4_M7: Comment 8
+478	A4_M7: Comment 9
+479	A4_M7: Comment 10
+480	A4_M8: Comment 1
+481	A4_M8: Comment 2
+482	A4_M8: Comment 3
+483	A4_M8: Comment 4
+484	A4_M8: Comment 5
+485	A4_M8: Comment 6
+486	A4_M8: Comment 7
+487	A4_M8: Comment 8
+488	A4_M8: Comment 9
+489	A4_M8: Comment 10
+490	A4_M9: Comment 1
+491	A4_M9: Comment 2
+492	A4_M9: Comment 3
+493	A4_M9: Comment 4
+494	A4_M9: Comment 5
+495	A4_M9: Comment 6
+496	A4_M9: Comment 7
+497	A4_M9: Comment 8
+498	A4_M9: Comment 9
+499	A4_M9: Comment 10
+500	(empty)
+501	(empty)
+502	(empty)
+503	(empty)
+504	(empty)
+505	(empty)
+506	(empty)
+507	(empty)
+508	(empty)
+509	(empty)
+510	An unnatural cold has fallen over Yomi Forest
+511	Strange witches have been spotted constructing foul shrines
+512	I must destroy the Yokai shrines and eliminate the imp witches!
+513	Dead Amano imps on the path…
+514	This tribe doesn't play nice with the others.
+515	You cannot stop us!
+516	Do not touch the shrines!
+517	The cold has settled in for good
+518	The shrines must go
+519	This is no place for witchery
+520	Local fishermen have reported seeing ice men near here
+521	It seems they’re gathering to attack Yomi village
+522	I must protect the path at all costs!
+523	Only a few more
+524	Aaaaarrrrrgggghhhhhh
+525	The path is now safe
+526	A5_M2: Comment 7
+527	A5_M2: Comment 8
+528	A5_M2: Comment 9
+529	A5_M2: Comment 10
+530	The winter curse persists...
+531	Dark energy has been traced to a small grove deep within the forest
+532	I must destroy the source and end this bitter cold
+533	It's getting colder, I must be getting close
+534	The Frozen Grove...
+535	The Heart of Ice must be destroyed
+536	How dare you interfere!
+537	Your chilling grip on the land is done for. 
+538	A5_M3: Comment 9
+539	A5_M3: Comment 10
+540	A5_M4: Comment 1
+541	A5_M4: Comment 2
+542	A5_M4: Comment 3
+543	A5_M4: Comment 4
+544	A5_M4: Comment 5
+545	A5_M4: Comment 6
+546	A5_M4: Comment 7
+547	A5_M4: Comment 8
+548	A5_M4: Comment 9
+549	A5_M4: Comment 10
+550	A5_M5: Comment 1
+551	A5_M5: Comment 2
+552	A5_M5: Comment 3
+553	A5_M5: Comment 4
+554	A5_M5: Comment 5
+555	A5_M5: Comment 6
+556	A5_M5: Comment 7
+557	A5_M5: Comment 8
+558	A5_M5: Comment 9
+559	A5_M5: Comment 10
+560	A5_M6: Comment 1
+561	A5_M6: Comment 2
+562	A5_M6: Comment 3
+563	A5_M6: Comment 4
+564	A5_M6: Comment 5
+565	A5_M6: Comment 6
+566	A5_M6: Comment 7
+567	A5_M6: Comment 8
+568	A5_M6: Comment 9
+569	A5_M6: Comment 10
+570	A5_M7: Comment 1
+571	A5_M7: Comment 2
+572	A5_M7: Comment 3
+573	A5_M7: Comment 4
+574	A5_M7: Comment 5
+575	A5_M7: Comment 6
+576	A5_M7: Comment 7
+577	A5_M7: Comment 8
+578	A5_M7: Comment 9
+579	A5_M7: Comment 10
+580	A5_M8: Comment 1
+581	A5_M8: Comment 2
+582	A5_M8: Comment 3
+583	A5_M8: Comment 4
+584	A5_M8: Comment 5
+585	A5_M8: Comment 6
+586	A5_M8: Comment 7
+587	A5_M8: Comment 8
+588	A5_M8: Comment 9
+589	A5_M8: Comment 10
+590	A5_M9: Comment 1
+591	A5_M9: Comment 2
+592	A5_M9: Comment 3
+593	A5_M9: Comment 4
+594	A5_M9: Comment 5
+595	A5_M9: Comment 6
+596	A5_M9: Comment 7
+597	A5_M9: Comment 8
+598	A5_M9: Comment 9
+599	A5_M9: Comment 10
+600	(empty)
+601	(empty)
+602	(empty)
+603	(empty)
+604	(empty)
+605	(empty)
+606	(empty)
+607	(empty)
+608	(empty)
+609	(empty)
+610	Wood Sprites have long been allies against more sinister Yokai forces
+611	Chief Pokku believes his people are being abducted for foul purpose
+612	I must help him track down the culprits
+613	This looks like the work of the Trapper Gang
+614	The Oni Poacher must be behind this!
+615	The Wood Sprites are ours!
+616	I've already sent them to The Chef
+617	You'll never find them
+618	I've heard of The Chef, he resides in the caverns
+619	I'll recover the Wood Sprites before they arrive on his bloody doorstep.
+620	A remnant group of Ghostclaw Cultists has been abducting Wood Sprites
+621	I must locate and free them before they meet a terrible fate
+622	This Yokai fort is built into the side of the mountains, 
+623	they have direct access to a network of caverns.
+624	I will punish those in charge of this nonsense
+625	You have released the Wood Sprites
+626	You will pay for interfering  with out plans! 
+627	I may have freed the Sprites, but it  won't stop this happening again
+628	I need to head deeper into the caverns and find out who's in charge.
+629	A6_M2: Comment 10
+630	The Ghostclaw have retreated further into their caverns
+631	They can't be this coordinated unless someone is in charge
+632	Time to hunt them down and exterminate their new leader
+633	First you take my secret ingredients, and now you destroy my broth! 
+634	Perhaps you should become my new secret ingredient. 
+635	Now to find the one in charge…
+636	I can't enter without first killing The Chef
+637	Algernon the Risen… I should've known it would be you
+638	You should not have interefered. Now pay the price!
+639	You shall raze no more
+640	A6_M4: Comment 1
+641	A6_M4: Comment 2
+642	A6_M4: Comment 3
+643	A6_M4: Comment 4
+644	A6_M4: Comment 5
+645	A6_M4: Comment 6
+646	A6_M4: Comment 7
+647	A6_M4: Comment 8
+648	A6_M4: Comment 9
+649	A6_M4: Comment 10
+650	A6_M5: Comment 1
+651	A6_M5: Comment 2
+652	A6_M5: Comment 3
+653	A6_M5: Comment 4
+654	A6_M5: Comment 5
+655	A6_M5: Comment 6
+656	A6_M5: Comment 7
+657	A6_M5: Comment 8
+658	A6_M5: Comment 9
+659	A6_M5: Comment 10
+660	A6_M6: Comment 1
+661	A6_M6: Comment 2
+662	A6_M6: Comment 3
+663	A6_M6: Comment 4
+664	A6_M6: Comment 5
+665	A6_M6: Comment 6
+666	A6_M6: Comment 7
+667	A6_M6: Comment 8
+668	A6_M6: Comment 9
+669	A6_M6: Comment 10
+670	A6_M7: Comment 1
+671	A6_M7: Comment 2
+672	A6_M7: Comment 3
+673	A6_M7: Comment 4
+674	A6_M7: Comment 5
+675	A6_M7: Comment 6
+676	A6_M7: Comment 7
+677	A6_M7: Comment 8
+678	A6_M7: Comment 9
+679	A6_M7: Comment 10
+680	A6_M8: Comment 1
+681	A6_M8: Comment 2
+682	A6_M8: Comment 3
+683	A6_M8: Comment 4
+684	A6_M8: Comment 5
+685	A6_M8: Comment 6
+686	A6_M8: Comment 7
+687	A6_M8: Comment 8
+688	A6_M8: Comment 9
+689	A6_M8: Comment 10
+690	A6_M9: Comment 1
+691	A6_M9: Comment 2
+692	A6_M9: Comment 3
+693	A6_M9: Comment 4
+694	A6_M9: Comment 5
+695	A6_M9: Comment 6
+696	A6_M9: Comment 7
+697	A6_M9: Comment 8
+698	A6_M9: Comment 9
+699	A6_M9: Comment 10
+700	(empty)
+701	(empty)
+702	(empty)
+703	(empty)
+704	(empty)
+705	(empty)
+706	(empty)
+707	(empty)
+708	(empty)
+709	(empty)
+710	A7_M1: Comment 1
+711	A7_M1: Comment 2
+712	A7_M1: Comment 3
+713	A7_M1: Comment 4
+714	A7_M1: Comment 5
+715	A7_M1: Comment 6
+716	A7_M1: Comment 7
+717	A7_M1: Comment 8
+718	A7_M1: Comment 9
+719	A7_M1: Comment 10
+720	A7_M2: Comment 1
+721	A7_M2: Comment 2
+722	A7_M2: Comment 3
+723	A7_M2: Comment 4
+724	A7_M2: Comment 5
+725	A7_M2: Comment 6
+726	A7_M2: Comment 7
+727	A7_M2: Comment 8
+728	A7_M2: Comment 9
+729	A7_M2: Comment 10
+730	A7_M3: Comment 1
+731	A7_M3: Comment 2
+732	A7_M3: Comment 3
+733	A7_M3: Comment 4
+734	A7_M3: Comment 5
+735	A7_M3: Comment 6
+736	A7_M3: Comment 7
+737	A7_M3: Comment 8
+738	A7_M3: Comment 9
+739	A7_M3: Comment 10
+740	A7_M4: Comment 1
+741	A7_M4: Comment 2
+742	A7_M4: Comment 3
+743	A7_M4: Comment 4
+744	A7_M4: Comment 5
+745	A7_M4: Comment 6
+746	A7_M4: Comment 7
+747	A7_M4: Comment 8
+748	A7_M4: Comment 9
+749	A7_M4: Comment 10
+750	A7_M5: Comment 1
+751	A7_M5: Comment 2
+752	A7_M5: Comment 3
+753	A7_M5: Comment 4
+754	A7_M5: Comment 5
+755	A7_M5: Comment 6
+756	A7_M5: Comment 7
+757	A7_M5: Comment 8
+758	A7_M5: Comment 9
+759	A7_M5: Comment 10
+760	A7_M6: Comment 1
+761	A7_M6: Comment 2
+762	A7_M6: Comment 3
+763	A7_M6: Comment 4
+764	A7_M6: Comment 5
+765	A7_M6: Comment 6
+766	A7_M6: Comment 7
+767	A7_M6: Comment 8
+768	A7_M6: Comment 9
+769	A7_M6: Comment 10
+770	A7_M7: Comment 1
+771	A7_M7: Comment 2
+772	A7_M7: Comment 3
+773	A7_M7: Comment 4
+774	A7_M7: Comment 5
+775	A7_M7: Comment 6
+776	A7_M7: Comment 7
+777	A7_M7: Comment 8
+778	A7_M7: Comment 9
+779	A7_M7: Comment 10
+780	A7_M8: Comment 1
+781	A7_M8: Comment 2
+782	A7_M8: Comment 3
+783	A7_M8: Comment 4
+784	A7_M8: Comment 5
+785	A7_M8: Comment 6
+786	A7_M8: Comment 7
+787	A7_M8: Comment 8
+788	A7_M8: Comment 9
+789	A7_M8: Comment 10
+790	A7_M9: Comment 1
+791	A7_M9: Comment 2
+792	A7_M9: Comment 3
+793	A7_M9: Comment 4
+794	A7_M9: Comment 5
+795	A7_M9: Comment 6
+796	A7_M9: Comment 7
+797	A7_M9: Comment 8
+798	A7_M9: Comment 9
+799	A7_M9: Comment 10
+800	(empty)
+801	(empty)
+802	(empty)
+803	(empty)
+804	(empty)
+805	(empty)
+806	(empty)
+807	(empty)
+808	(empty)
+809	(empty)
+810	A8_M1: Comment 1
+811	A8_M1: Comment 2
+812	A8_M1: Comment 3
+813	A8_M1: Comment 4
+814	A8_M1: Comment 5
+815	A8_M1: Comment 6
+816	A8_M1: Comment 7
+817	A8_M1: Comment 8
+818	A8_M1: Comment 9
+819	A8_M1: Comment 10
+820	A8_M2: Comment 1
+821	A8_M2: Comment 2
+822	A8_M2: Comment 3
+823	A8_M2: Comment 4
+824	A8_M2: Comment 5
+825	A8_M2: Comment 6
+826	A8_M2: Comment 7
+827	A8_M2: Comment 8
+828	A8_M2: Comment 9
+829	A8_M2: Comment 10
+830	A8_M3: Comment 1
+831	A8_M3: Comment 2
+832	A8_M3: Comment 3
+833	A8_M3: Comment 4
+834	A8_M3: Comment 5
+835	A8_M3: Comment 6
+836	A8_M3: Comment 7
+837	A8_M3: Comment 8
+838	A8_M3: Comment 9
+839	A8_M3: Comment 10
+840	A8_M4: Comment 1
+841	A8_M4: Comment 2
+842	A8_M4: Comment 3
+843	A8_M4: Comment 4
+844	A8_M4: Comment 5
+845	A8_M4: Comment 6
+846	A8_M4: Comment 7
+847	A8_M4: Comment 8
+848	A8_M4: Comment 9
+849	A8_M4: Comment 10
+850	A8_M5: Comment 1
+851	A8_M5: Comment 2
+852	A8_M5: Comment 3
+853	A8_M5: Comment 4
+854	A8_M5: Comment 5
+855	A8_M5: Comment 6
+856	A8_M5: Comment 7
+857	A8_M5: Comment 8
+858	A8_M5: Comment 9
+859	A8_M5: Comment 10
+860	A8_M6: Comment 1
+861	A8_M6: Comment 2
+862	A8_M6: Comment 3
+863	A8_M6: Comment 4
+864	A8_M6: Comment 5
+865	A8_M6: Comment 6
+866	A8_M6: Comment 7
+867	A8_M6: Comment 8
+868	A8_M6: Comment 9
+869	A8_M6: Comment 10
+870	A8_M7: Comment 1
+871	A8_M7: Comment 2
+872	A8_M7: Comment 3
+873	A8_M7: Comment 4
+874	A8_M7: Comment 5
+875	A8_M7: Comment 6
+876	A8_M7: Comment 7
+877	A8_M7: Comment 8
+878	A8_M7: Comment 9
+879	A8_M7: Comment 10
+880	A8_M8: Comment 1
+881	A8_M8: Comment 2
+882	A8_M8: Comment 3
+883	A8_M8: Comment 4
+884	A8_M8: Comment 5
+885	A8_M8: Comment 6
+886	A8_M8: Comment 7
+887	A8_M8: Comment 8
+888	A8_M8: Comment 9
+889	A8_M8: Comment 10
+890	A8_M9: Comment 1
+891	A8_M9: Comment 2
+892	A8_M9: Comment 3
+893	A8_M9: Comment 4
+894	A8_M9: Comment 5
+895	A8_M9: Comment 6
+896	A8_M9: Comment 7
+897	A8_M9: Comment 8
+898	A8_M9: Comment 9
+899	A8_M9: Comment 10

@@ -1,0 +1,66 @@
+STRING
+Description
+Description
+Offensive abilities aren't always the best approach. Try experimenting with Haunting Scream or Ninja Escape to control the field of battle.
+Steady Shot can be charged for a large increase in damage. Engage at distance to maximize your effectiveness when using this ability.
+Stinging Shot applies poison damage over time. Use it before engaging enemies to augment close range melee attack damage.
+Trap abilities can be placed instantly. Use them either to prepare an ambush or in the thick of combat.
+Firebomb Traps are perfect for dealing with large groups of weaker enemies.
+Skin of Stone provides a thick armor of rock, boosting your Defense to reduce incoming damage.
+Advanced training in Skin of Stone provides a chance to stun attackers.
+Iron Thorns damages attackers with a ring of deadly iron spikes.
+Iron Thorns proves the best defense is a very sharp poke in the eye. Use it when surrounded to maximize damage done.
+Advanced training in Iron Thorns adds a poison effect.
+Haunting Scream causes all nearby enemies to flee. Use it to buy some time to heal, or attack fleeing enemies.
+Chi Mend provides quick healing in battle, but the energy cost is high.
+Chi Prayer massively increases natural health regen for a time. Use just before entering combat for best results.
+Ring of Frost provides area damage and slowing effects. An ideal blend of attack and defense.
+Further training in Ring of Frost increases range and provides a short period of flame resistance.
+Rain of Blows unleashes a flurry of lightning fast attacks.
+Rain of Blows is ideal for maximizing damage against stronger enemies, like bosses.
+Hungry Cleave cuts a wide arc, doing damage to several enemies and stealing health.
+For a Prowess focused character, Hungry Cleave is a very effective means of healing.
+Meteor Rain inflicts blast damage over a large area.
+Meteor Rain summons a flaming meteor shower, blasting enemies with damage over time.
+Shockwave sends a wave of energy outward, damaging enemies and delivering knockback.
+Swath of Destruction cuts a path through enemy ranks - gain a better position or close distance.
+Swath of Destruction is a great combination of rapid movement and damage.
+Ninja Escape instantly teleports to the chosen position.
+Combine Ninja Escape with offensive abilities for a great counterattack.
+Your maximum health will increase with each level gained. Some items and abilities will raise it temporarily.
+Completing a mission will unlock harder difficulties, called "Threat Levels". Higher Threat Levels offer new enemies and greater rewards.
+If a mission is at the "Secure" Threat Level, enemies provide less resistance and Karma Shards are easier to collect. XP rewards are reduced, however.
+If a mission is at the "Overrun" Threat Level, enemies are most lethal - but the reward is much higher and WANTED enemies more common.
+WANTED enemies are elite Yokai with a price on their head. Hunt them down for special rewards, but take care...
+Mission too difficult? Try different combinations of abilities, improve your equipment, or revisit old missions to gain XP and level up.
+Gems provide varying special properties on equipment - they also determine the color of armor and weapon trails.
+Need some extra damage? Try eating some Spicy Sushi!
+Press the SHIFT key while attacking to hold your position.
+Right-click to use your primary ability or hit hotkeys to quickly use the corresponding ability.
+Karma Shards can be used by Akane Hunters as tradable currency or to master new abilities.
+Keep an eye on your Health gauge; when it's low - withdraw or fight to the death! 
+The game world is separated in to Areas. Each Area presents a different environment style, and introduces new enemies.
+Shigemori River borders a deep pine forest and runs alongside the Temple Highroad.
+If, for any reason, the mission is failed – you’ll have a chance to continue if you have enough karma shards.
+When defeated during a mission, you can use a Revival Prayer item to recover. It's cheaper than paying in Karma on the spot.
+Over time, mission Threat Levels will increase. Higher Threat Level means stronger enemies, higher mission rewards and better quality items.
+Traditional food and drink items provide passive effects for long durations. 
+Bosses use offensive and support abilities to augment regular attacks. Expect a more challenging battle when facing them.
+Focus on Fortitude at level up to increase your DEFENSE stat and survive longer in the thick of battle.
+Focus on Prowess at level up to increase your POWER stat and deliver greater damage.
+Focus on Cunning at level up to increase your SKILL stat and increase the chances of a critical melee strike.
+Critical hits do massive damage and often kill enemies in a single blow. Increase your SKILL stat to improve critical hit chance.
+Mastering dual wielding will provide greater attack speed, and thus more chances for enchants and elemental properties to trigger on hit.
+Mastering two-handed weapons provides a chance to stun enemies on regular melee attacks.
+The Order of Akane was formed centuries ago by the Red Girl. Through her bravery, resilience and wit a great demon wolf lord was banished.
+Centuries ago, a young girl took up her red cloak and strode bravely into a dark wood. 
+A great war raged for many years between the Order and the Yokai. From mountain top to deep below the earth, much blood was spilled by both sides.
+The Red Girl gave her life to achieve victory. In doing so, she had closed the earthly gate to hell.
+"Akane" refers to a specific type of plant. The roots of this plant, called "Madder" in English, are used to produce a specific red dye. 
+The Order is a templar-like group of demon hunters who fight to maintain the balance between humanity and demon-kind.
+A young Red Hunter has been dispatched as a scout to ascertain the true threat posed to Yomi Island.
+The blood of slain Yokai crystallizes, forming glowing red Karma Shards. 
+The power stored within Karma Shards allows Red Hunters to master almost super-human combat techniques.
+Not all Yokai are hostile. On the contrary, some are quite harmless - even helpful...
+Some wild animals have become corrupted by demonic influence and are very hostile as a result. 
+Yomi Island is inhabited by a mixture of the indigenous Ainu, Japanese and a whole bunch of angry Yokai.

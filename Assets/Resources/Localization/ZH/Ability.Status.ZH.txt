@@ -1,0 +1,197 @@
+INT	STRING	INT	INT	INT	FLOAT	INT	INT	INT	INT	STRING	STRING	INT	INT	INT	INT	INT	INT	INT
+ID	Name	ReplaceType	status type	Target	Bonus	Duration	Chance	ReplaceRule	EndCondition	Effect	Des	statusType	ContinueType	Tick	ActiveAtStart	elementType	IconIdx	UIPriority
+ID	Buff Name	ReplaceType	status type	Target	NOT USED	Duration	Chance	NOT USED	NOT USED	Effect	Buff Description	statusType	NOT USED	NOT USED	NOT USED	NOT USED	II	UIPriority
+40202	Swath of Destruction II Burning	0	0	0	0.05	3000	100	0	1	50202	Swath of Destruction II Burning	306	1	3	0	-1	33	0
+40203	Swath of Destruction III Burning	0	0	0	0.05	3000	100	0	1	50202	Swath of Destruction III Burning	306	1	3	0	-1	33	0
+40201	Swath of Destruction Knockback	0	0	0	2	400	100	0	1	50201	Swath of Destruction Knockback	304	0	0	0	-1	0	-1
+40401	Hungry Cleave I	0	0	0	0.5	0	100	0	0	50301	Hungry Cleave I	307	0	0	0	-1	5	0
+40402	Hungry Cleave II	0	0	0	0.5	0	100	0	0	50302	Hungry Cleave II	307	0	0	0	-1	5	0
+40403	Hungry Cleave III	0	0	0	0.5	0	100	0	0	50302	Hungry Cleave III	307	0	0	0	-1	5	0
+40501	Rain of Blows II and III Stun	0	0	0	0	2500	100	3	1	60005	Rain of Blows II and III Stun	300	0	0	0	-1	27	0
+40502	Rain of Blows III Burning	0	0	0	0	3000	100	0	0	50501	Rain of Blows III Burning	306	1	3	0	-1	33	0
+60007	Boss Slow	0	0	0	0.25	5000	100	0	0	61007	Slowed	302	0	0	0	-1	27	0
+40601	Shockwave Knockback	0	0	0	2	400	100	0	0	50001	Shockwave Knockback	304	0	0	0	-1	0	-1
+40002	Revival Knockback	0	0	0	2	400	100	0	0	50001	Revival Knockback	304	0	0	0	-1	0	-1
+40003	Shinigami Scroll Revival Knockback	0	0	0	2	400	100	0	0	50001	Shinigami Scroll Revival Knockback	304	0	0	0	-1	0	-1
+60701	Boss Meteor Rain	0	0	0	3	2100	100	0	0	91201	Boss Meteor Rain	0	0	0	0	-1	11	0
+40701	Meteor Rain I	0	0	0	3	2100	100	0	0	61201	Meteor Rain I	0	0	0	0	-1	11	0
+40702	Meteor Rain II	0	0	0	3	3100	100	0	0	61201	Meteor Rain II	0	0	0	0	-1	11	0
+40703	Meteor Rain III	0	0	0	3	3100	100	0	0	61201	Meteor Rain III	0	0	0	0	-1	11	0
+40704	Meteor Rain III Slow	0	0	0	3	3100	100	0	0	61202	Meteor Rain III Slow	303	0	0	0	-1	11	0
+40801	Skin of Stone I	3	0	2	0.2	10000	100	0	0	15001	Skin of Stone I	402	0	0	0	-1	31	0
+40802	Skin of Stone II	3	0	2	0.2	12000	100	0	0	16001+16002+16003+16004+15002	Skin of Stone II	402	0	0	0	-1	31	0
+40803	Skin of Stone III	3	0	2	0.2	12000	100	0	0	16001+16002+16003+16004+15002	Skin of Stone III	402	0	0	0	-1	31	0
+40804	Skin of Stone III  Add Stun to enemy	0	1	0	0	12000	100	0	0	16005	Skin of Stone III Stun	0	0	0	0	-1	0	-1
+40805	Skin of Stone III Stun	3	0	0	0	1500	3	0	0	60005	Skin of Stone III Stun	300	0	0	0	-1	27	0
+40901	Haunting Scream I	0	0	0	0	4000	100	0	0	61004	Haunting Scream I	308	0	0	0	-1	34	0
+40902	Haunting Scream II	0	0	0	0	5000	100	0	0	61004	Haunting Scream II	308	0	0	0	-1	34	0
+40903	Haunting Scream III	0	0	0	0	5000	100	0	0	61004	Haunting Scream III	308	0	0	0	-1	34	0
+41001	Iron Thorns I	3	1	0	0	10000	100	0	1	61101	Iron Thorns I	400	0	0	0	-1	35	0
+41002	Iron Thorns II	3	1	0	0	12000	100	0	1	61102	Iron Thorns II	400	0	0	0	-1	35	0
+41003	Iron Thorns III	3	1	0	0	12000	100	0	1	61104+61103	Iron Thorns III	400	0	0	0	-1	35	0
+41004	Iron Thorns III Poison	0	0	0	0.05	3000	20	0	0	61105	Iron Thorns III Poison	305	1	3	0	-1	32	0
+41101	Ring of Frost I	3	0	0	0.25	4000	100	0	0	51101	Ring of Frost I	302	0	0	0	-1	7	0
+41102	Ring of Frost II	3	0	0	0.25	5000	100	0	0	51101	Ring of Frost II	302	0	0	0	-1	7	0
+41103	Ring of Frost III	3	0	0	0.25	5000	100	0	0	51101	Ring of Frost III	302	0	0	0	-1	7	0
+41104	Ring of Frost III Chilled	3	0	2	0	7000	100	0	0	51102	Ring of Frost III Chilled	201	0	0	0	-1	14	0
+41201	Chi Prayer I	3	0	2	0.2	15000	100	0	0	51201	Chi Prayer I	109	0	0	0	-1	23	0
+41202	Chi Prayer II	3	0	2	0.2	15000	100	0	0	51202	Chi Prayer II	109	0	0	0	-1	23	0
+41203	Chi Prayer III	3	0	2	0.2	15000	100	0	0	51204+51203	Chi Prayer III	109	0	0	0	-1	23	0
+41301	Chi Mend I	3	0	2	0	1000	100	0	0	50401	Chi Mend I	110	0	0	0	-1	0	-1
+41302	Chi Mend II	3	0	2	0	10000	100	0	0	50403+50402	Chi Mend II	110	0	0	0	-1	0	-1
+41303	Chi Mend III	3	0	2	0	10000	100	0	0	50404+50403+50402	Chi Mend III	110	0	0	0	-1	0	-1
+41401	Steady Shot Stun	0	0	0	0	2000	100	0	0	60005	Steady Shot Stun	300	0	0	0	-1	27	0
+41402	Steady Shot III Slow	3	0	0	0.05	5000	100	0	0	51401	Steady Shot III Slow	303	1	3	0	-1	29	0
+41501	Stinging Shot I	0	0	0	0.05	5000	100	0	0	51501	Stinging Shot I	305	1	3	0	-1	32	0
+41502	Stinging Shot II and III	0	0	0	0.05	5000	100	0	0	51502	Stinging Shot II and III	305	1	3	0	-1	32	0
+41503	Stinging Shot III Fear	3	0	0	0.05	5000	100	0	0	51503	Stinging Shot III Fear	308	1	3	0	-1	34	0
+41601	Ninja Escape 2 and 3 Stun	0	0	0	0	1500	100	0	0	60005	Ninja Escape Stun	300	0	0	0	-1	27	0
+41602	Ninja Escape III Heal	3	0	2	0	1000	100	0	0	51602	Ninja Escape III Heal	110	0	0	0	-1	0	-1
+60013	ImpStoneSlowDamage	3	0	0	0.5	3000	100	0	0	50007+50009	ImpStoneSlowDamage	303	0	0	0	-1	29	0
+41701	Caltrops Slow	3	0	0	0.5	3000	100	0	0	51701	Caltrops Slow	303	0	0	0	-1	29	0
+41702	Caltrops 1, 2 and 3 Damage	0	0	0	0.5	3000	100	0	0	51702	Caltrops 1, 2 and 3 Damage	0	0	0	0	-1	0	-1
+41703	Caltrops 2 and 3 Fear Trigger	3	0	0	0	3000	25	0	0	51703	Caltrops 2 and 3 Fear Trigger	308	0	0	0	-1	3	-1
+41704	Caltrops 3 Poison	0	0	0	0.05	3000	25	0	0	51704	Caltrops 3 Poison	305	1	3	0	-1	32	0
+41705	Caltrops 2 and 3 Fear Effect	3	0	0	0	3000	15	0	0	51703	Caltrops 2 and 3 Fear Effect	308	0	0	0	-1	34	0
+41801	Firebomb Trap I	0	0	0	0.05	5000	100	0	0	50109	Firebomb Trap I	306	1	3	0	-1	11	0
+41802	Firebomb Trap II	0	0	0	0.05	5000	100	0	0	50109	Firebomb Trap II	306	1	3	0	-1	11	0
+41803	Firebomb Trap III	0	0	0	0.05	7000	100	0	0	50110	Firebomb Trap III	306	1	3	0	-1	11	0
+41901	Bear Trap Stun	0	0	0	0	3000	100	0	0	60005	Bear Trap Stun	300	0	0	0	-1	0	0
+40018	Revival Invulnerability	3	0	2	0	3000	100	0	0	50008	Revival Invulnerability	0	0	0	0	-1	36	0
+40019	Shinigami Scroll Revival Invulnerability	3	0	2	0	7000	100	0	0	50008	Shinigami Scroll Revival Invulnerability	0	0	0	0	-1	36	0
+40301	Seeing Red I	3	0	2	0	10000	100	0	0	40301	Seeing Red I	111	0	0	0	-1	17	0
+40302	Seeing Red II	3	0	2	0	12000	100	0	0	40302	Seeing Red II	111	0	0	0	-1	17	0
+40303	Seeing Red III	3	0	2	0	12000	100	0	0	40302+40303	Seeing Red III	111	0	0	0	-1	17	0
+42101	Dark Hunter I	3	0	2	0	10000	100	0	0	15102+15101	Dark Hunter	112	0	0	0	-1	19	0
+42102	Dark Hunter II	3	0	2	0	10000	100	0	0	15103+15102+15101	Dark Hunter	112	0	0	0	-1	19	0
+42103	Dark Hunter III	3	0	2	0	10000	100	0	0	15104+15103+15102+15101	Dark Hunter	112	0	0	0	-1	19	0
+50101	Inugami	0	0	2	0	-1	100	0	0	70101	Dog spirit. Increases Power.	500	0	0	0	-1	17	0
+50201	Maneki Neko	0	0	2	0	-1	100	0	0	70201	Cat spirit. Increases Skill.	501	0	0	0	-1	19	0
+50301	Yosuzume	0	0	2	0	-1	100	0	0	70301	Bird spirit. Increases Energy regen.	502	0	0	0	-1	22	0
+50401	Nishikigoi	0	0	2	0	-1	100	0	0	70401	Fish spirit. Increases Health regen.	503	0	0	0	-1	23	0
+50501	Nihonzaru	0	0	2	0	-1	100	0	0	70501	Monkey spirit. Increases max Energy.	504	0	0	0	-1	21	0
+50601	Ishigame	0	0	2	0	-1	100	0	0	70601	Turtle spirit. Increases Defense.	505	0	0	0	-1	18	0
+50701	Kabuki Kozo	0	0	2	0	-1	100	0	0	70701	Yokai spirit. Increases Attack Speed.	506	0	0	0	-1	24	0
+51101	Golden Inugami	0	1	2	0	-1	100	0	0	71101+71103	Dog spirit. Increases Power.	500	0	0	0	-1	0	0
+51102	Golden Inugami	0	1	2	0	-1	100	0	0	71104	Dog spirit. Sunburst: Chance to explode when attacked. 	500	0	0	0	-1	0	0
+51103	Sunburst Explosion	0	1	0	0	-1	3	0	0	71102	Sunburst Explosion!	500	0	0	0	-1	0	0
+51201	Singularity Neko	0	1	2	0	-1	100	0	0	71201+71203+71204	Cat spirit. Phased Out: Chance of invincibility when attacked. Increases Critical Damage and Skill.	501	0	0	0	-1	0	0
+50801	Pen-Gin the Efficient	0	0	2	0	-1	100	0	0	70801+70802+70803+70804	Penguin spirit. Prepared For Anything: Increases max Energy and Health. Grants Frost immunity. Increases Defense.	501	0	0	0	-1	0	0
+50901	Karakuri Gaben	0	0	2	0	-1	100	0	0	70901	Yokai spirit. ???	506	0	0	0	-1	0	0
+80101	Red Cap's Hooded Cloak	0	0	2	0	-1	100	0	0	80101	When health is below 8% of maximum, health and energy regen are increased.	0	0	0	0	-1	0	0
+80102	Stand and Fight	3	0	2	0	3000	100	0	0	80102+80103	When health is below 8% of maximum, health and energy regen are increased.	0	0	0	0	-1	0	0
+80201	Clever Huntsman's Axe	0	0	2	0	-1	100	0	0	80201	Attack and movement speeds increase by 5% when energy is full.	0	0	0	0	-1	0	0
+80202	Swift and True	3	0	2	0	3000	100	0	0	80202+80203	Attack and movement speeds increase by 5% when energy is full.	0	0	0	0	-1	0	0
+80301	Balance Seeker	3	0	2	0	-1	100	0	0	80301	Lowest base stat will be raised by 10% of your highest base stat.	0	0	0	0	-1	0	0
+80401	Blend in with the Pack	0	0	2	0	-1	100	0	0	80401	Enemy alert distance reduced, allowing you to get closer without being detected.	0	0	0	0	-1	0	0
+70101	Raging I	0	0	2	0	-1	100	0	0	10101	Small Damage Boost	0	0	0	0	-1	3	0
+70102	Raging II	0	0	2	0	-1	100	0	0	10102	Moderate Damage Boost	0	0	0	0	-1	3	0
+70103	Raging III	0	0	2	0	-1	100	0	0	10103	Large Damage Boost	0	0	0	0	-1	3	0
+70201	Hyper I	0	0	2	0	-1	100	0	0	10201	Small Max Energy Boost	0	0	0	0	-1	21	0
+70202	Hyper II	0	0	2	0	-1	100	0	0	10202	Moderate Max Energy Boost	0	0	0	0	-1	21	0
+70203	Hyper III	0	0	2	0	-1	100	0	0	10203	Large Max Energy Boost	0	0	0	0	-1	21	0
+70301	Focused I	0	0	2	0	-1	100	0	0	10301	Small Energy Regen Boost	0	0	0	0	-1	22	0
+70302	Focused II	0	0	2	0	-1	100	0	0	10302	Moderate Energy Regen Boost	0	0	0	0	-1	22	0
+70303	Focused III	0	0	2	0	-1	100	0	0	10303	Large Energy Regen Boost	0	0	0	0	-1	22	0
+70401	Healthy I	0	0	2	0	-1	100	0	0	10401	Small Max Health Boost	0	0	0	0	-1	37	0
+70402	Healthy II	0	0	2	0	-1	100	0	0	10402	Moderate Max Health Boost	0	0	0	0	-1	37	0
+70403	Healthy III	0	0	2	0	-1	100	0	0	10403	Large Max Health Boost	0	0	0	0	-1	37	0
+70501	HPRegenBonus	0	0	2	0	-1	100	0	0	10501	HPRegenBonus	0	0	0	0	-1	23	0
+70601	Fortified I	0	0	2	0	-1	100	0	0	10601	Small Armor Boost	0	0	0	0	-1	20	0
+70602	Fortified II	0	0	2	0	-1	100	0	0	10602	Moderate Armor Boost	0	0	0	0	-1	20	0
+70603	Fortified III	0	0	2	0	-1	100	0	0	10603	High Armor Boost	0	0	0	0	-1	20	0
+70701	AttackSpeedBonus	0	0	2	0	5000	100	0	0	10701	AttackSpeedBonus	0	0	0	0	-1	24	0
+70801	Nimble I	0	0	2	0	-1	100	0	0	10801	Small Move Speed Boost	0	0	0	0	-1	25	0
+70802	Nimble II	0	0	2	0	-1	100	0	0	10802	Moderate Move Speed Boost	0	0	0	0	-1	25	0
+70803	Nimble III	0	0	2	0	-1	100	0	0	10803	Large Move Speed Boost	0	0	0	0	-1	25	0
+70901	Fur-Lined	0	0	2	0	5000	100	0	0	10901	Frost Resistance	0	0	0	0	-1	15	0
+71001	Chilled	0	0	2	0	5000	100	0	0	11001	Flame Resistance	0	0	0	0	-1	14	0
+71101	Plated	0	0	2	0	5000	100	0	0	11101	Explosion Resistance	0	0	0	0	-1	13	0
+71201	Insulated	0	0	2	0	5000	100	0	0	11201	Storm Resistance	0	0	0	0	-1	16	0
+71301	Bonus Frost	0	0	2	0	5000	100	0	0	11301	Frost Damage Boost	0	0	0	0	-1	7	0
+71401	Bonus Flame	0	0	2	0	5000	100	0	0	11401	Flame Damage Boost	0	0	0	0	-1	11	0
+71501	Bonus Explosion	0	0	2	0	5000	100	0	0	11501	Explosion Damage Boost	0	0	0	0	-1	12	0
+71601	Bonus Storm	0	0	2	0	5000	100	0	0	11601	Storm Damage Boost	0	0	0	0	-1	4	0
+71701	Precision I	0	0	2	0	-1	100	0	0	11701	Small Crit Chance Boost	0	0	0	0	-1	0	0
+71702	Precision II	0	0	2	0	-1	100	0	0	11702	Moderate Crit Chance Boost	0	0	0	0	-1	0	0
+71703	Precision III	0	0	2	0	-1	100	0	0	11703	Large Crit Chance Boost	0	0	0	0	-1	0	0
+71801	KillComboBuff	0	0	2	0	5000	100	0	0	11801	KillComboBuff	0	0	0	0	-1	26	0
+71901	Brutal I	0	0	0	0	1500	10	0	0	60005	Slight Chance to Stun	300	0	0	0	-1	17	0
+71902	Brutal II	0	0	0	0	2000	15	0	0	60005	Moderate Chance to Stun	300	0	0	0	-1	17	0
+71903	Brutal III	0	0	0	0	2500	20	0	0	60005	High Chance to Stun	300	0	0	0	-1	17	0
+72001	Storm I	0	0	0	0	1000	10	0	0	60005	Slight Chance to Stun	300	0	0	0	-1	28	0
+72002	Storm II	0	0	0	0	1500	15	0	0	60005	Moderate Chance to Stun	300	0	0	0	-1	28	0
+72003	Storm III	0	0	0	0	2000	20	0	0	60005	High Chance to Stun	300	0	0	0	-1	28	0
+72101	Slow	3	0	0	0	5000	100	0	0	12101	Slow	303	0	0	0	-1	0	0
+72201	Frost I	3	0	0	0	3000	50	0	0	12201	Slight Chance to Slow	303	0	0	0	-1	7	0
+72202	Frost II	3	0	0	0	4000	60	0	0	12202	Moderate Chance to Slow	303	0	0	0	-1	7	0
+72203	Frost III	3	0	0	0	5000	70	0	0	12203	High Chance to Slow	303	0	0	0	-1	7	0
+72301	Knockback	0	0	0	0	400	100	0	0	12301	Knockback	304	0	0	0	-1	0	0
+72401	Blast I	0	0	0	0	400	50	0	0	50001	Slight Chance to Knockback	304	0	0	0	-1	12	0
+72402	Blast II	0	0	0	0	400	60	0	0	50001	Moderate Chance to Knockback	304	0	0	0	-1	12	0
+72403	Blast III	0	0	0	0	400	70	0	0	50001	High Chance to Knockback	304	0	0	0	-1	12	0
+72501	DoTPoison	0	0	0	0	5000	100	0	0	12501	DoTPoison	305	0	0	0	-1	32	0
+72601	Flame I	0	0	0	0	2000	20	0	0	12601	Slight Chance to Burn DoT	306	0	0	0	-1	33	0
+72602	Flame II	0	0	0	0	3000	30	0	0	12602	Moderate Chance to Burn DoT	306	0	0	0	-1	33	0
+72603	Flame III	0	0	0	0	4000	40	0	0	12603	High Chance to Burn DoT	306	0	0	0	-1	33	0
+72701	Thirsty I	0	0	2	0	1	20	0	0	12701	Slight Chance to Steal HP	307	0	0	0	-1	5	0
+72702	Thirsty II	0	0	2	0	1	30	0	0	12702	Moderate Chance to Steal HP	307	0	0	0	-1	5	0
+72703	Thirsty III	0	0	2	0	1	40	0	0	12703	High Chance to Steal HP	307	0	0	0	-1	5	0
+72801	Fear	0	0	0	0	5000	100	0	0	12801	Fear	308	0	0	0	-1	34	0
+72901	DmgShieldThorn	0	1	0	0	5000	100	0	0	12901	DmgShieldThorn	400	0	0	0	-1	35	0
+73001	DmgShieldStorm	0	1	0	0	5000	100	0	0	13001	DmgShieldStorm	401	0	0	0	-1	4	0
+73101	Shield	2	3	0	0	5000	100	0	0	13101	Shield	402	0	0	0	-1	31	0
+73201	Invulnerable	0	0	2	0	5000	100	0	0	13201	Invulnerable	403	0	0	0	-1	36	0
+75001	Spicy Sushi	3	3	2	0	1800000	100	0	0	14101	A spicy kick, gives a small boost to POWER (30 mins)	0	0	0	0	-1	17	0
+75101	Caviar Onigiri	3	3	2	0	1800000	100	0	0	14201	Fresh treat, gives a small boost to SKILL (30 mins)	0	0	0	0	-1	19	0
+75201	Mint Tofu	3	3	2	0	1800000	100	0	0	14301	Fragrant snack, gives a small boost to DEFENSE (30 mins)	0	0	0	0	-1	18	0
+75301	Garlic Snapper	3	3	2	0	1800000	100	0	0	14401	Herb baked fish, gives a small boost to Movement speed (30 mins)	0	0	0	0	-1	25	0
+75401	Ginseng Soba	3	3	2	0	1800000	100	0	0	14501	Chilled noodle, gives a small boost to Critical Chance (30 mins)	0	0	0	0	-1	0	0
+75501	Yomi Sake	3	3	2	0	1800000	100	0	0	14601	Local rice wine, gives a small boost to XP earnings (30 mins)	0	0	0	0	-1	0	0
+75801	Plum Wine	3	3	2	0	1800000	100	0	0	14901	Sweet fruit wine, gives a small boost to loot drop quality (30 mins)	0	0	0	0	-1	0	0
+75601	Green Tea	3	3	2	0	1800000	100	0	0	14701	Warm and soothing, gives a small boost to Energy regen (30 mins)	0	0	0	0	-1	22	0
+75701	Red Tea	3	3	2	0	1800000	100	0	0	14801	Slightly bitter but tasty, gives a small boost to HP regen (30 mins)	0	0	0	0	-1	23	0
+75002	Sea Urchin Sushi	3	3	2	0	3600000	100	0	0	14102	Local delicacy, gives a large boost to POWER (1 hour)	0	0	0	0	-1	17	0
+75102	Kagami Mochi	3	3	2	0	3600000	100	0	0	14202	Traditional treat, gives a large boost to SKILL (1 hour)	0	0	0	0	-1	19	0
+75202	Dorayaki	3	3	2	0	3600000	100	0	0	14302	Red bean confectionary, gives a large boost to DEFENSE (1 hour)	0	0	0	0	-1	18	0
+75302	Fugu Tempura	3	3	2	0	3600000	100	0	0	14402	Carefully prepared, gives a large boost to Movement speed (1 hour)	0	0	0	0	-1	25	0
+75402	Sukiyaki	3	3	2	0	3600000	100	0	0	14502	Simmering hot pot, gives a large boost to Critical Chance (1 hour)	0	0	0	0	-1	0	0
+75502	Shochu 	3	3	2	0	3600000	100	0	0	14602	Earthy distilled beverage, gives a large boost to XP earnings (1 hour)	0	0	0	0	-1	0	0
+75802	Awamori	3	3	2	0	3600000	100	0	0	14902	Aged rice wine, gives a large boost to loot drop quality (1 hour)	0	0	0	0	-1	0	0
+75602	Hojicha Tea	3	3	2	0	3600000	100	0	0	14702	Charcoal roasted tea, gives a large boost to Energy regen (1 hour)	0	0	0	0	-1	22	0
+75702	Chrysanthemum Tea	3	3	2	0	3600000	100	0	0	14802	Colorful and fragrant, gives a large boost to HP regen (1 hour)	0	0	0	0	-1	23	0
+101001	1H Weapon Mastery I	0	0	2	0	-1	100	0	0	101001	Increase Critical Damage	0	0	0	0	-1	17	0
+101002	1H Weapon Mastery III	0	0	2	0	-1	100	0	0	101002	Increase Critical Damage	0	0	0	0	-1	17	0
+101003	1H Weapon Mastery III	0	0	2	0	-1	100	0	0	101003	Increase Critical Damage	0	0	0	0	-1	17	0
+101004	1H Weapon Mastery IV	0	0	2	0	-1	100	0	0	101004	Increase Critical Damage	0	0	0	0	-1	17	0
+101005	1H Weapon Mastery V	0	0	2	0	-1	100	0	0	101005	Increase Critical Damage	0	0	0	0	-1	17	0
+102001	Dual Weapon Mastery I	0	0	2	0	-1	100	0	0	102001	Increases Attack Speed	0	0	0	0	-1	24	0
+102002	Dual Weapon Mastery II	0	0	2	0	-1	100	0	0	102002	Increases Attack Speed	0	0	0	0	-1	24	0
+102003	Dual Weapon Mastery III	0	0	2	0	-1	100	0	0	102003	Increases Attack Speed	0	0	0	0	-1	24	0
+102004	Dual Weapon Mastery IV	0	0	2	0	-1	100	0	0	102004	Increases Attack Speed	0	0	0	0	-1	24	0
+102005	Dual Weapon Mastery V	0	0	2	0	-1	100	0	0	102005	Increases Attack Speed	0	0	0	0	-1	24	0
+103001	2H Weapon Mastery I	0	2	0	0	-1	100	0	0	103001	Increase Stun Chance	0	0	0	0	-1	27	0
+103002	2H Weapon Mastery III	0	2	0	0	-1	100	0	0	103002	Increase Stun Chance	0	0	0	0	-1	27	0
+103003	2H Weapon Mastery III	0	2	0	0	-1	100	0	0	103003	Increase Stun Chance	0	0	0	0	-1	27	0
+103004	2H Weapon Mastery IV	0	2	0	0	-1	100	0	0	103004	Increase Stun Chance	0	0	0	0	-1	27	0
+103005	2H Weapon Mastery V	0	2	0	0	-1	100	0	0	103005	Increase Stun Chance	0	0	0	0	-1	27	0
+104001	Light Armor Mastery I	0	0	2	0	-1	100	0	0	104001	Increase Movement Speed	0	0	0	0	-1	25	0
+104002	Light Armor Mastery II	0	0	2	0	-1	100	0	0	104002	Increase Movement Speed	0	0	0	0	-1	25	0
+104003	Light Armor Mastery III	0	0	2	0	-1	100	0	0	104003	Increase Movement Speed	0	0	0	0	-1	25	0
+104004	Light Armor Mastery IV	0	0	2	0	-1	100	0	0	104004	Increase Movement Speed	0	0	0	0	-1	25	0
+104005	Light Armor Mastery V	0	0	2	0	-1	100	0	0	104005	Increase Movement Speed	0	0	0	0	-1	25	0
+105001	Medium Armor Mastery I	0	0	2	0	-1	100	0	0	105001	Increase Energy Regen	0	0	0	0	-1	22	0
+105002	Medium Armor Mastery II	0	0	2	0	-1	100	0	0	105002	Increase Energy Regen	0	0	0	0	-1	22	0
+105003	Medium Armor Mastery III	0	0	2	0	-1	100	0	0	105003	Increase Energy Regen	0	0	0	0	-1	22	0
+105004	Medium Armor Mastery IV	0	0	2	0	-1	100	0	0	105004	Increase Energy Regen	0	0	0	0	-1	22	0
+105005	Medium Armor Mastery V	0	0	2	0	-1	100	0	0	105005	Increase Energy Regen	0	0	0	0	-1	22	0
+106001	Heavy Armor Mastery I	0	0	2	0	-1	100	0	0	106001	Increase Health Regen	0	0	0	0	-1	23	0
+106002	Heavy Armor Mastery II	0	0	2	0	-1	100	0	0	106002	Increase Health Regen	0	0	0	0	-1	23	0
+106003	Heavy Armor Mastery III	0	0	2	0	-1	100	0	0	106003	Increase Health Regen	0	0	0	0	-1	23	0
+106004	Heavy Armor Mastery IV	0	0	2	0	-1	100	0	0	106004	Increase Health Regen	0	0	0	0	-1	23	0
+106005	Heavy Armor Mastery V	0	0	2	0	-1	100	0	0	106005	Increase Health Regen	0	0	0	0	-1	23	0
+113001	Mastery 2H Weapon 1 Stun	0	0	0	0	1500	3	0	0	60005	Mastery 2H Weapon 1 Stun	300	0	0	0	-1	0	0
+113002	Mastery 2H Weapon 2 Stun	0	0	0	0	1500	6	0	0	60005	Mastery 2H Weapon 2 Stun	300	0	0	0	-1	0	0
+113003	Mastery 2H Weapon 3 Stun	0	0	0	0	1500	9	0	0	60005	Mastery 2H Weapon 3 Stun	300	0	0	0	-1	0	0
+113004	Mastery 2H Weapon 4 Stun	0	0	0	0	1500	12	0	0	60005	Mastery 2H Weapon 4 Stun	300	0	0	0	-1	0	0
+113005	Mastery 2H Weapon 5 Stun	0	0	0	0	1500	15	0	0	60005	Mastery 2H Weapon 5 Stun	300	0	0	0	-1	0	0

@@ -1,0 +1,36 @@
+INT	STRING	STRING	STRING	INT
+ID	Title	Description1	Description2	MapID
+ID	Title	Description1	Description2	MapID
+6001	New Mission Unlocked	A new Mission in the Shigemori River has appeared	Wicked Beasts	5011
+6002	New Mission Unlocked	A new Mission in the Shigemori River has appeared	Rotten Core	5111
+6003	New Mission Unlocked	A new Mission in the Shigemori River has appeared	Blind Rage	5121
+6004	New Mission Unlocked	A new Mission in the Shigemori River has appeared	Raging Ushi Oni	5141
+6005	Area 2 Unlocked	A new Mission in the Jawbone Ravine has appeared	The Outcast	5131
+6006	New Mission Unlocked	A new Mission in the Jawbone Ravine has appeared	Stirring Spirits	5211
+6007	New Mission Unlocked	A new Mission in the Jawbone Ravine has appeared	Stolen Remains	5221
+6008	New Mission Unlocked	A new Mission in the Jawbone Ravine has appeared	Shade of Moroko	5241
+6009	Area 3 Unlocked	A new Mission in the Bloodroot Cemetery has appeared	Hedge Trimming	5231
+6010	New Mission Unlocked	A new Mission in the Bloodroot Cemetery has appeared	Graverobbers	5311
+6011	New Mission Unlocked	A new Mission in the Bloodroot Cemetery has appeared	Without a Head	5321
+6012	New Mission Unlocked	A new Mission in the Bloodroot Cemetery has appeared	Gashadokuro!	5341
+6013	Area 4 Unlocked	A new Mission in the Bloodfang Fort has appeared	Going Under	5331
+6014	New Mission Unlocked	A new Mission in the Bloodfang Fort has appeared	Don't Dawdle	5411
+6015	New Mission Unlocked	A new Mission in the Bloodfang Fort has appeared	Secret Entrance	5421
+6016	New Mission Unlocked	A new Mission in the Bloodfang Fort has appeared	Big, Bad, Bloodfang	5441
+6017	New Area Unlocked	A new Mission in the Shivering Pines has appeared	Early Winter	5431
+6018	New Mission Unlocked	A new Mission in the Shivering Pines has appeared	Creeping Cold	5511
+6019	New Mission Unlocked	A new Mission in the Shivering Pines has appeared	M2.5	5521
+6020	New Mission Unlocked	A new Mission in the Shivering Pines has appeared	Heart of Ice	5541
+6021	New Area Unlocked	A new Mission in the Yurei Caverns has appeared	Kidnappers!	5531
+6022	New Mission Unlocked	A new Mission in the Yurei Caverns has appeared	A Little Problem	5611
+6023	New Mission Unlocked	A new Mission in the Yurei Caverns has appeared	M2.5	5621
+6024	New Mission Unlocked	A new Mission in the Yurei Caverns has appeared	The Risen One	5641
+6025	New Area Unlocked	A new Mission in the Melon Fields has appeared	A Strange Crop	5631
+6026	New Mission Unlocked	A new Mission in the Melon Fields has appeared	Fallen Hero	5711
+6027	New Mission Unlocked	A new Mission in the Melon Fields has appeared	M2.5	5721
+6028	New Mission Unlocked	A new Mission in the Melon Fields has appeared	Reap As You Sow	5741
+6029	New Area Unlocked	A new Mission in the Temple Depths has appeared	Knock, Knock	5731
+6030	New Mission Unlocked	A new Mission in the Temple Depths has appeared	Missing in Action	5811
+6031	New Mission Unlocked	A new Mission in the Temple Depths has appeared	M2.5	5821
+6032	New Mission Unlocked	A new Mission in the Temple Depths has appeared	What Lies Below	5841
+6033	True Hunter	The Yomi islands have been cleansed		5831

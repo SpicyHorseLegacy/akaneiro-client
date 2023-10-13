@@ -1,0 +1,15 @@
+INT	STRING	STRING	STRING	INT	INT
+ID	Title	Description1	Description2	Level	class
+ID	Title	Description1	Description2	Level	class
+2001	New Spirit Helper Available!	Inugami the Dog Spirit - Summon to increase Power!	Speak to Summoner Shimizu in the Village to learn more.	2	1
+2002	New Spirit Helper Available!	Maneki Neko the Cat Spirit - Summon to increase Skill!	Speak to Summoner Shimizu in the Village to learn more.	3	1
+2004	New Spirit Helper Available!	Nishikigoi the Fish Spirit - Summon to increase Health Regen!	Speak to Summoner Shimizu in the Village to learn more.	4	1
+2005	New Spirit Helper Available!	Ishigame the Turtle Spirit - Summon to increase Defense!	Speak to Summoner Shimizu in the Village to learn more.	5	1
+2003	New Spirit Helper Available!	Yosuzume the Bird Spirit - Summon to increase Energy Regen!	Speak to Summoner Shimizu in the Village to learn more.	6	1
+2006	New Spirit Helper Available!	Nihonzaru the Monkey Spirit - Summon to increase max Energy levels!	Speak to Summoner Shimizu in the Village to learn more.	7	1
+2007	New Spirit Helper Available!	Kabuki Kozo the Yokai Spirit - Summon to increase Attack Speed!	Speak to Summoner Shimizu in the Village to learn more.	8	1
+2008	New Spirit Helper Available!	Itachi  the Weasel Spirit - Summon to increase Blast Immunity!	Speak to Summoner Shimizu in the Village to learn more.	9	1
+2009	New Spirit Helper Available!	Karamu the Phoenix Spirit - Summon to increase Flame immunity!	Speak to Summoner Shimizu in the Village to learn more.	10	1
+2010	New Spirit Helper Available!	Kitsune the Fox Spirit - Summon to increase Storm immunity!	Speak to Summoner Shimizu in the Village to learn more.	11	1
+2011	New Spirit Helper Available!	Chibipan the Panther Spirit - Summon to increase Critical Damage!	Speak to Summoner Shimizu in the Village to learn more.	12	1
+2012	New Spirit Helper Available!	Kanashimi Otome the Demon Spirit.  - Summon to increase Power and chance to Explode!	Speak to Summoner Shimizu in the Village to learn more.	13	1

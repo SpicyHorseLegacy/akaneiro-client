@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 475d5db04498ab343a2f9c87a288034d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MySpawner: {instanceID: 0}
+  - TakeDamageEffect: {instanceID: 0}
+  - IdleAnim: {instanceID: 0}
+  - AttackIdleAnim: {instanceID: 0}
+  - RunAnim: {instanceID: 0}
+  - WalkAnim: {instanceID: 0}
+  - TurnLeftAnim: {instanceID: 0}
+  - TurnRightAnim: {instanceID: 0}
+  - DamageAnim: {instanceID: 0}
+  - DeathAnim: {instanceID: 0}
+  - StunAnim: {instanceID: 0}
+  - IdleSound: {instanceID: 0}
+  - AttackSound: {instanceID: 0}
+  - DeathSound: {instanceID: 0}
+  - PainSound: {instanceID: 0}
+  - BodyFallSound: {instanceID: 0}
+  - CommonKilledSound: {instanceID: 0}
+  - DeathParticle: {instanceID: 0}
+  - DeathEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}

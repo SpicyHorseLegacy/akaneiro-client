@@ -1,0 +1,243 @@
+INT	INT	STRING	INT	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+ID	IconID+1	Name	Rent	Description	Buff	EffectIdx	LevelReq	IsShopShow	Level	XPNeed	1Hour	IsCrystal	1Day	IsCrystal	1Week	IsCrystal	SHType
+ID	IconID+1	Name	Shards	Short Description	Buff Description	Status ID in Ability.xlsx	LevelReq	IsShopShow	Level	XPNeed	Cost	IsCrystal	Cost	IsCrystal	Cost	IsCrystal	SHType
+1001	3	Inugami	250	Power	Dog spirit. Increases Power 2%	50101	2	1	1	0	250	0	1250	0	78	1	1000
+1002	3	Inugami	250	Power	Dog spirit. Increases Power 3%	50102	2	1	2	1664	250	0	1250	0	78	1	1000
+1003	3	Inugami	250	Power	Dog spirit. Increases Power 4%	50103	2	1	3	7808	250	0	1250	0	78	1	1000
+1004	3	Inugami	250	Power	Dog spirit. Increases Power 5%	50104	2	1	4	22498	250	0	1250	0	78	1	1000
+1005	3	Inugami	250	Power	Dog spirit. Increases Power 6%	50105	2	1	5	39862	250	0	1250	0	78	1	1000
+1006	3	Inugami	250	Power	Dog spirit. Increases Power 7%	50106	2	1	6	57866	250	0	1250	0	78	1	1000
+1007	3	Inugami	250	Power	Dog spirit. Increases Power 8%	50107	2	1	7	85296	250	0	1250	0	78	1	1000
+1008	3	Inugami	250	Power	Dog spirit. Increases Power 9%	50108	2	1	8	117040	250	0	1250	0	78	1	1000
+1009	3	Inugami	250	Power	Dog spirit. Increases Power 10%	50109	2	1	9	149860	250	0	1250	0	78	1	1000
+1010	3	Inugami	250	Power	Dog spirit. Increases Power 11%	50110	2	1	10	195726	250	0	1250	0	78	1	1000
+1011	3	Inugami	250	Power	Dog spirit. Increases Power 12%	50111	2	1	11	243084	250	0	1250	0	78	1	1000
+1012	3	Inugami	250	Power	Dog spirit. Increases Power 13%	50112	2	1	12	291932	250	0	1250	0	78	1	1000
+1013	3	Inugami	250	Power	Dog spirit. Increases Power 14%	50113	2	1	13	345518	250	0	1250	0	78	1	1000
+1014	3	Inugami	250	Power	Dog spirit. Increases Power 15%	50114	2	1	14	413084	250	0	1250	0	78	1	1000
+1015	3	Inugami	250	Power	Dog spirit. Increases Power 16%	50115	2	1	15	482646	250	0	1250	0	78	1	1000
+2001	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 2%	50201	3	1	1	0	320	0	1600	0	100	1	2000
+2002	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 3%	50202	3	1	2	1664	320	0	1600	0	100	1	2000
+2003	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 4%	50203	3	1	3	7808	320	0	1600	0	100	1	2000
+2004	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 5%	50204	3	1	4	22498	320	0	1600	0	100	1	2000
+2005	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 6%	50205	3	1	5	39862	320	0	1600	0	100	1	2000
+2006	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 7%	50206	3	1	6	57866	320	0	1600	0	100	1	2000
+2007	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 8%	50207	3	1	7	85296	320	0	1600	0	100	1	2000
+2008	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 9%	50208	3	1	8	117040	320	0	1600	0	100	1	2000
+2009	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 10%	50209	3	1	9	149860	320	0	1600	0	100	1	2000
+2010	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 11%	50210	3	1	10	195726	320	0	1600	0	100	1	2000
+2011	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 12%	50211	3	1	11	243084	320	0	1600	0	100	1	2000
+2012	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 13%	50212	3	1	12	291932	320	0	1600	0	100	1	2000
+2013	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 14%	50213	3	1	13	345518	320	0	1600	0	100	1	2000
+2014	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 15%	50214	3	1	14	413084	320	0	1600	0	100	1	2000
+2015	2	Maneki Neko	320	Skill	Cat spirit. Increases Skill 16%	50215	3	1	15	482646	320	0	1600	0	100	1	2000
+3001	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 10%	50301	6	1	1	0	1200	0	6000	0	375	1	3000
+3002	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 11%	50302	6	1	2	1664	1200	0	6000	0	375	1	3000
+3003	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 12%	50303	6	1	3	7808	1200	0	6000	0	375	1	3000
+3004	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 13%	50304	6	1	4	22498	1200	0	6000	0	375	1	3000
+3005	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 14%	50305	6	1	5	39862	1200	0	6000	0	375	1	3000
+3006	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 15%	50306	6	1	6	57866	1200	0	6000	0	375	1	3000
+3007	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 16%	50307	6	1	7	85296	1200	0	6000	0	375	1	3000
+3008	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 17%	50308	6	1	8	117040	1200	0	6000	0	375	1	3000
+3009	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 18%	50309	6	1	9	149860	1200	0	6000	0	375	1	3000
+3010	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 19%	50310	6	1	10	195726	1200	0	6000	0	375	1	3000
+3011	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 20%	50311	6	1	11	243084	1200	0	6000	0	375	1	3000
+3012	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 21%	50312	6	1	12	291932	1200	0	6000	0	375	1	3000
+3013	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 22%	50313	6	1	13	345518	1200	0	6000	0	375	1	3000
+3014	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 23%	50314	6	1	14	413084	1200	0	6000	0	375	1	3000
+3015	1	Yosuzume	1200	Energy Regen	Bird spirit. Increases Energy regen 24%	50315	6	1	15	482646	1200	0	6000	0	375	1	3000
+4001	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 2%	50401	4	1	1	0	500	0	2500	0	156	1	4000
+4002	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 3%	50402	4	1	2	1664	500	0	2500	0	156	1	4000
+4003	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 4%	50403	4	1	3	7808	500	0	2500	0	156	1	4000
+4004	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 5%	50404	4	1	4	22498	500	0	2500	0	156	1	4000
+4005	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 6%	50405	4	1	5	39862	500	0	2500	0	156	1	4000
+4006	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 7%	50406	4	1	6	57866	500	0	2500	0	156	1	4000
+4007	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 8%	50407	4	1	7	85296	500	0	2500	0	156	1	4000
+4008	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 9%	50408	4	1	8	117040	500	0	2500	0	156	1	4000
+4009	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 10%	50409	4	1	9	149860	500	0	2500	0	156	1	4000
+4010	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 11%	50410	4	1	10	195726	500	0	2500	0	156	1	4000
+4011	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 12%	50411	4	1	11	243084	500	0	2500	0	156	1	4000
+4012	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 13%	50412	4	1	12	291932	500	0	2500	0	156	1	4000
+4013	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 14%	50413	4	1	13	345518	500	0	2500	0	156	1	4000
+4014	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 15%	50414	4	1	14	413084	500	0	2500	0	156	1	4000
+4015	4	Nishikigoi	500	Health Regen	Fish spirit. Increases Health regen 16%	50415	4	1	15	482646	500	0	2500	0	156	1	4000
+5001	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 20%	50501	7	1	1	0	1800	0	9000	0	562	1	5000
+5002	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 20.5%	50502	7	1	2	1664	1800	0	9000	0	562	1	5000
+5003	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 21%	50503	7	1	3	7808	1800	0	9000	0	562	1	5000
+5004	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 21.5%	50504	7	1	4	22498	1800	0	9000	0	562	1	5000
+5005	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 22%	50505	7	1	5	39862	1800	0	9000	0	562	1	5000
+5006	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 22.5%	50506	7	1	6	57866	1800	0	9000	0	562	1	5000
+5007	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 23%	50507	7	1	7	85296	1800	0	9000	0	562	1	5000
+5008	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 23.5%	50508	7	1	8	117040	1800	0	9000	0	562	1	5000
+5009	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 24%	50509	7	1	9	149860	1800	0	9000	0	562	1	5000
+5010	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 24.5%	50510	7	1	10	195726	1800	0	9000	0	562	1	5000
+5011	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 25%	50511	7	1	11	243084	1800	0	9000	0	562	1	5000
+5012	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 25.5%	50512	7	1	12	291932	1800	0	9000	0	562	1	5000
+5013	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 26%	50513	7	1	13	345518	1800	0	9000	0	562	1	5000
+5014	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 26.5%	50514	7	1	14	413084	1800	0	9000	0	562	1	5000
+5015	5	Nihonzaru	1800	Max Energy	Monkey spirit. Increases max Energy 27%	50515	7	1	15	482646	1800	0	9000	0	562	1	5000
+6001	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 2%	50601	5	1	1	0	560	0	2800	0	175	1	6000
+6002	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 3%	50602	5	1	2	1664	560	0	2800	0	175	1	6000
+6003	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 4%	50603	5	1	3	7808	560	0	2800	0	175	1	6000
+6004	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 5%	50604	5	1	4	22498	560	0	2800	0	175	1	6000
+6005	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 6%	50605	5	1	5	39862	560	0	2800	0	175	1	6000
+6006	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 7%	50606	5	1	6	57866	560	0	2800	0	175	1	6000
+6007	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 8%	50607	5	1	7	85296	560	0	2800	0	175	1	6000
+6008	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 9%	50608	5	1	8	117040	560	0	2800	0	175	1	6000
+6009	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 10%	50609	5	1	9	149860	560	0	2800	0	175	1	6000
+6010	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 11%	50610	5	1	10	195726	560	0	2800	0	175	1	6000
+6011	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 12%	50611	5	1	11	243084	560	0	2800	0	175	1	6000
+6012	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 13%	50612	5	1	12	291932	560	0	2800	0	175	1	6000
+6013	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 14%	50613	5	1	13	345518	560	0	2800	0	175	1	6000
+6014	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 15%	50614	5	1	14	413084	560	0	2800	0	175	1	6000
+6015	6	Ishigame	560	Defense	Turtle spirit. Increases Defense 16%	50615	5	1	15	482646	560	0	2800	0	175	1	6000
+7001	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 4%	50701	8	1	1	0	2200	0	11000	0	687	1	7000
+7002	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 5%	50702	8	1	2	1664	2200	0	11000	0	687	1	7000
+7003	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 6%	50703	8	1	3	7808	2200	0	11000	0	687	1	7000
+7004	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 7%	50704	8	1	4	22498	2200	0	11000	0	687	1	7000
+7005	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 8%	50705	8	1	5	39862	2200	0	11000	0	687	1	7000
+7006	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 9%	50706	8	1	6	57866	2200	0	11000	0	687	1	7000
+7007	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 10%	50707	8	1	7	85296	2200	0	11000	0	687	1	7000
+7008	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 11%	50708	8	1	8	117040	2200	0	11000	0	687	1	7000
+7009	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 12%	50709	8	1	9	149860	2200	0	11000	0	687	1	7000
+7010	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 13%	50710	8	1	10	195726	2200	0	11000	0	687	1	7000
+7011	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 14%	50711	8	1	11	243084	2200	0	11000	0	687	1	7000
+7012	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 15%	50712	8	1	12	291932	2200	0	11000	0	687	1	7000
+7013	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 16%	50713	8	1	13	345518	2200	0	11000	0	687	1	7000
+7014	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 17%	50714	8	1	14	413084	2200	0	11000	0	687	1	7000
+7015	7	Kabuki Kozo	2200	Attack Speed	Yokai spirit. Increases Attack Speed 18%	50715	8	1	15	482646	2200	0	11000	0	687	1	7000
+1101	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 2%. Chance to explode when attacked.	51101+51102	9	1	1	0	250	0	1250	0	78	1	1100
+1102	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 3%. Chance to explode when attacked.	50102+51102	9	1	2	1664	250	0	1250	0	78	1	1100
+1103	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 4%. Chance to explode when attacked.	50103+51102	9	1	3	7808	250	0	1250	0	78	1	1100
+1104	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 5%. Chance to explode when attacked.	50104+51102	9	1	4	22498	250	0	1250	0	78	1	1100
+1105	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 6%. Chance to explode when attacked.	50105+51102	9	1	5	39862	250	0	1250	0	78	1	1100
+1106	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 7%. Chance to explode when attacked.	50106+51102	9	1	6	57866	250	0	1250	0	78	1	1100
+1107	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 8%. Chance to explode when attacked.	50107+51102	9	1	7	85296	250	0	1250	0	78	1	1100
+1108	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 9%. Chance to explode when attacked.	50108+51102	9	1	8	117040	250	0	1250	0	78	1	1100
+1109	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 10%. Chance to explode when attacked.	50109+51102	9	1	9	149860	250	0	1250	0	78	1	1100
+1110	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 11%. Chance to explode when attacked.	50110+51102	9	1	10	195726	250	0	1250	0	78	1	1100
+1111	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 12%. Chance to explode when attacked.	50111+51102	9	1	11	243084	250	0	1250	0	78	1	1100
+1112	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 13%. Chance to explode when attacked.	50112+51102	9	1	12	291932	250	0	1250	0	78	1	1100
+1113	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 14%. Chance to explode when attacked.	50113+51102	9	1	13	345518	250	0	1250	0	78	1	1100
+1114	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 15%. Chance to explode when attacked.	50114+51102	9	1	14	413084	250	0	1250	0	78	1	1100
+1115	9	Golden Inugami	0	Explosion	Dog spirit. Increases Power 16%. Chance to explode when attacked.	50115+51102	9	1	15	482646	250	0	1250	0	78	1	1100
+2101	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	51201+51210+51202	10	1	1	0	320	0	1600	0	100	1	2100
+2102	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50202+51211+51202	10	1	2	1664	320	0	1600	0	100	1	2100
+2103	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50203+51212+51202	10	1	3	7808	320	0	1600	0	100	1	2100
+2104	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50204+51213+51202	10	1	4	22498	320	0	1600	0	100	1	2100
+2105	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50205+51214+51202	10	1	5	39862	320	0	1600	0	100	1	2100
+2106	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50206+51215+51202	10	1	6	57866	320	0	1600	0	100	1	2100
+2107	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50207+51216+51202	10	1	7	85296	320	0	1600	0	100	1	2100
+2108	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50208+51217+51202	10	1	8	117040	320	0	1600	0	100	1	2100
+2109	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50209+51218+51202	10	1	9	149860	320	0	1600	0	100	1	2100
+2110	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50210+51219+51202	10	1	10	195726	320	0	1600	0	100	1	2100
+2111	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50211+51220+51202	10	1	11	243084	320	0	1600	0	100	1	2100
+2112	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50212+51221+51202	10	1	12	291932	320	0	1600	0	100	1	2100
+2113	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50213+51222+51202	10	1	13	345518	320	0	1600	0	100	1	2100
+2114	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50214+51223+51202	10	1	14	413084	320	0	1600	0	100	1	2100
+2115	10	Singularity Neko	0	Invincibility	Cat spirit. Increases Critical Damage and Skill. Chance of invincibility when attacked. 	50215+51224+51202	10	1	15	482646	320	0	1600	0	100	1	2100
+8001	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50801	11	1	1	0	1200	0	6000	0	375	1	8000
+8002	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50802	11	1	2	1664	1200	0	6000	0	375	1	8000
+8003	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50803	11	1	3	7808	1200	0	6000	0	375	1	8000
+8004	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50804	11	1	4	22498	1200	0	6000	0	375	1	8000
+8005	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50805	11	1	5	39862	1200	0	6000	0	375	1	8000
+8006	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50806	11	1	6	57866	1200	0	6000	0	375	1	8000
+8007	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50807	11	1	7	85296	1200	0	6000	0	375	1	8000
+8008	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50808	11	1	8	117040	1200	0	6000	0	375	1	8000
+8009	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50809	11	1	9	149860	1200	0	6000	0	375	1	8000
+8010	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50810	11	1	10	195726	1200	0	6000	0	375	1	8000
+8011	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50811	11	1	11	243084	1200	0	6000	0	375	1	8000
+8012	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50812	11	1	12	291932	1200	0	6000	0	375	1	8000
+8013	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50813	11	1	13	345518	1200	0	6000	0	375	1	8000
+8014	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50814	11	1	14	413084	1200	0	6000	0	375	1	8000
+8015	11	Pen-gin	0	Frost Immunity	Penguin spirit. Increases max Energy and Health, Defense. Frost immunity.	50815	11	1	15	482646	1200	0	6000	0	375	1	8000
+9001	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 4%	50901	12	1	1	0	500	0	2500	0	156	1	9000
+9002	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 5%	50902	12	1	2	1664	500	0	2500	0	156	1	9000
+9003	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 6%	50903	12	1	3	7808	500	0	2500	0	156	1	9000
+9004	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 7%	50904	12	1	4	22498	500	0	2500	0	156	1	9000
+9005	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 8%	50905	12	1	5	39862	500	0	2500	0	156	1	9000
+9006	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 9%	50906	12	1	6	57866	500	0	2500	0	156	1	9000
+9007	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 10%	50907	12	1	7	85296	500	0	2500	0	156	1	9000
+9008	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 11%	50908	12	1	8	117040	500	0	2500	0	156	1	9000
+9009	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 12%	50909	12	1	9	149860	500	0	2500	0	156	1	9000
+9010	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 13%	50910	12	1	10	195726	500	0	2500	0	156	1	9000
+9011	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 14%	50911	12	1	11	243084	500	0	2500	0	156	1	9000
+9012	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 15%	50912	12	1	12	291932	500	0	2500	0	156	1	9000
+9013	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 16%	50913	12	1	13	345518	500	0	2500	0	156	1	9000
+9014	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 17%	50914	12	1	14	413084	500	0	2500	0	156	1	9000
+9015	12	Karakuri Gaben	0	Attack Speed	Yokai spirit. Increases Attack Speed 18%	50915	12	1	15	482646	500	0	2500	0	156	1	9000
+10001	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 10%	51301	1	1	1	0	250	0	1250	0	78	1	10000
+10002	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 11%	51302	1	1	2	1664	250	0	1250	0	78	1	10000
+10003	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 12%	51303	1	1	3	7808	250	0	1250	0	78	1	10000
+10004	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 13%	51304	1	1	4	22498	250	0	1250	0	78	1	10000
+10005	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 14%	51305	1	1	5	39862	250	0	1250	0	78	1	10000
+10006	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 15%	51306	1	1	6	57866	250	0	1250	0	78	1	10000
+10007	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 16%	51307	1	1	7	85296	250	0	1250	0	78	1	10000
+10008	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 17%	51308	1	1	8	117040	250	0	1250	0	78	1	10000
+10009	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 18%	51309	1	1	9	149860	250	0	1250	0	78	1	10000
+10010	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 19%	51310	1	1	10	195726	250	0	1250	0	78	1	10000
+10011	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 20%	51311	1	1	11	243084	250	0	1250	0	78	1	10000
+10012	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 21%	51312	1	1	12	291932	250	0	1250	0	78	1	10000
+10013	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 22%	51313	1	1	13	345518	250	0	1250	0	78	1	10000
+10014	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 23%	51314	1	1	14	413084	250	0	1250	0	78	1	10000
+10015	13	Itachi 	0	Blast Immunity	Kickstarter Custom Weasel spirit. Blast immunity 24%	51315	1	1	15	482646	250	0	1250	0	78	1	10000
+12001	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 10%	51401	1	1	1	0	320	0	1600	0	100	1	12000
+12002	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 11%	51402	1	1	2	1664	320	0	1600	0	100	1	12000
+12003	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 12%	51403	1	1	3	7808	320	0	1600	0	100	1	12000
+12004	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 13%	51404	1	1	4	22498	320	0	1600	0	100	1	12000
+12005	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 14%	51405	1	1	5	39862	320	0	1600	0	100	1	12000
+12006	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 15%	51406	1	1	6	57866	320	0	1600	0	100	1	12000
+12007	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 16%	51407	1	1	7	85296	320	0	1600	0	100	1	12000
+12008	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 17%	51408	1	1	8	117040	320	0	1600	0	100	1	12000
+12009	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 18%	51409	1	1	9	149860	320	0	1600	0	100	1	12000
+12010	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 19%	51410	1	1	10	195726	320	0	1600	0	100	1	12000
+12011	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 20%	51411	1	1	11	243084	320	0	1600	0	100	1	12000
+12012	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 21%	51412	1	1	12	291932	320	0	1600	0	100	1	12000
+12013	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 22%	51413	1	1	13	345518	320	0	1600	0	100	1	12000
+12014	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 23%	51414	1	1	14	413084	320	0	1600	0	100	1	12000
+12015	15	Karamu	0	Flame Immunity	Kickstarter Custom Phoenix spirit. Flame immunity 24%	51415	1	1	15	482646	320	0	1600	0	100	1	12000
+14001	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 10%	51501	1	1	1	0	1200	0	6000	0	375	1	14000
+14002	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 11%	51502	1	1	2	1664	1200	0	6000	0	375	1	14000
+14003	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 12%	51503	1	1	3	7808	1200	0	6000	0	375	1	14000
+14004	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 13%	51504	1	1	4	22498	1200	0	6000	0	375	1	14000
+14005	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 14%	51505	1	1	5	39862	1200	0	6000	0	375	1	14000
+14006	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 15%	51506	1	1	6	57866	1200	0	6000	0	375	1	14000
+14007	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 16%	51507	1	1	7	85296	1200	0	6000	0	375	1	14000
+14008	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 17%	51508	1	1	8	117040	1200	0	6000	0	375	1	14000
+14009	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 18%	51509	1	1	9	149860	1200	0	6000	0	375	1	14000
+14010	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 19%	51510	1	1	10	195726	1200	0	6000	0	375	1	14000
+14011	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 20%	51511	1	1	11	243084	1200	0	6000	0	375	1	14000
+14012	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 21%	51512	1	1	12	291932	1200	0	6000	0	375	1	14000
+14013	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 22%	51513	1	1	13	345518	1200	0	6000	0	375	1	14000
+14014	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 23%	51514	1	1	14	413084	1200	0	6000	0	375	1	14000
+14015	17	Kitsune	0	Storm Immunity	Kickstarter Custom Fox spirit. Storm immunity 24%	51515	1	1	15	482646	1200	0	6000	0	375	1	14000
+13001	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 10%	51610	1	1	1	0	500	0	2500	0	156	1	13000
+13002	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 11%	51611	1	1	2	1664	500	0	2500	0	156	1	13000
+13003	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 12%	51612	1	1	3	7808	500	0	2500	0	156	1	13000
+13004	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 13%	51613	1	1	4	22498	500	0	2500	0	156	1	13000
+13005	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 14%	51614	1	1	5	39862	500	0	2500	0	156	1	13000
+13006	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 15%	51615	1	1	6	57866	500	0	2500	0	156	1	13000
+13007	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 16%	51616	1	1	7	85296	500	0	2500	0	156	1	13000
+13008	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 17%	51617	1	1	8	117040	500	0	2500	0	156	1	13000
+13009	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 18%	51618	1	1	9	149860	500	0	2500	0	156	1	13000
+13010	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 19%	51619	1	1	10	195726	500	0	2500	0	156	1	13000
+13011	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 20%	51620	1	1	11	243084	500	0	2500	0	156	1	13000
+13012	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 21%	51621	1	1	12	291932	500	0	2500	0	156	1	13000
+13013	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 22%	51622	1	1	13	345518	500	0	2500	0	156	1	13000
+13014	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 23%	51623	1	1	14	413084	500	0	2500	0	156	1	13000
+13015	16	Chibipan	0	Critical Damage	Kickstarter Custom Panther spirit. Increases Critical Damage 24%	51624	1	1	15	482646	500	0	2500	0	156	1	13000
+11001	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 2%. Chance to explode when attacked.	51710+51702	1	1	1	0	1800	0	9000	0	562	1	11000
+11002	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 3%. Chance to explode when attacked.	51711+51702	1	1	2	1664	1800	0	9000	0	562	1	11000
+11003	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 4%. Chance to explode when attacked.	51712+51702	1	1	3	7808	1800	0	9000	0	562	1	11000
+11004	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 5%. Chance to explode when attacked.	51713+51702	1	1	4	22498	1800	0	9000	0	562	1	11000
+11005	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 6%. Chance to explode when attacked.	51714+51702	1	1	5	39862	1800	0	9000	0	562	1	11000
+11006	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 7%. Chance to explode when attacked.	51715+51702	1	1	6	57866	1800	0	9000	0	562	1	11000
+11007	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 8%. Chance to explode when attacked.	51716+51702	1	1	7	85296	1800	0	9000	0	562	1	11000
+11008	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 9%. Chance to explode when attacked.	51717+51702	1	1	8	117040	1800	0	9000	0	562	1	11000
+11009	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 10%. Chance to explode when attacked.	51718+51702	1	1	9	149860	1800	0	9000	0	562	1	11000
+11010	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 11%. Chance to explode when attacked.	51719+51702	1	1	10	195726	1800	0	9000	0	562	1	11000
+11011	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 12%. Chance to explode when attacked.	51720+51702	1	1	11	243084	1800	0	9000	0	562	1	11000
+11012	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 13%. Chance to explode when attacked.	51721+51702	1	1	12	291932	1800	0	9000	0	562	1	11000
+11013	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 14%. Chance to explode when attacked.	51722+51702	1	1	13	345518	1800	0	9000	0	562	1	11000
+11014	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 15%. Chance to explode when attacked.	51723+51702	1	1	14	413084	1800	0	9000	0	562	1	11000
+11015	14	Kanashimi Otome	0	Explosion	Kickstarter Custom Demon Spirit. Increases Power 16%. Chance to explode when attacked.	51724+51702	1	1	15	482646	1800	0	9000	0	562	1	11000

@@ -1,0 +1,75 @@
+INT	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	STRING	STRING	INT	STRING	INT
+ID	Name	PicID	Des	SellPrice	Bind	CanTransaction	Accumulation	LevelRequirement	Type	EquipPoint	MaxCount	OTHERATTR	BundleName	SecondType	Des2	isUseRealMoney
+Number	Name	picture for  the prop	Description	sell price 	Bind	can trade or not	what's the max number in a cell in bag and inventory	Level Requirement	Type	EquipPoint	can take max count	other attribute	BundleName	SecondType	Description2	isUseRealMoney
+1001	Katana	1001	Katana	10	0	1	1	0	7	7	0			0	Katana	0
+1002	Axe	1002	Axe	10	0	1	1	0	7	7	0			0	Axe	0
+1003	Club	1003	Club	10	0	1	1	0	7	7	0			0	Club	0
+1004	Mace	1004	Mace	10	0	1	1	0	7	7	0			0	Mace	0
+1005	Nodachi	1005	Nodachi	10	0	1	1	0	8	7	0			0	Nodachi	0
+1006	Great Axe	1006	Great Axe	10	0	1	1	0	8	7	0			0	Great Axe	0
+1007	Great Maul	1007	Great Maul	10	0	1	1	0	8	7	0			0	Great Maul	0
+1008	Sickle	1008	Sickle	10	0	1	1	0	7	7	0			0	Sickle	0
+1009	Cutlass	1009	Cutlass	10	0	1	1	0	7	7	0			0	Cutlass	0
+1010	Claymore	1010	Claymore	10	0	1	1	0	8	7	0			0	Claymore	0
+2001	Helm	2001	Helm	10	0	1	1	0	1	1	0			0	Helm	0
+2002	Breastplate	2002	Breastplate	10	0	1	1	0	3	3	0			0	Breastplate	0
+2003	Breeches	2003	Breeches	10	0	1	1	0	6	6	0			0	Breeches	0
+2010	Cloak	2010	Cloak	10	0	1	1	0	4	4	0			0	Cloak	0
+3001	Ring	3001	Ring	10	0	1	1	0	5	5	0			0	Ring	0
+3002	Necklace	3002	Necklace	10	0	1	1	0	2	2	0			0	Necklace	0
+4001	Razzle Dazzle	1010	Unique Item	1000000	1	0	0	0	8	7	0			0	Unique Item	0
+5001	WolfHeart	5001	WolfHeart	10	0	0	2	0	9	9	0			0	WolfHeart	0
+5002	GhostclawAmulet	5002		10	0	0	2	0	9	9	0			0		0
+5003	StolenIdol	5003		10	0	0	2	0	9	9	0			0		0
+5004	AbbotJournal	5004		10	0	0	2	0	9	9	0			0		0
+5005	ChiefAttackPlans	5005		10	0	0	2	0	9	9	0			0		0
+5006	GhostclawHistory	5006		10	0	0	2	0	9	9	0			0		0
+5007	GhostclawDoctrine	5007		10	0	0	2	0	9	9	0			0		0
+5008	SkellyHead	5008		10	0	0	2	0	9	9	0			0		0
+6001	WolfPelt	6001	WolfPelt	10	0	0	99	0	13	10	0			0	WolfPelt	0
+6002	WolfPelt	6002		10	0	0	99	0	13	10	0			0		0
+6003	Metal Scraps	6003	Metal Scraps	10	0	0	99	0	13	10	0			0	Metal Scraps	0
+6004	Metal Scraps	6004		10	0	0	99	0	13	10	0			0		0
+6005	Timber	6005	Timber	10	0	0	99	0	13	10	0			0	Timber	0
+6006	Timber	6006		10	0	0	99	0	13	10	0			0		0
+7001	ruby	7001	ruby	10	0	0	99	0	11	10	0			0	ruby	0
+7002	Emerald	7002	Emerald	10	0	0	99	0	11	10	0			0	Emerald	0
+7003	Sapphire	7003	Sapphire	10	0	0	99	0	11	10	0			0	Sapphire	0
+7004	Garnet	7004	Garnet	10	0	0	99	0	11	10	0			0	Garnet	0
+7005	Amethyst	7005	Amethyst	10	0	0	99	0	11	10	0			0	Amethyst	0
+7006	Malachite	7006	Malachite	10	0	0	99	0	11	10	0			0	Malachite	0
+7007	Obsidian	7007	Obsidian	10	0	0	99	0	11	10	0			0	Obsidian	0
+7008	Jade	7008	Jade	10	0	0	99	0	11	10	0			0	Jade	0
+7009	Golden	7009	Golden	10	0	0	99	0	11	10	0			0	Golden	0
+8001	Frost Core	8001	Frost Core	10	0	0	99	0	12	10	0			0	Frost Core	0
+8002	Lava Core	8002	Lava Core	10	0	0	99	0	12	10	0			0	Lava Core	0
+8003	Blast Core	8003	Blast Core	10	0	0	99	0	12	10	0			0	Blast Core	0
+8004	Storm Core	8004	Storm Core	10	0	0	99	0	12	10	0			0	Storm Core	0
+9001	Karma Core	9001	Karma Core	10	0	0	99	0	13	10	0			0	Karma Core	0
+20000	Spicy Sushi	20000	A spicy kick, gives a small boost to POWER (10 mins)	50	0	0	99	0	14	10	0			4	Spicy Sushi	0
+20001	Caviar Onigiri	20001	Fresh treat, gives a small boost to SKILL (10 mins)	50	0	0	99	0	14	10	0			4	Caviar Onigiri	0
+20002	Mint Tofu	20002	Fragrant snack, gives a small boost to DEFENSE (10 mins)	50	0	0	99	0	14	10	0			4	Mint Tofu	0
+20003	Garlic Snapper	20003	Herb baked fish, gives a small boost to Movement speed (10 mins)	150	0	0	99	0	14	10	0			4	Garlic Snapper	0
+20004	Ginseng Soba	20004	Chilled noodle, gives a small boost to Critical Chance (10 mins)	100	0	0	99	0	14	10	0			4	Ginseng Soba	0
+20005	Yomi Sake	20005	Local rice wine, gives a small boost to XP earnings (10 mins)	500	0	0	99	0	14	10	0			5	Yomi Sake	0
+20006	Plum Wine	20006	Sweet fruit wine, gives a small boost to loot drop quality (10 mins)	150	0	0	99	0	14	10	0			5	Plum Wine	0
+20007	Green Tea	20007	Warm and soothing, gives a small boost to Energy regen (10 mins)	250	0	0	99	0	14	10	0			5	Green Tea	0
+20008	Red Tea	20008	Slightly bitter but tasty, gives a small boost to HP regen (10 mins)	250	0	0	99	0	14	10	0			5	Red Tea	0
+20011	Recall Prayer	20011	Retain some mission earnings if escaping.	10	0	0	99	0	14	10	0			0	Recall Prayer	0
+20012	Akane Contract	20012	Use to receive 5 Akane Badges.	10	0	0	99	0	14	10	0			0	Akane Contract	0
+20013	Stash Size	20013	Add an extra loot bag. Carry more!	10	0	0	99	0	14	10	0			0	Stash Size	0
+20100	1 Shinigami Scroll	20010	Use when Collapsed to revive and smite surrounding enemies.	3	0	0	99	0	14	10	0			6	Revival Prayer	1
+20101	5 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	10	0	0	99	0	14	10	0			6	Revival Prayer	1
+20102	10 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	17	0	0	99	0	14	10	0			6	Revival Prayer	1
+20103	20 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	30	0	0	99	0	14	10	0			6	Revival Prayer	1
+20104	50 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	60	0	0	99	0	14	10	0			6	Revival Prayer	1
+20105	100 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	100	0	0	99	0	14	10	0			6	Revival Prayer	1
+20009	Sea Urchin Sushi	20000	Local delicacy, gives a large boost to POWER (10 mins)	3	0	0	99	0	14	10	0			4	Spicy Sushi 2	1
+20010	Kagami Mochi	20001	Traditional treat, gives a large boost to SKILL (10 mins)	3	0	0	99	0	14	10	0			4	Caviar Onigiri 2	1
+20014	Dorayaki	20002	Red bean confectionary, gives a large boost to DEFENSE (10 mins)	3	0	0	99	0	14	10	0			4	Mint Tofu 2	1
+20015	Fugu Tempura	20003	Carefully prepared, gives a large boost to Movement speed (10 mins)	2	0	0	99	0	14	10	0			4	Garlic Snapper 2	1
+20016	Sukiyaki	20004	Simmering hot pot, gives a large boost to Critical Chance (10 mins)	2	0	0	99	0	14	10	0			4	Ginseng Soba 2	1
+20017	Shochu	20005	Earthy distilled beverage, gives a large boost to XP earnings (10 mins)	7	0	0	99	0	14	10	0			5	Yomi Sake 2	1
+20018	Awamori	20006	Aged rice wine, gives a large boost to loot drop quality (10 mins)	8	0	0	99	0	14	10	0			5	Plum Wine 2	1
+20019	Hojicha Tea	20007	Charcoal roasted tea, gives a large boost to Energy regen (10 mins)	5	0	0	99	0	14	10	0			5	Green Tea 2	1
+20020	Chrysanthemum Tea	20008	Colorful and fragrant, gives a large boost to HP regen (10 mins)	5	0	0	99	0	14	10	0			5	Red Tea 2	1

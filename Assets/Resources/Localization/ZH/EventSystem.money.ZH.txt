@@ -1,0 +1,10 @@
+INT	STRING	STRING	STRING	INT	INT
+ID	Title	Description1	Description2	Karma	class
+ID	Title	Description1	Description2	Karma	class
+5001	Disciplined	Trainer Takeda can teach you new Abilities and Masteries. Speak to him in the Village to see what you can learn.	[#ff0000]Seeing Red[#ffffff], [#00ff00]Skin of Stone[#ffffff] and [#00ffff]Dark Hunter[#ffffff] are great additions to your arsenal and also boost their respective Discipline's abilities.	700	2
+5002	Jawbone Ravine	You now have enough Karma Shards to unlock Jawbone Ravine!	Speak to the Akane Bounty Master to venture into this new area.	2400	2
+5003	Bloodroot Cemetery	You now have enough Karma Shards to unlock Bloodroot Cemetery!	Speak to the Akane Bounty Master to venture into this new area.	6300	2
+5004	Bloodfang Fort	You now have enough Karma Shards to unlock Bloodfang Fort!	Speak to the Akane Bounty Master to venture into this new area.	12000	2
+5005	Shivering Pines	You now have enough Karma Shards to unlock Shivering Pines!	Speak to the Akane Bounty Master to venture into this new area.	22500	2
+5006	Yurei Caverns	You now have enough Karma Shards to unlock Yurei Caverns!	Speak to the Akane Bounty Master to venture into this new area.	45000	2
+5007	New Flavors Await!	Elder Shaman Pan has been experimenting in the kitchen and is now offering superior food and drinks for gourmet Hunters.	Speak to Elder Shaman Pan to see Shammy Mart's new range of consumables.	0	2

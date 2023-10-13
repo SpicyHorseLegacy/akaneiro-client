@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: cb75fcec8ea4e7e4abbb3b02dae6e0b7
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip01
+    100004: Branch01
+    100006: Branch01_L
+    100008: Branch01_R
+    100010: Branch02
+    100012: Branch02_L
+    100014: Branch02_R
+    100016: Branch03
+    100018: Branch03_R
+    100020: Branch04
+    100022: Branch05
+    100024: Branch06
+    100026: Branch07
+    100028: CATRig L Calf_B
+    100030: CATRig L Calf_F
+    100032: CATRig L Calf_M
+    100034: CATRig L Clavicle
+    100036: CATRig L Foot_B
+    100038: CATRig L Foot_F
+    100040: CATRig L Foot_M
+    100042: CATRig L Forearm
+    100044: CATRig L Hand
+    100046: CATRig L Thigh_B
+    100048: CATRig L Thigh_M
+    100050: CATRig L UpperArm
+    100052: CATRig R Calf_B
+    100054: CATRig R Calf_F
+    100056: CATRig R Calf_M
+    100058: CATRig R Clavicle
+    100060: CATRig R Foot_B
+    100062: CATRig R Foot_F
+    100064: CATRig R Foot_M
+    100066: CATRig R Forearm
+    100068: CATRig R Hand
+    100070: CATRig R Thigh_B
+    100072: CATRig R Thigh_F
+    100074: CATRig R Thigh_F 1
+    100076: CATRig R Thigh_M
+    100078: CATRig R UpperArm
+    100080: CATRigLArmDigit11
+    100082: CATRigLArmDigit12
+    100084: CATRigLArmDigit21
+    100086: CATRigLArmDigit22
+    100088: CATRigLArmDigit31
+    100090: CATRigLArmDigit32
+    100092: CATRigRArmDigit11
+    100094: CATRigRArmDigit12
+    100096: CATRigRArmDigit21
+    100098: CATRigRArmDigit22
+    100100: CATRigRArmDigit31
+    100102: CATRigRArmDigit32
+    100104: CH_Jinmenju05
+    100106: Eye_L
+    100108: Eye_R
+    100110: Fruit01
+    100112: Fruit02
+    100114: Fruit03
+    100116: Fruit04
+    100118: Fruit05
+    100120: Hub01
+    100122: Mouth01
+    100124: Root
+    100126: Spine01
+    100128: Spine02
+    400000: //RootNode
+    400002: Bip01
+    400004: Branch01
+    400006: Branch01_L
+    400008: Branch01_R
+    400010: Branch02
+    400012: Branch02_L
+    400014: Branch02_R
+    400016: Branch03
+    400018: Branch03_R
+    400020: Branch04
+    400022: Branch05
+    400024: Branch06
+    400026: Branch07
+    400028: CATRig L Calf_B
+    400030: CATRig L Calf_F
+    400032: CATRig L Calf_M
+    400034: CATRig L Clavicle
+    400036: CATRig L Foot_B
+    400038: CATRig L Foot_F
+    400040: CATRig L Foot_M
+    400042: CATRig L Forearm
+    400044: CATRig L Hand
+    400046: CATRig L Thigh_B
+    400048: CATRig L Thigh_M
+    400050: CATRig L UpperArm
+    400052: CATRig R Calf_B
+    400054: CATRig R Calf_F
+    400056: CATRig R Calf_M
+    400058: CATRig R Clavicle
+    400060: CATRig R Foot_B
+    400062: CATRig R Foot_F
+    400064: CATRig R Foot_M
+    400066: CATRig R Forearm
+    400068: CATRig R Hand
+    400070: CATRig R Thigh_B
+    400072: CATRig R Thigh_F
+    400074: CATRig R Thigh_F 1
+    400076: CATRig R Thigh_M
+    400078: CATRig R UpperArm
+    400080: CATRigLArmDigit11
+    400082: CATRigLArmDigit12
+    400084: CATRigLArmDigit21
+    400086: CATRigLArmDigit22
+    400088: CATRigLArmDigit31
+    400090: CATRigLArmDigit32
+    400092: CATRigRArmDigit11
+    400094: CATRigRArmDigit12
+    400096: CATRigRArmDigit21
+    400098: CATRigRArmDigit22
+    400100: CATRigRArmDigit31
+    400102: CATRigRArmDigit32
+    400104: CH_Jinmenju05
+    400106: Eye_L
+    400108: Eye_R
+    400110: Fruit01
+    400112: Fruit02
+    400114: Fruit03
+    400116: Fruit04
+    400118: Fruit05
+    400120: Hub01
+    400122: Mouth01
+    400124: Root
+    400126: Spine01
+    400128: Spine02
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: CH_Jinmenju05
+    11100000: //RootNode
+    13700000: CH_Jinmenju05
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

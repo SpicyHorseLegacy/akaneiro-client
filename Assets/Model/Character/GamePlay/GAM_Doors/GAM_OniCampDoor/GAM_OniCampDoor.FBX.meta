@@ -1,0 +1,90 @@
+fileFormatVersion: 2
+guid: 6d6eda776a78c3b4e8b3bfe192382d9f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GAM_OniCampDoor_DoorR
+    100004: GAM_OniCampDoor_Chain
+    100006: GAM_OniCampDoor_Frame
+    100008: GAM_OniCampDoor_DoorL
+    100010: Bone001
+    100012: Bone002
+    100014: Dummy001
+    100016: Dummy002
+    100018: Root
+    400000: //RootNode
+    400002: GAM_OniCampDoor_DoorR
+    400004: GAM_OniCampDoor_Chain
+    400006: GAM_OniCampDoor_Frame
+    400008: GAM_OniCampDoor_DoorL
+    400010: Bone001
+    400012: Bone002
+    400014: Dummy001
+    400016: Dummy002
+    400018: Root
+    2300000: GAM_OniCampDoor_DoorR
+    2300002: GAM_OniCampDoor_Chain
+    2300004: GAM_OniCampDoor_Frame
+    2300006: GAM_OniCampDoor_DoorL
+    3300000: GAM_OniCampDoor_DoorR
+    3300002: GAM_OniCampDoor_Chain
+    3300004: GAM_OniCampDoor_Frame
+    3300006: GAM_OniCampDoor_DoorL
+    4300000: GAM_OniCampDoor_DoorL
+    4300002: GAM_OniCampDoor_Chain
+    4300004: GAM_OniCampDoor_Frame
+    4300006: GAM_OniCampDoor_DoorR
+    11100000: //RootNode
+    13700000: GAM_OniCampDoor_DoorL
+    13700002: GAM_OniCampDoor_DoorR
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

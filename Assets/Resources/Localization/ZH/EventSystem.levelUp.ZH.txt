@@ -1,0 +1,14 @@
+INT	STRING	STRING	STRING	INT	INT
+ID	Title	Description1	Description2	Level	class
+ID	Title	Description1	Description2	Level	class
+2001	New Abilities Available!	You are now ready to undertake further training. The new Abilities on offer include [#ff0000]Shockwave I[#ffffff], [#00ff00]Ring of Frost I[#ffffff] and [#00ffff]Caltrops I[#ffffff].	Speak to Trainer Takeda in the Village to learn more.	2	1
+2002	New Abilities Available!	You are now ready to undertake further training. The new Abilities on offer include [#ff0000]Swath of Destruction I [#ffffff], [#00ff00]Chi Mend I[#ffffff] and [#00ffff]Ninja Escape I[#ffffff].	Speak to Trainer Takeda in the Village to learn more.	3	1
+2003	New Abilities Available!	You are now ready to undertake further training. The new Abilities on offer include [#ff0000]Meteor Rain I[#ffffff], [#00ff00]Chi Prayer I[#ffffff] and [#00ffff]Firebomb Trap I[#ffffff].	Speak to Trainer Takeda in the Village to learn more.	5	1
+2004	New Abilities Available!	You are now ready to undertake further training. The new Abilities on offer include [#ff0000]Hungry Cleave II[#ffffff], [#00ff00]Skin of Stone II[#ffffff] and [#00ffff]Dark Hunter II[#ffffff].	Speak to Trainer Takeda in the Village to learn more.	8	1
+2005	New Abilities Available!	You are now ready to undertake further training. The new Abilities on offer include [#ff0000]Swath of Destruction II[#ffffff], [#00ff00]Haunting Scream II[#ffffff] and [#00ffff]Firebomb Trap II[#ffffff].	Speak to Trainer Takeda in the Village to learn more.	10	1
+2007	New Abilities Available!	You are now ready to undertake further training. The new Abilities on offer include [#ff0000]Rain of Blows III[#ffffff], [#00ff00]Iron Thorns III[#ffffff] and [#00ffff]Steady Shot III[#ffffff].	Speak to Trainer Takeda in the Village to learn more.	16	1
+2008	New Abilities Available!	You are now ready to undertake further training. The new Abilities on offer include [#ff0000]Meteor Rain III[#ffffff], [#00ff00]Chi Prayer III[#ffffff] and [#00ffff]Dark Hunter III[#ffffff].	Speak to Trainer Takeda in the Village to learn more.	19	1
+2009	New Masteries Available!	You are now able to further your Masteries.	Speak to Trainer Takeda in the Village train the second level of Masteries.	5	1
+2010	New Masteries Available!	You are now able to further your Masteries.	Speak to Trainer Takeda in the Village train the third level of Masteries.	12	1
+2011	New Masteries Available!	You are now able to further your Masteries.	Speak to Trainer Takeda in the Village train the fourth level of Masteries.	20	1
+2012	New Masteries Available!	You are now able to further your Masteries.	Speak to Trainer Takeda in the Village train the fifth level of Masteries.	30	1

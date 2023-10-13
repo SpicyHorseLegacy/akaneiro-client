@@ -1,0 +1,6 @@
+STRING	FLOAT	FLOAT	FLOAT	INT	INT	FLOAT	FLOAT	FLOAT	INT	STRING
+TemplateName	PosX	PosY	PosZ	IsHide	IsDrag	ScaleX	ScaleY	ScaleZ	PreLoad	Description
+TemplateName	PosX	PosY	PosZ	IsHide	IsDrag	ScaleX	ScaleY	ScaleZ	PreLoad	Description
+LoginBase	0	0	0	0	0	1	1	1	1	abc
+LoginLogo	0	100	-0.1	0	0	1	1	1	1	abc
+LoginInput	0	360	-0.1	0	0	1	1	1	1	abc

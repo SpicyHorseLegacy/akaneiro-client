@@ -1,0 +1,15 @@
+INT	STRING	INT	INT	STRING	STRING	STRING	FLOAT	INT	FLOAT	INT	INT	STRING	INT	INT
+ID	Element Type	Chance 	Element Level	Element Desc String 1	Element Desc String 2	Status Effect	Status Effect Bonus %	Element Impact VFX	Value	Element	IconID	Element Name	Min	Max
+ID	Element String	(NOT USED) Attach Chance %	Element Level	Element Desc String 1	Element Desc String 2	Status Effect	Status Effect Bonus %	Element Impact VFX	Value	Element	IconID	Name String	Min Item Level for Element	Max Item Level for Element
+101	Fur-Lined I	14	1	Slight resistance to 	frost damage	ResistFrost	0.05	0	2	5	1	Fur-Lined 	1	60
+102	Fur-Lined II	8	2	Moderate resistance to 	frost damage	ResistFrost	0.1	0	4	5	1	Fur-Lined 	12	60
+103	Fur-Lined III	3	3	High resistance to 	frost damage	ResistFrost	0.15	0	6	5	1	Fur-Lined 	25	60
+201	Chilled I	14	1	Slight resistance to 	flame damage	ResistFlame	0.05	0	2	4	2	Chilled 	1	60
+202	Chilled II	8	2	Moderate resistance to 	flame damage	ResistFlame	0.1	0	4	4	2	Chilled 	12	60
+203	Chilled III	3	3	High resistance to 	flame damage	ResistFlame	0.15	0	6	4	2	Chilled 	25	60
+301	Plated I	14	1	Slight resistance to 	explosion damage	ResistExplosion	0.05	0	2	6	3	Plated 	1	60
+302	Plated II	8	2	Moderate resistance to 	explosion damage	ResistExplosion	0.1	0	4	6	3	Plated 	12	60
+303	Plated III	3	3	High resistance to 	explosion damage	ResistExplosion	0.15	0	6	6	3	Plated 	25	60
+401	Insulated I	14	1	Slight resistance to 	storm damage	ResistStorm	0.05	0	2	7	4	Insulated 	1	60
+402	Insulated II	8	2	Moderate resistance to 	storm damage	ResistStorm	0.1	0	4	7	4	Insulated 	12	60
+403	Insulated III	3	3	High resistance to 	storm damage	ResistStorm	0.15	0	6	7	4	Insulated 	25	60

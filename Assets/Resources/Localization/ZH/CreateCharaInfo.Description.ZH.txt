@@ -1,0 +1,6 @@
+STRING	STRING	STRING	STRING	STRING	STRING
+Description1	Description2	Description3	Description4	Description5	Description6
+Description1	Description2	Description3	Description4	Description5	Description6
+Followers of the Red Girl. They lead the charge with bravery and skill. 	These hunters are fierce warriors, who can focus anger to provide great strength. They employ abilities that close distance and maximize damage.	Increased POWER (+damage)	Prowess training discount	Dual Wielding I 	Medium Armor I
+Followers of the Forest Mother. They are models of patience and endurance. 	These hunters are stalwart and reliable defenders, who channel natural energies into defense and support abilities.	Increased DEFENSE (+armor) 	Fortitude training discount	Two-Handed I 	Heavy Armor I
+Followers of the Dark Huntsman. They are precise and resourceful stalkers. 	These hunters plan carefully before taking action, using ranged attacks and evasion to confuse and ambush the enemy.	Increased SKILL (+critical chance)	Cunning training discount	Dueling I	Light Armor I

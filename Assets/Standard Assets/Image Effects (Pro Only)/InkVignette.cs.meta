@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: d254a811e63cf044d969766258bc5a18
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shader: {fileID: 4800000, guid: 614e90c64df73ea4dbe612163c8973f9, type: 1}
+  - _InkVignetteTex: {fileID: 2800000, guid: 0da497c7017517240a2035166c13c8f3, type: 1}
+  executionOrder: 0
+  icon: {instanceID: 0}

@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: e9d8c9089e572c04e9f42e9987fe79d3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip001 L Finger1
+    100002: Bip001 L Finger2
+    100004: Bip001 L UpperArm
+    100006: Bip001 L Finger21
+    100008: Bip001 R Finger01
+    100010: Bip001 R Clavicle
+    100012: Bip001 L Finger01
+    100014: Bip001 R Forearm
+    100016: Bip001 L Finger11
+    100018: Bip001 R Finger0
+    100020: Bip001 R UpperArm
+    100022: CH_Aka_Monk_F_Leg03
+    100024: Bip001 L Clavicle
+    100026: Bip001 L Finger0
+    100028: Bip001 L Forearm
+    100030: Bip001 R Finger1
+    100032: Bip001 R Finger2
+    100034: Bip001 R Finger11
+    100036: //RootNode
+    100038: Bip001 R Finger21
+    100040: Bip001 Prop2
+    100042: Bip001 Prop1
+    100044: Bip001 L Hand
+    100046: Bip001 L Thigh
+    100048: Bip001 L Calf
+    100050: Bip001 R Calf
+    100052: Bip001 R Foot
+    100054: Bip001 R Hand
+    100056: Bip001 L Foot
+    100058: Bip001 R Thigh
+    100060: Bip001 L Toe0
+    100062: Bip001 R Toe0
+    100064: Bip001 Cloak
+    100066: Bip001 Head
+    100068: Bip001 Neck
+    100070: Bip001 Spine1
+    100072: Bip001 Spine
+    100074: Bip001 Pelvis
+    100076: Bip001
+    100078: Root
+    400000: Bip001 L Finger1
+    400002: Bip001 L Finger2
+    400004: Bip001 L UpperArm
+    400006: Bip001 L Finger21
+    400008: Bip001 R Finger01
+    400010: Bip001 R Clavicle
+    400012: Bip001 L Finger01
+    400014: Bip001 R Forearm
+    400016: Bip001 L Finger11
+    400018: Bip001 R Finger0
+    400020: Bip001 R UpperArm
+    400022: CH_Aka_Monk_F_Leg03
+    400024: Bip001 L Clavicle
+    400026: Bip001 L Finger0
+    400028: Bip001 L Forearm
+    400030: Bip001 R Finger1
+    400032: Bip001 R Finger2
+    400034: Bip001 R Finger11
+    400036: //RootNode
+    400038: Bip001 R Finger21
+    400040: Bip001 Prop2
+    400042: Bip001 Prop1
+    400044: Bip001 L Hand
+    400046: Bip001 L Thigh
+    400048: Bip001 L Calf
+    400050: Bip001 R Calf
+    400052: Bip001 R Foot
+    400054: Bip001 R Hand
+    400056: Bip001 L Foot
+    400058: Bip001 R Thigh
+    400060: Bip001 L Toe0
+    400062: Bip001 R Toe0
+    400064: Bip001 Cloak
+    400066: Bip001 Head
+    400068: Bip001 Neck
+    400070: Bip001 Spine1
+    400072: Bip001 Spine
+    400074: Bip001 Pelvis
+    400076: Bip001
+    400078: Root
+    4300000: CH_Aka_Monk_F_Leg03
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: CH_Aka_Monk_F_Leg03
+    13700002: Bip001 Pelvis
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

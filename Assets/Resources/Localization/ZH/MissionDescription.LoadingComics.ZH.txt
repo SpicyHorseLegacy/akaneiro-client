@@ -1,0 +1,29 @@
+INT	STRING	STRING	STRING	STRING	STRING	STRING	STRING	STRING
+MissionID	ComicThemeString	NumberOfComicPages	ComicNarrativeString1	BundleName1	ComicNarrativeString2	BundleName2	ComicNarrativeString3	BundleName3
+MissionID	ComicThemeString	NumberOfComicPages	ComicNarrativeString1	BundleName1	ComicNarrativeString2	BundleName2	ComicNarrativeString3	BundleName3
+5000	Heading to Yomi Village	1	http://tinyurl.com/HelpAka	HelpAka				
+5010	The lone hunter arrives	3	To hunt best, hunt alone	a0m1a	No man truly controls Nature 	a0m1b	Even the brave must sometime bend	a0m1c
+5110	Evil feeds on fear	3	And fear feeds on evil	a1m1a	The mindless savagery of the mass	a1m1b	An unquenchable thirst for blood	a1m1c
+5120	Unnatural acts must be avenged	3	The appalling end of innocence	a1m2a	Only malignancy can manage evil	a1m2b	The wicked are ignorant of mercy	a1m2c
+5130	Fortune favors the brave	3	Courage is a mean; rashness an excess	a1m3a	Stealth is sometimes a virtue	a1m3b	Overconfidence is always a vice	a1m3c
+5210	Noble souls corrupted	3	Even wise eyes may be deceived	a2m1a	Respecting ritual from a distance	a2m1b	Grave suspicions confirmed	a2m1c
+5220	Incarnate evil deserves no mercy	3	Magic by another name	a2m2a	The mystery of unrealized observance	a2m2b	The consequential horror 	a2m2c
+5230	A captured spirit freed	3	Called from the dead	a2m3a	Some sounds have influence...	a2m3b	...but sight of their sources, terrify	a2m3c
+5310	A diseased limb corrupts the body	3	Natural order out of alignment	a3m1a	Certain trips are not accidental	a3m1b	A grotesque and fatal fall	a3m1c
+5320	Such crimes demand avengers	3	Desecration is the work of cowards	a3m2a	Insults to an honorable past	a3m2b	Theft, too, is a craven crime	a3m2c
+5330	A nightmare with a name	3	Hard hearts make great hunters	a3m3a	Whole lots of shaking...	a3m3b	Earthquake for preference... but no	a3m3c
+5410	No cryptic desecration	3	A better path less-travelled	a4m1a	The defilement of a sacred place	a4m1b	Fortunately, even criminals rest	a4m1c
+5420	Wisdom walks that way	2	Evil lurks... and watches	a4m2a	Patiently, piteously waiting...	a4m2b		
+5430	Extremely severe ascent	3	Anticipation cuts several ways	a4m3a	Nature may favor the inventive 	a4m3b	But "smart" is often insufficient	a4m3c
+5510	Colder than a witch's heart	3	Unnatural freezing season	a5m1a	More than cool construction	a5m1b	Praying to the evil that they made	a5m1c
+5520	When 'fish stories' come true	3	What slick surfaces conceal 	a5m2a	Blood runs in our veins - not in theirs	a5m2b	"Cold-hearted" is a pitiful description 	a5m2c
+5530	First it weakens, then destroys	3	The cruelty of the inescapable	a5m3a	When ill-winds truly blow	a5m3b	The suffering and the damage done	a5m3c
+5610	Gone, but not forgotten	3	Ignore the past at your peril	a6m1a	Courage and good intentions fall short	a6m1b	A noble and deserved ceremony	a6m1c
+5620	Fates worse than death?	3	Even heroes suffer	a6m2a	The overmatched muster their courage	a6m2b	Seemingly doomed to suffer and die	a6m2c
+5630	To go down, trying	3	The danger of descent	a6m3a	Evil on the run and out of breath	a6m3b	A new malevolence emerges 	a6m3c
+5710	An unimagined menace	3	Dread from an unexpected source	a7m1a	Wrong in so many ways	a7m1b	An unexpected cause of death	a7m1c
+5720	Strange fruit -- literally	3	If plants ruled the world...	a7m2a	Natural... like a malignant tumor	a7m2b	Aberrant tastes	a7m2c
+5730	A terrifying appetite	3	One's food is another's garbage	a7m3a	Recognizing potential danger is useful 	a7m3b	...only if the danger is then averted	a7m3c
+5810	Another unanswered prayer	3	Unholy observance	a8m1a	Herd instincts encourage wickedness	a8m1b	Evil acts often masquerade as ritual	a8m1c
+5820	No Man Left Behind	3	Moles, voles, and the Magjaws	a8m2a	Captured by courage...	a8m2b	What lives below and flourishes	a8m2c
+5830	Good plans are also brave	3	A fight not lost may be won	a8m3a	An opening is also an opportunity	a8m3b	Good ideas often come in pieces	a8m3c

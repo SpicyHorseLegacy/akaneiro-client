@@ -1,0 +1,12 @@
+INT	STRING	INT	INT	INT	FLOAT	STRING	STRING	INT	INT	STRING	INT	INT
+ID	Enchant	 Chance 	EnchantLevel	StatusID	Value	Desc1	Desc2	EnchantType	IconID	Name	Min	Max
+ID	Enchant Name	 (NOT USED) Chance 	Enchant Level	StatusID	Value	Enchant Desc String 1	Enchant Desc String 2	EnchantType	IconID	Name String	Min Item Level for Enchant	Max Item Level for Enchant
+101	Healthy I	20	1	70401	1.5	Small boost to 	total health	1	7	Healthy 	1	60
+102	Healthy II	8	2	70402	2	Moderate boost to 	total health	1	7	Healthy 	12	60
+103	Healthy III	2	3	70403	3	Large boost to 	total health	1	7	Healthy 	25	60
+201	Focused I	22	1	70301	1.5	Small boost to 	energy regen	2	8	Focused 	1	60
+202	Focused II	8	2	70302	2	Moderate boost to 	energy regen	2	8	Focused 	12	60
+203	Focused III	2	3	70303	3	Large boost to 	energy regen	2	8	Focused 	25	60
+301	Fortified I	25	1	70601	1.5	Small boost to 	total armor	3	9	Fortified 	1	60
+302	Fortified II	10	2	70602	2	Moderate boost to 	total armor	3	9	Fortified 	12	60
+303	Fortified III	3	3	70603	3	Large boost to 	total armor	3	9	Fortified 	25	60

@@ -1,0 +1,39 @@
+INT	STRING	STRING	STRING	INT	INT
+ID	Title	Description1	Description2	Defense	class
+ID	Title	Description1	Description2	Defense	class
+12001	New Ability Available!	You now have enough SKILL to learn [00FFFF]Steady Shot I[-]	Speak to Trainer Takeda to begin your training.	30	1
+12007	New Ability Available!	You now have enough SKILL to learn [00FFFF]Dark Hunter I[-]	Speak to Trainer Takeda to begin your training.	30	1
+12013	New Ability Available!	You now have enough SKILL to learn [00FFFF]Stinging Shot I[-]	Speak to Trainer Takeda to begin your training.	60	1
+12025	New Ability Available!	You now have enough SKILL to learn [00FFFF]Caltrops I[-]	Speak to Trainer Takeda to begin your training.	60	1
+12019	New Ability Available!	You now have enough SKILL to learn [00FFFF]Ninja Escape I[-]	Speak to Trainer Takeda to begin your training.	90	1
+12031	New Ability Available!	You now have enough SKILL to learn [00FFFF]Firebomb Trap I[-]	Speak to Trainer Takeda to begin your training.	150	1
+12002	New Ability Available!	You now have enough SKILL to learn [00FFFF]Steady Shot II[-]	Speak to Trainer Takeda to begin your training.	210	1
+12008	New Ability Available!	You now have enough SKILL to learn [00FFFF]Dark Hunter II[-]	Speak to Trainer Takeda to begin your training.	210	1
+12014	New Ability Available!	You now have enough SKILL to learn [00FFFF]Stinging Shot II[-]	Speak to Trainer Takeda to begin your training.	240	1
+12026	New Ability Available!	You now have enough SKILL to learn [00FFFF]Caltrops II[-]	Speak to Trainer Takeda to begin your training.	240	1
+12020	New Ability Available!	You now have enough SKILL to learn [00FFFF]Ninja Escape II[-]	Speak to Trainer Takeda to begin your training.	270	1
+12032	New Ability Available!	You now have enough SKILL to learn [00FFFF]Firebomb Trap II[-]	Speak to Trainer Takeda to begin your training.	330	1
+12003	New Ability Available!	You now have enough SKILL to learn [00FFFF]Steady Shot III[-]	Speak to Trainer Takeda to begin your training.	390	1
+12009	New Ability Available!	You now have enough SKILL to learn [00FFFF]Dark Hunter III[-]	Speak to Trainer Takeda to begin your training.	390	1
+12015	New Ability Available!	You now have enough SKILL to learn [00FFFF]Stinging Shot III[-]	Speak to Trainer Takeda to begin your training.	420	1
+12027	New Ability Available!	You now have enough SKILL to learn [00FFFF]Caltrops III[-]	Speak to Trainer Takeda to begin your training.	420	1
+12021	New Ability Available!	You now have enough SKILL to learn [00FFFF]Ninja Escape III[-]	Speak to Trainer Takeda to begin your training.	450	1
+12033	New Ability Available!	You now have enough SKILL to learn [00FFFF]Firebomb Trap III[-]	Speak to Trainer Takeda to begin your training.	510	1
+12004	New Ability Available!	You now have enough SKILL to learn [00FFFF]Steady Shot IV[-]	Speak to Trainer Takeda to begin your training.	570	1
+12010	New Ability Available!	You now have enough SKILL to learn [00FFFF]Dark Hunter IV[-]	Speak to Trainer Takeda to begin your training.	570	1
+12016	New Ability Available!	You now have enough SKILL to learn [00FFFF]Stinging Shot IV[-]	Speak to Trainer Takeda to begin your training.	600	1
+12028	New Ability Available!	You now have enough SKILL to learn [00FFFF]Caltrops IV[-]	Speak to Trainer Takeda to begin your training.	600	1
+12022	New Ability Available!	You now have enough SKILL to learn [00FFFF]Ninja Escape IV[-]	Speak to Trainer Takeda to begin your training.	630	1
+12034	New Ability Available!	You now have enough SKILL to learn [00FFFF]Firebomb Trap IV[-]	Speak to Trainer Takeda to begin your training.	690	1
+12005	New Ability Available!	You now have enough SKILL to learn [00FFFF]Steady Shot V[-]	Speak to Trainer Takeda to begin your training.	750	1
+12011	New Ability Available!	You now have enough SKILL to learn [00FFFF]Dark Hunter V[-]	Speak to Trainer Takeda to begin your training.	750	1
+12017	New Ability Available!	You now have enough SKILL to learn [00FFFF]Stinging Shot V[-]	Speak to Trainer Takeda to begin your training.	780	1
+12029	New Ability Available!	You now have enough SKILL to learn [00FFFF]Caltrops V[-]	Speak to Trainer Takeda to begin your training.	780	1
+12023	New Ability Available!	You now have enough SKILL to learn [00FFFF]Ninja Escape V[-]	Speak to Trainer Takeda to begin your training.	810	1
+12006	New Ability Available!	You now have enough SKILL to learn [00FFFF]Steady Shot VI[-]	Speak to Trainer Takeda to begin your training.	870	1
+12012	New Ability Available!	You now have enough SKILL to learn [00FFFF]Dark Hunter VI[-]	Speak to Trainer Takeda to begin your training.	870	1
+12035	New Ability Available!	You now have enough SKILL to learn [00FFFF]Firebomb Trap V[-]	Speak to Trainer Takeda to begin your training.	870	1
+12018	New Ability Available!	You now have enough SKILL to learn [00FFFF]Stinging Shot VI[-]	Speak to Trainer Takeda to begin your training.	900	1
+12030	New Ability Available!	You now have enough SKILL to learn [00FFFF]Caltrops VI[-]	Speak to Trainer Takeda to begin your training.	900	1
+12024	New Ability Available!	You now have enough SKILL to learn [00FFFF]Ninja Escape VI[-]	Speak to Trainer Takeda to begin your training.	930	1
+12036	New Ability Available!	You now have enough SKILL to learn [00FFFF]Firebomb Trap VI[-]	Speak to Trainer Takeda to begin your training.	990	1

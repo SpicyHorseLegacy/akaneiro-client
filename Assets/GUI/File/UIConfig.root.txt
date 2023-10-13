@@ -1,0 +1,15 @@
+STRING	STRING
+ScreenName	Description
+ScreenName	Description
+LoginScreen	abc
+SelectScreen	abc
+CreateScreen	abc
+IngameScreen	abc
+LoadingScreen	abc
+OptionScreen	Option
+DailyRewardScreen	abc
+SummonRewardScreen	abc
+EventsScreen	abc
+SuccessScreen	abc
+LevelUpScreen	abc
+MissionSelectScreen	abc

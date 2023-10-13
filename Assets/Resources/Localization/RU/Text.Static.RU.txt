@@ -1,0 +1,152 @@
+STRING	STRING
+TextIndex	Russian
+TextIndex	Russian
+UNLOCK	РАЗБЛОКИРОВАТЬ
+EXIT	ВЫХОД
+CHANGETHREAT	Are you sure you want to Trade Karma to change the Threat level?
+BACK	BACK
+REWARDOFFERED	ПРЕДЛОЖЕНА НАГРАДА:
+INCREASEDTHREATTIME	Увеличена угроза:
+MISSIONOBJECTIVE	Цель миссии:
+GETKS	ПОЛУЧИТЬ ОСКОЛКИ КАРМЫ
+GETKC	ПОЛУЧИТЬ КРИСТАЛЛЫ КАРМЫ
+GOODVALUE	Хорошая цена
+BESTVALUE	Лучшая цена
+AMOUNT	Количество:
+OK	ОК
+ENTERNAME	Введите имя
+GENDER	Пол
+AVATAR	Avatar
+DISCIPLINE	Дисциплина
+SELECT	Выбрать
+RETURNMENU	Вернуться в меню
+DISFROMSER	Отключение от сервера.
+PLAYERSTATS	Параметры игрока
+BASESTATS	БАЗОВЫЕ ПАРАМЕТРЫ
+BONUSES	БОНУСЫ
+STATS	Параметры игрока
+RECORD	Запись
+POWER	Сила
+DEFENSE	Защита
+SKILL	Искусность
+HEALTH	Здоровье
+ENERGY	Энергия
+MAINDPS	DPS правой руки:
+OFFDPS	DPS левой руки:
+CRITICALCHANCE	Шанс крита :
+CRITICALDMG	Урон крита :
+DMGREDUCTION	Уменьшение урона :
+DMGBONUS	Бонус урон:
+RESISTANCE	Сопротивление:
+INV	Снаряжение
+TRANSMUTE	Преобразование
+MAINHAND	правая рука
+OFFHAND	левая рука
+CHOOSEABI	Выберите способности
+CHOOSEAGROUP	Выберите группу:
+OPTIONS	Настройки
+GAMEMENU	ИГРОВОЕ МЕНЮ
+SETTINGS	Параметры
+HELPIDX	Оглавление подсказки
+GIFTCODE	Подарочный код
+BUGREPORT	Отчет об ошибке
+RETURNVILLAGE	Вернуться в деревню
+LOGOUT	Закончить сеанс
+QUITGAME	Выйти из игры
+GAMEPLAY	ИГРОВОЙ ПРОЦЕСС
+VIDEO	ВИДЕО
+AUTOATK	Автоматическая атака
+AUTOFADELOOTNAME	Скрывать названия предметов
+FULLSCREEN	Полный экран
+SHADOWS	Тени
+QUALITY	Качество
+LOW	Низкое
+NORMAL	Нормальное
+HIGH	Высокое
+BEST	Лучшее
+AUDIO	АУДИО
+SOUNDFX	Звуковые эффекты
+MUSIC	Музыка
+MUTESOUNDFX	Отключить эффекты
+MUTEMUSIC	Отключить  музыку
+TASKCOMPLETE	ЗАДАНИЕ ВЫПОЛНЕНО :
+XP	ОПЫТ
+FILTERSETTING	Настройка фильтра
+PUBLIC	Публично
+DEBUG	Отладка
+SYSTEM	Система
+COLORSETTING	Настройка цвета
+VENDORGATO	Купец Гато
+STATGROWTH	Рост параметров
+NEXT	Далее
+YOUARELEVEL	Вы получаете уровень [#FFFF00]
+LOADING	Загрузка
+REGISTER	Регистрация
+EMAILADDR	Электронная почта
+PASSWORD	Пароль
+LOGIN	Имя
+KARMASHARDS	Осколки кармы
+KARMACRYSTALS	Кристаллы кармы
+MAPUNLOCK	Разблокировать кармы
+PACKAGE1	Набор 1
+PACKAGE2	Набор 2
+PACKAGE3	Набор 3
+COMINGSOON	Скоро в продаже…
+UNLOCKMAPPAG1	Разблокировать остров Йоми: области 2 - 8!
+UNLOCKMAPPAG2	Разблокировать остров Йоми:          области 2 - 8!         Плюс 8888 в карму!
+CHOOSEACTION	Выберите действие:
+ESCAPEPRAYER	Молитва беглеца
+FREE	Бесплатно
+ESCTOVILLAGE	Вернуться в деревню Йоми
+XPEARNLOST	Заработанный карма и опыт будет потерян
+ITEMANDKARMARETAINED	Вещи будут сохранены
+REVIVALPRAYER	Молитва о воскрешении
+RETURNFULLPOWER	Полностью восстановить здоровье
+SMITENEARBYENEMIES	Нанести урон ближайшим врагам
+SHINIGAMISCROLL	Возрождение
+RETURNWITHVENGANCE	Вернуться и отомстить
+INCVFOR7SECONDS	Неуязвимость на 7 секунд
+SUPERSMITEENEMIES	Могучий удар по ближайшим врагам
+NOPENALTYEARN	Нет штрафа к опыту
+HUNTER	Охотник
+DELETE	Удалить
+LEVEL	Уровень
+NEWRECRUIT	Новобранец
+SUMMONERSHIMIZU	Призыватель Симидзу
+SUMMON	Призвать
+FRIENDS	Друзья
+ALL	Все
+ABIIMPROVESTAT	Способности повышают параметр
+TRAINERTAKEDA	Тренер Такэда
+GIFTFROMTHEVILLAGE	Подарки от деревни
+MARKYOURATTENDANCE	Возвращайтесь каждый день, чтобы получать все более ценные подарки!
+THANKS	Спасибо!
+CONGRATULATIONS	Поздравляем!
+YOUHAVERECEIVED	Вы получаете
+GREAT	Отлично!
+EQUIPPED	НАДЕТО
+DAMAGE	УРОН
+SPEED	СКОРОСТЬ
+VALUE	Цена
+NOTENOUGHTMONEY	У вас недостаточно кармы.
+LEVELCAPS	Макс. уровень [          ]
+MISSIONSUCCESS	Миссия успешна:
+MISSIONSUMMARY	Обзор миссии
+KARMAREWARDBONUS	Дополнительная карма
+EXPBREAKDOWN	Разбор опыта
+MISSIONEARNINGS	Заработано на миссии
+THREATBOUNS	Бонус за угрозу
+TOTALEXP	Общий опыт
+PING	Пинг
+ACTIVITIES	Действия
+CONTINUE	Продолжить
+YOUHAVEEARNED	Вы заработали
+THREATBALANCE	Баланс угрозы
+THREATBALANCEINFO	Низкая угроза = больше предметов Высокая угроза = больше опыта
+CHOOSEALLY	Choose Your Ally
+CHOOSEMISS	Choose Your Mission
+OPENBROWSER	OPEN IN BROWSER
+BUGREPORTDESC	To report a bug, please go to our website : \n http://support.spicyhorse.com
+MISSIONREWARDS	REWARDS
+CONFIRMQUIT	Are you sure you want to quit the game ?
+CONFIRMDELETEMAIL	Are you sure you want to delete this mail ?

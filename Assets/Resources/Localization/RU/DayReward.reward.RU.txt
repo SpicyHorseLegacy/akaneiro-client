@@ -1,0 +1,21 @@
+INT	INT	INT	INT	INT	INT	INT	INT	INT	STRING
+Day	RewardType	Count	TypeID	PrefabID	Gem	Element	Enchant	Level	Name
+Day	RewardType	Count	TypeID	PrefabID	Gem	Element	Enchant	Level	Name
+1	4	1	20000	1	0	0	0	0	Spicy Sushi - Power
+2	1	200	0	1	0	0	0	0	Karma Shards
+3	4	1	20004	1	0	0	0	0	Ginseng Soba - Crit
+4	1	300	0	1	0	0	0	0	Karma Shards
+5	2	2	0	1	0	0	0	0	Crystals
+6	1	400	0	1	0	0	0	0	Karma Shards
+7	1	500	0	1	0	0	0	0	Karma Shards
+8	4	1	20003	1	0	0	0	0	Garlic Snapper - Move
+9	1	600	0	1	0	0	0	0	Karma Shards
+10	1	700	0	1	0	0	0	0	Karma Shards
+11	2	5	0	1	0	0	0	0	Crystals
+12	1	900	0	1	0	0	0	0	Karma Shards
+13	4	1	20008	1	0	0	0	0	Red Tea - HP Regen
+14	1	1000	0	1	0	0	0	0	Karma Shards
+15	2	8	0	1	0	0	0	0	Crystals
+16	1	1100	0	1	0	0	0	0	Karma Shards
+17	4	1	20005	1	0	0	0	0	Yomi Sake - XP
+18	4	1	20101	1	0	0	0	0	5x Shinigami Scrolls

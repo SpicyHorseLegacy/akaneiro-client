@@ -1,0 +1,35 @@
+INT	STRING	INT	INT	INT	FLOAT	STRING	STRING	INT	INT	STRING	INT	INT
+ID	Enchant	 Chance 	EnchantLevel	StatusID	Value	Desc1	Desc2	EnchantType	IconID	Name	Min	Max
+ID	Enchant Name	 (NOT USED) Chance 	Enchant Level	StatusID	Value	Enchant Desc String 1	Enchant Desc String 2	EnchantType	IconID	Name String	Min Item Level for Enchant	Max Item Level for Enchant
+101	Healthy I	20	1	70401	1.5	1.5% Boost to 	Base Health	1	7	Healthy 	1	60
+102	Healthy II	8	2	70402	1.5	3% Boost to 	Base Health	1	7	Healthy 	3	60
+103	Healthy III	2	3	70403	1.5	4.5% Boost to 	Base Health	1	7	Healthy 	6	60
+104	Healthy IV	0	0	70404	2	6% Boost to 	Base Health	1	7	Healthy 	30	60
+105	Healthy V	0	0	70405	2	7.5% Boost to 	Base Health	1	7	Healthy 	60	60
+106	Healthy VI	0	0	70406	2	9% Boost to 	Base Health	1	7	Healthy 	60	60
+107	Healthy VII	0	0	70407	3	10.5% Boost to 	Base Health	1	7	Healthy 	60	60
+108	Healthy VIII	0	0	70408	3	12% Boost to 	Base Health	1	7	Healthy 	60	60
+109	Healthy IX	0	0	70409	3	13.5% Boost to 	Base Health	1	7	Healthy 	60	60
+110	Healthy X	0	0	70410	4	15% Boost to 	Base Health	1	7	Healthy 	60	60
+201	Focused I	22	1	70301	1.5	2% Boost to 	Energy Regen	2	8	Focused 	1	60
+202	Focused II	8	2	70302	1.5	4% Boost to 	Energy Regen	2	8	Focused 	3	60
+203	Focused III	2	3	70303	1.5	6% Boost to 	Energy Regen	2	8	Focused 	6	60
+204	Focused IV	0	0	70304	2	8% Boost to 	Energy Regen	2	8	Focused 	60	60
+205	Focused V	0	0	70305	2	10% Boost to 	Energy Regen	2	8	Focused 	60	60
+206	Focused VI	0	0	70306	2	12% Boost to 	Energy Regen	2	8	Focused 	60	60
+207	Focused VII	0	0	70307	3	14% Boost to 	Energy Regen	2	8	Focused 	60	60
+208	Focused VIII	0	0	70308	3	16% Boost to 	Energy Regen	2	8	Focused 	60	60
+209	Focused IX	0	0	70309	3	18% Boost to 	Energy Regen	2	8	Focused 	60	60
+210	Focused X	0	0	70310	4	20% Boost to 	Energy Regen	2	8	Focused 	60	60
+301	Fortified I	25	1	70601	1.5	1.5% Boost to 	Total Armor	3	9	Fortified 	1	60
+302	Fortified II	10	2	70602	1.5	3% Boost to 	Total Armor	3	9	Fortified 	3	60
+303	Fortified III	3	3	70603	1.5	4.5% Boost to 	Total Armor	3	9	Fortified 	6	60
+304	Fortified IV	0	0	70604	2	6% Boost to 	Total Armor	3	9	Fortified 	60	60
+305	Fortified V	0	0	70605	2	7.5% Boost to 	Total Armor	3	9	Fortified 	60	60
+306	Fortified VI	0	0	70606	2	9% Boost to 	Total Armor	3	9	Fortified 	60	60
+307	Fortified VII	0	0	70607	3	10.5% Boost to 	Total Armor	3	9	Fortified 	60	60
+308	Fortified VIII	0	0	70608	3	12% Boost to 	Total Armor	3	9	Fortified 	60	60
+309	Fortified IX	0	0	70609	3	13.5% Boost to 	Total Armor	3	9	Fortified 	60	60
+310	Fortified X	0	0	70610	4	15% Boost to 	Total Armor	3	9	Fortified 	60	60
+800	Stand and Fight	0	0	80101	15	5% Boost to all regen 	when HP below 8% 	0	12	Red Cap's 	60	60
+821	Blend in with the Pack	0	0	80401	15	30% Reduction to 	enemy alert distance 	0	11	Wolf's 	60	60

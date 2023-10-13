@@ -1,0 +1,43 @@
+INT	STRING	INT	INT	STRING	FLOAT	INT	FLOAT	STRING	STRING	INT	INT	STRING	INT	INT	INT
+ID	Element 	Chance	Element Level	StatusEffect	StatusEffectBonus %	ElementImpac VFX	Value	ElementDescString 1	ElementDescString 2	Element	IconID	Element Name	Min	Max	StatusID
+ID	Element String	(NOT USED) Attach Chance %	Element Level	Status Effect	Status Effect Bonus %	Element Impact VFX	Value	Element Desc String 1	Element Desc String 2	Element	IconID	Name String	Min Item Level for Element	Max Item Level for Element	StatusID
+101	Frost I	14	1	ResistFreezeSlow	4	0	2	4% Boost to 	Resist Freeze Slow	1	1	Frost 	1	60	74301
+102	Frost II	8	2	ResistFreezeSlow	8	0	2	8% Boost to 	Resist Freeze Slow	1	1	Frost 	3	60	74302
+103	Frost III	3	3	ResistFreezeSlow	12	0	2	12% Boost to 	Resist Freeze Slow	1	1	Frost 	6	60	74303
+104	Frost IV	0	4	ResistFreezeSlow	16	0	4	16% Boost to 	Resist Freeze Slow	1	1	Frost 	60	60	74304
+105	Frost V	0	5	ResistFreezeSlow	20	0	4	20% Boost to 	Resist Freeze Slow	1	1	Frost 	60	60	74305
+106	Frost VI	0	6	ResistFreezeSlow	24	0	4	24% Boost to 	Resist Freeze Slow	1	1	Frost 	60	60	74306
+107	Frost VII	0	7	ResistFreezeSlow	28	0	6	28% Boost to 	Resist Freeze Slow	1	1	Frost 	60	60	74307
+108	Frost VIII	0	8	ResistFreezeSlow	32	0	6	32% Boost to 	Resist Freeze Slow	1	1	Frost 	60	60	74308
+109	Frost IX	0	9	ResistFreezeSlow	36	0	6	36% Boost to 	Resist Freeze Slow	1	1	Frost 	60	60	74309
+110	Frost X	0	10	ResistFreezeSlow	45	0	8	45% Boost to 	Resist Freeze Slow	1	1	Frost 	60	60	74310
+201	Flame I	14	1	ResistFlameDoT	4	0	2	4% Boost to 	Resist Flame DoT	0	2	Flame 	1	60	74401
+202	Flame II	8	2	ResistFlameDoT	8	0	2	8% Boost to 	Resist Flame DoT	0	2	Flame 	3	60	74402
+203	Flame III	3	3	ResistFlameDoT	12	0	2	12% Boost to 	Resist Flame DoT	0	2	Flame 	6	60	74403
+204	Flame IV	0	4	ResistFlameDoT	16	0	4	16% Boost to 	Resist Flame DoT	0	2	Flame 	60	60	74404
+205	Flame V	0	5	ResistFlameDoT	20	0	4	20% Boost to 	Resist Flame DoT	0	2	Flame 	60	60	74405
+206	Flame VI	0	6	ResistFlameDoT	24	0	4	24% Boost to 	Resist Flame DoT	0	2	Flame 	60	60	74406
+207	Flame VII	0	7	ResistFlameDoT	28	0	6	28% Boost to 	Resist Flame DoT	0	2	Flame 	60	60	74407
+208	Flame VIII	0	8	ResistFlameDoT	32	0	6	32% Boost to 	Resist Flame DoT	0	2	Flame 	60	60	74408
+209	Flame IX	0	9	ResistFlameDoT	36	0	6	36% Boost to 	Resist Flame DoT	0	2	Flame 	60	60	74409
+210	Flame X	0	10	ResistFlameDoT	45	0	8	45% Boost to 	Resist Flame DoT	0	2	Flame 	60	60	74410
+301	Blast I	14	1	ResistExplosion 	4	0	2	4% Boost to 	Resist Blast Knockback 	2	3	Blast 	1	60	74501
+302	Blast II	8	2	ResistExplosion 	8	0	2	8% Boost to 	Resist Blast Knockback 	2	3	Blast 	3	60	74502
+303	Blast III	3	3	ResistExplosion 	12	0	2	12% Boost to 	Resist Blast Knockback 	2	3	Blast 	6	60	74503
+304	Blast IV	0	4	ResistExplosion 	16	0	4	16% Boost to 	Resist Blast Knockback 	2	3	Blast 	60	60	74504
+305	Blast V	0	5	ResistExplosion 	20	0	4	20% Boost to 	Resist Blast Knockback 	2	3	Blast 	60	60	74505
+306	Blast VI	0	6	ResistExplosion 	24	0	4	24% Boost to 	Resist Blast Knockback 	2	3	Blast 	60	60	74506
+307	Blast VII	0	7	ResistExplosion 	28	0	6	28% Boost to 	Resist Blast Knockback 	2	3	Blast 	60	60	74507
+308	Blast VIII	0	8	ResistExplosion 	32	0	6	32% Boost to 	Resist Blast Knockback 	2	3	Blast 	60	60	74508
+309	Blast IX	0	9	ResistExplosion 	36	0	6	36% Boost to 	Resist Blast Knockback 	2	3	Blast 	60	60	74509
+310	Blast X	0	10	ResistExplosion 	45	0	8	45% Boost to 	Resist Blast Knockback 	2	3	Blast 	60	60	74510
+401	Storm I	14	1	ResistStormStun	4	0	2	4% Boost to 	Resist Storm Stun	3	4	Storm 	1	60	74601
+402	Storm II	8	2	ResistStormStun	8	0	2	8% Boost to 	Resist Storm Stun	3	4	Storm 	3	60	74602
+403	Storm III	3	3	ResistStormStun	12	0	2	12% Boost to 	Resist Storm Stun	3	4	Storm 	6	60	74603
+404	Storm IV	0	4	ResistStormStun	16	0	4	16% Boost to 	Resist Storm Stun	3	4	Storm 	60	60	74604
+405	Storm V	0	5	ResistStormStun	20	0	4	20% Boost to 	Resist Storm Stun	3	4	Storm 	60	60	74605
+406	Storm VI	0	6	ResistStormStun	24	0	4	24% Boost to 	Resist Storm Stun	3	4	Storm 	60	60	74606
+407	Storm VII	0	7	ResistStormStun	28	0	6	28% Boost to 	Resist Storm Stun	3	4	Storm 	60	60	74607
+408	Storm VIII	0	8	ResistStormStun	32	0	6	32% Boost to 	Resist Storm Stun	3	4	Storm 	60	60	74608
+409	Storm IX	0	9	ResistStormStun	36	0	6	36% Boost to 	Resist Storm Stun	3	4	Storm 	60	60	74609
+410	Storm X	0	10	ResistStormStun	45	0	8	45% Boost to 	Resist Storm Stun	3	4	Storm 	60	60	74610

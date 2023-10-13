@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: cc54774e86d8bc240b6d49fa6b1ee1e2
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip001 L Toe0
+    100002: Bip001 L Foot
+    100004: Bip001 R Toe0
+    100006: Bip001 R Hand
+    100008: Bip001 R Thigh
+    100010: Bip001 R Foot
+    100012: Bip001 L Thigh
+    100014: Bip001 Prop1
+    100016: //RootNode
+    100018: WP_BountyMaster
+    100020: Bip001 L Calf
+    100022: Bip001 R Calf
+    100024: Bip001 Head
+    100026: Bip001 R Forearm
+    100028: Bip001 Footsteps
+    100030: Bip001 R Finger01
+    100032: Bip001 R Finger2
+    100034: Bip001 R Finger1
+    100036: Bip001 R Finger0
+    100038: Bip001 L Finger2
+    100040: Bip001 R Clavicle
+    100042: Bip001 L Forearm
+    100044: Bip001 L Clavicle
+    100046: polySurface10_polySurface4
+    100048: Bip001 L UpperArm
+    100050: Bip001 L Finger1
+    100052: Bip001 R Finger11
+    100054: Bip001 L Finger21
+    100056: Bip001 R Finger21
+    100058: Bip001 L Finger11
+    100060: Bip001 L Finger0
+    100062: Bip001 L Finger01
+    100064: Bip001 R UpperArm
+    100066: Bip001 L Hand
+    100068: Bip001 Neck
+    100070: Bip001 Spine1
+    100072: Bip001 Spine
+    100074: Bip001 Pelvis
+    100076: Bip001
+    100078: CH_BountyMaster
+    100080: polySurface26
+    100082: pCube5
+    100084: Root
+    400000: Bip001 L Toe0
+    400002: Bip001 L Foot
+    400004: Bip001 R Toe0
+    400006: Bip001 R Hand
+    400008: Bip001 R Thigh
+    400010: Bip001 R Foot
+    400012: Bip001 L Thigh
+    400014: Bip001 Prop1
+    400016: //RootNode
+    400018: WP_BountyMaster
+    400020: Bip001 L Calf
+    400022: Bip001 R Calf
+    400024: Bip001 Head
+    400026: Bip001 R Forearm
+    400028: Bip001 Footsteps
+    400030: Bip001 R Finger01
+    400032: Bip001 R Finger2
+    400034: Bip001 R Finger1
+    400036: Bip001 R Finger0
+    400038: Bip001 L Finger2
+    400040: Bip001 R Clavicle
+    400042: Bip001 L Forearm
+    400044: Bip001 L Clavicle
+    400046: polySurface10_polySurface4
+    400048: Bip001 L UpperArm
+    400050: Bip001 L Finger1
+    400052: Bip001 R Finger11
+    400054: Bip001 L Finger21
+    400056: Bip001 R Finger21
+    400058: Bip001 L Finger11
+    400060: Bip001 L Finger0
+    400062: Bip001 L Finger01
+    400064: Bip001 R UpperArm
+    400066: Bip001 L Hand
+    400068: Bip001 Neck
+    400070: Bip001 Spine1
+    400072: Bip001 Spine
+    400074: Bip001 Pelvis
+    400076: Bip001
+    400078: CH_BountyMaster
+    400080: polySurface26
+    400082: pCube5
+    400084: Root
+    2300000: WP_BountyMaster
+    3300000: WP_BountyMaster
+    4300000: CH_BountyMaster
+    4300002: WP_BountyMaster
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: CH_BountyMaster
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

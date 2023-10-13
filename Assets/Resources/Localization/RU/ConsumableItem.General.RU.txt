@@ -1,0 +1,24 @@
+INT	STRING	INT	STRING	INT	INT	INT
+ID	Name	ItemCategory	ItemFunction	StatusEffect	BuffID	StatusEffectBonus
+Number	USE Props.xlsx	ItemCategory	NOT USED. SEE Props.xlsx	StatusEffect	BuffID	StatusEffectBonus
+20000	Spicy Sushi	1	A spicy kick that increases POWER.	1	75001	0
+20009	Spicy Sushi 2	1	0	1	75002	0
+20001	Caviar Onigiri	1	Fresh treat that increases SKILL.	2	75101	0
+20010	Caviar Onigiri 2	1	0	2	75102	0
+20002	Mint Tofu	1	Fragrant snack that increases DEFENSE.	3	75201	0
+20014	Mint Tofu 2	1	0	3	75202	0
+20003	Garlic Snapper	1	Herb baked fish. Movement speed boost.	4	75301	0
+20015	Garlic Snapper 2	1	0	4	75302	0
+20004	Ginseng Soba	1	Chilled noodle. Improve critical chance.	5	75401	0
+20016	Ginseng Soba 2	1	0	5	75402	0
+20005	Yomi Sake	1	Local rice wine. Earn more XP.	6	75501	0
+20017	Yomi Sake 2	1	0	6	75502	0
+20006	Plum Wine	5	Sweet fruit wine. Better loot drops.	7	75801	200
+20018	Plum Wine 2	5	0	7	75802	800
+20007	Green Tea	1	Warm and soothing. Improve Energy regen.	8	75601	0
+20019	Green Tea 2	1	0	8	75602	0
+20008	Red Tea	1	Slightly bitter, but tasty. Improve HP regen.	9	75701	0
+20020	Red Tea 2	1	0	9	75702	0
+20101	5 Shinigami Scrolls	2	Use when Collapsed to revive and smite surrounding enemies.	0	0	0
+20103	20 Shinigami Scrolls	2	Use when Collapsed to revive and smite surrounding enemies.	0	0	0
+20104	50 Shinigami Scrolls	2	Use when Collapsed to revive and smite surrounding enemies.	0	0	0

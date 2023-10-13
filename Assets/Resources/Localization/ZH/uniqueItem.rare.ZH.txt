@@ -1,0 +1,87 @@
+INT	INT	INT	STRING	INT	INT	INT	INT	INT	INT	INT	INT
+ID	TypeID	PrefabID	Name (Not Used)	Gem	Element	Enchant	LimitCount	Level	KarmaPrice	CrystalPrice	Visible
+ID	TypeID	PrefabID	Name	Gem	Element	Enchant	LimitCount	Level	KarmaPrice	CrystalPrice	Visible
+1050	1001	2	Thirsty Katana	0	0	201	100	1	0	1	1
+1051	1010	2	Raging Ruby Claymore	1	0	101	100	5	0	9	1
+1052	1006	5	Brutal Flame Ruby Great Axe	1	201	301	50	10	0	20	1
+1053	1002	6	Raging Malachite Frost Axe	6	101	102	50	17	0	26	1
+1054	1007	8	Brutal Obsidian Blast Great Maul 	7	302	303	20	24	0	189	1
+1055	2003	402	Fortified Hatamoto Pants	0	0	301	100	1	0	1	1
+1056	2001	401	Fortified Emerald Samurai Helm 	3	0	301	100	5	0	9	1
+1057	2001	103	Fur-lined Healthy Saphire Holy Helm	2	101	101	50	10	0	26	1
+1058	2002	501	Chilled Focussed Garnet Skinner Plate	4	202	201	50	17	0	60	1
+1059	2003	602	Healthy Insulated Jade Infantry Pants	9	402	102	20	24	0	99	1
+1060	3001	2	Nimble Ring	0	0	101	100	1	0	1	1
+1061	3001	3	Saphire Ring	2	0	0	100	2	0	3	1
+1062	3002	3	Ameythist Storm Necklace	5	401	0	50	5	0	12	1
+1063	2010	13	Healthy Malachite Rough Long Cloak	6	0	102	50	17	0	47	1
+1064	2010	12	Focussed Jade Plated Akane Hood	9	302	201	20	24	0	77	1
+9500	3002	6	Steam Necklace	101	0	0	0	1	0	0	0
+9000	2010	101	Red Cap's Cloak	9	203	203	100	1	10	0	0
+9001	1002	101	Hunter's Axe	9	203	203	100	10	10	0	0
+9002	2001	1001	Cherry_Head	0	0	0	100	1	10	0	0
+9003	2001	1002	GrandmaWolf_Head	0	0	0	100	1	10	0	0
+9004	2001	1003	Hula_Head	0	0	0	100	1	10	0	0
+9005	2001	1004	Sailor_Head	0	0	0	100	1	10	0	0
+9006	2001	1005	Straw_Head	0	0	0	100	1	10	0	0
+9007	2001	1006	Teapot_Head	0	0	0	100	1	10	0	0
+9008	2002	1001	Cherry_Chest	0	0	0	100	1	10	0	0
+9009	2002	1002	GrandmaWolf_Chest	0	0	0	100	1	10	0	0
+9010	2002	1003	Hula_Chest	0	0	0	100	1	10	0	0
+9011	2002	1004	Sailor_Chest	0	0	0	100	1	10	0	0
+9012	2002	1005	Straw_Chest	0	0	0	100	1	10	0	0
+9013	2002	1006	Teapot_Chest	0	0	0	100	1	10	0	0
+9014	2003	1001	Cherry_Leg	0	0	0	100	1	10	0	0
+9015	2003	1002	GrandmaWolf_Leg	0	0	0	100	1	10	0	0
+9016	2003	1003	Hula_Leg	0	0	0	100	1	10	0	0
+9017	2003	1004	Sailor_Leg	0	0	0	100	1	10	0	0
+9018	2003	1005	Straw_Leg	0	0	0	100	1	10	0	0
+9019	2003	1006	Teapot_Leg	0	0	0	100	1	10	0	0
+9020	3001	101	KS Ring	0	0	0	100	1	10	0	0
+8000	20000	1	Spicy Sushi	0	0	0	0	0	0	0	0
+8001	20001	1	Caviar Onigiri	0	0	0	0	0	0	0	0
+8002	20002	1	Mint Tofu	0	0	0	0	0	0	0	0
+8003	20003	1	Garlic Snapper	0	0	0	0	0	0	0	0
+8004	20004	1	Ginseng Soba	0	0	0	0	0	0	0	0
+8005	20005	1	Yomi Sake	0	0	0	0	0	0	0	0
+8006	20006	1	Plum Wine	0	0	0	0	0	0	0	0
+8007	20007	1	Green Tea	0	0	0	0	0	0	0	0
+8008	20008	1	Red Tea	0	0	0	0	0	0	0	0
+8009	20009	1	Sea Urchin Sushi	0	0	0	0	0	0	0	0
+8010	20010	1	Kagami Mochi	0	0	0	0	0	0	0	0
+8011	20014	1	Dorayaki	0	0	0	0	0	0	0	0
+8012	20015	1	Fugu Tempura	0	0	0	0	0	0	0	0
+8013	20016	1	Sukiyaki	0	0	0	0	0	0	0	0
+8014	20017	1	Shochu	0	0	0	0	0	0	0	0
+8015	20018	1	Awamori	0	0	0	0	0	0	0	0
+8016	20019	1	Hojicha Tea	0	0	0	0	0	0	0	0
+8017	20020	1	Chrysanthemum Tea	0	0	0	0	0	0	0	0
+8200	20100	0	1 Shinigami Scroll	0	0	0	0	0	0	0	0
+8201	20101	0	5 Shinigami Scrolls	0	0	0	0	0	0	0	0
+8202	20102	0	10 Shinigami Scrolls	0	0	0	0	0	0	0	0
+8203	20103	0	20 Shinigami Scrolls	0	0	0	0	0	0	0	0
+8204	20104	0	50 Shinigami Scrolls	0	0	0	0	0	0	0	0
+8205	20105	0	100 Shinigami Scrolls	0	0	0	0	0	0	0	0
+8500	6001	0	Pelts	0	0	0	0	0	0	0	0
+8501	6002	0	Metal	0	0	0	0	0	0	0	0
+8502	6003	0	Timber	0	0	0	0	0	0	0	0
+8503	6004	0	Cloth	0	0	0	0	0	0	0	0
+8504	6005	0	Teeth	0	0	0	0	0	0	0	0
+8505	6006	0	Vine	0	0	0	0	0	0	0	0
+8506	6007	0	Resin	0	0	0	0	0	0	0	0
+8507	6008	0	Flux	0	0	0	0	0	0	0	0
+8508	6009	0	Leather	0	0	0	0	0	0	0	0
+8509	7001	0	Ruby	0	0	0	0	0	0	0	0
+8510	7002	0	Emerald	0	0	0	0	0	0	0	0
+8511	7003	0	Sapphire	0	0	0	0	0	0	0	0
+8512	7004	0	Garnet	0	0	0	0	0	0	0	0
+8513	7005	0	Amethyst	0	0	0	0	0	0	0	0
+8514	7006	0	Malachite	0	0	0	0	0	0	0	0
+8515	7007	0	Obsidian	0	0	0	0	0	0	0	0
+8516	7008	0	Jade	0	0	0	0	0	0	0	0
+8517	7009	0	Gold	0	0	0	0	0	0	0	0
+8518	8001	0	Frost Core	0	0	0	0	0	0	0	0
+8519	8002	0	Lava Core	0	0	0	0	0	0	0	0
+8520	8003	0	Blast Core	0	0	0	0	0	0	0	0
+8521	8004	0	Storm Core	0	0	0	0	0	0	0	0
+8522	9001	0	Karma Core	0	0	0	0	0	0	0	0

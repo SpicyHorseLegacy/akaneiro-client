@@ -1,0 +1,12 @@
+name#GUI tester
+account#test203
+password#123456
+ip#192.168.6.81
+rememberAcc#1
+version#unknow version
+uid#Test203
+token#123
+gameCode#123
+port#123
+key#123
+description#So,easy.

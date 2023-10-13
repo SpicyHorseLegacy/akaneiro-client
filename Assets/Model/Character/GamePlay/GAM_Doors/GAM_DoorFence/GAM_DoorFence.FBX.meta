@@ -1,0 +1,80 @@
+fileFormatVersion: 2
+guid: f0b90455f2098e9438689bd309abb5bf
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: GAM_DoorFence_L
+    100002: GAM_DoorFence_R
+    100004: //RootNode
+    100006: Bone001
+    100008: Bone002
+    100010: Dummy001
+    100012: Dummy002
+    100014: Root
+    400000: GAM_DoorFence_L
+    400002: GAM_DoorFence_R
+    400004: //RootNode
+    400006: Bone001
+    400008: Bone002
+    400010: Dummy001
+    400012: Dummy002
+    400014: Root
+    2300000: GAM_DoorFence_L
+    2300002: GAM_DoorFence_R
+    3300000: GAM_DoorFence_L
+    3300002: GAM_DoorFence_R
+    4300000: GAM_DoorFence_L
+    4300002: GAM_DoorFence_R
+    11100000: //RootNode
+    13700000: GAM_DoorFence_L
+    13700002: GAM_DoorFence_R
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

@@ -1,0 +1,5 @@
+STRING
+INFO
+INFO
+Karma Shards are the raw currency formed from the blood of the fallen Yokai. 
+Karma Crystals are the highly valued currency refined from Karma in its most pure state.

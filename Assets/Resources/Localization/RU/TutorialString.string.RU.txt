@@ -1,0 +1,21 @@
+INT	STRING	STRING	STRING
+ID	Title	Content	String
+ID	Title	Content	String
+10001	[#000000]Yomi Island - Village	[#000000] Do some introducing of this game World.	
+10002	[#000000]Movement.	[#ff0000]Left-Click[#000000] to move about the World...	
+10003	[#000000]Old Man	[#000000] The wolves have taken over! Help us save the village¡­	
+10004	[#000000]Old Woman	[#ff0000]Left-Click[#000000] on a valid target to attack it. Click and hold to attack the target continuously.	
+10005	[#000000]Karma Shards	[#000000] The red pieces we call Karma, it can be get from the dead  enemy body...we can do some introduction of the Karma here like telling player it can recover player and be used to buy stuff.	
+10006	[#000000]Breakable	[#000000] Oh, this is breakable...you can also find Karma inside.	
+10007	[#000000]Large map	[#000000] Good attack. Now, try to open the large map by pressing "M" and it will help you find more enemies. Also, it will help you out of lost sometimes...	
+10008	[#000000]Large map	[#000000] Now, try to find more monsters and kill them all.	
+10009	[#000000] Equipment	 [#000000] Your fist is too weak. Try to equip a powerful weapon from your bag.	
+10010	[#000000]Consumable	[#000000] And your health is too low to fight any further. It is too dangerous. You have some consumable in your inventory bag too. Eat them to recover and fight again.	
+10011	[#000000]Old Man	[#000000] Good. Now, help us to Kill this Monster.	
+10012	[#000000]Karma Shards 2	[#000000] You can notice the Karma also can recover your health.	
+10013	[#000000]Karma Shards 2	[#000000] Now, you feel good !	
+10014	[#000000]Old Man	[#000000] This is Amano Harbinger. Normal attack is useless sometimes. Try the ability and it will be more efficient.	
+10015	[#000000]Old Man	[#000000] Teach player how to use the ability at here. Use some animation on the screen to show the step will be nice	
+10016	[#000000]Old Man	[#000000] This a green item......you can equip this item from your inventory.	
+10017	[#000000]Old Man	[#000000] Materials are used for Crafting your items to higher levels.	
+10018	[#000000]Old Man	[#000000] Thank you , saved the village...this is the amulet...	

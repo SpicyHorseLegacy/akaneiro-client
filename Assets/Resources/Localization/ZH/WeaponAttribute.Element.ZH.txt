@@ -1,0 +1,15 @@
+INT	STRING	INT	INT	FLOAT	INT	INT	INT	FLOAT	STRING	STRING	FLOAT	INT	INT	INT	STRING	INT	INT
+ID	Element 	AttachChance 	ElementDamage	AreaDamage	Percent	Element	SkillID	Value	Element Desc String 1	Element Desc String 2	DamagePercent	DamageAngle	DamageRadius	IconID	Element Name	Min	Max
+ID	Element Damage Type 	(NOT USED) Attach Chance	Element Level	Damage Modifier	Percent	Element	StatusID	Value	Element Desc String 1	Element Desc String 2	DamagePercent	DamageAngle	DamageRadius	IconID	Name String	Min Item Level for Element	Max Item Level for Element
+101	Frost I	14	1	0.2	10	1	72201	2	Slight chance of 	freezing enemies	0.5	360	0	1	Frost 	1	60
+102	Frost II	8	2	0.3	25	1	72202	4	Moderate chance of 	freezing enemies	0.6	360	0	1	Frost 	12	60
+103	Frost III	3	3	0.5	35	1	72203	6	High chance of 	freezing enemies	0.75	360	0	1	Frost 	25	60
+201	Flame I	14	1	0.2	10	0	72601	2	Slight chance of 	burning enemies	0.02	360	0	2	Flame 	1	60
+202	Flame II	8	2	0.3	25	0	72602	4	Moderate chance of 	burning enemies	0.05	360	0	2	Flame 	12	60
+203	Flame III	3	3	0.5	35	0	72603	6	High chance of 	burning enemies	0.07	360	0	2	Flame 	25	60
+301	Blast I	14	1	0.2	10	2	72401	2	Slight chance of 	blasting enemies	0	360	2	3	Blast 	1	60
+302	Blast II	8	2	0.3	25	2	72402	4	Moderate chance of 	blasting enemies	0	360	4	3	Blast 	12	60
+303	Blast III	3	3	0.5	35	2	72403	6	High chance of 	blasting enemies	0	360	6	3	Blast 	25	60
+401	Storm I	14	1	0.2	10	3	72001	2	Slight chance of 	shocking enemies	0	360	1	4	Storm 	1	60
+402	Storm II	8	2	0.3	25	3	72002	4	Moderate chance of 	shocking enemies	0	360	2	4	Storm 	12	60
+403	Storm III	3	3	0.5	35	3	72003	6	High chance of 	shocking enemies	0	360	3	4	Storm 	25	60

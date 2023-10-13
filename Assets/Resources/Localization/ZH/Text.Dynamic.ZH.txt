@@ -1,0 +1,93 @@
+STRING	STRING
+TextIndex	English
+TextIndex	English
+DISCONCHEAT	The server has recorded suspicious behavior from your account. Please ensure you're playing with the latest version of the game.
+DISFROMSERVER	Disconnected from server.
+INVALIDCODE	Invalid code.
+YOURECEIVE	You receive
+CONABORTED	Connection aborted
+PROWESSABISTAT	Prowess abilities improve with POWER stat
+FORTITUDEABISTAT	Fortitude abilities improve with DEFENSE stat
+CUNNINGABISTAT	Cunning abilities improve with SKILL stat
+CONTOSERVER	Connecting to server...
+ACCORPASSERR	Account name or password error.
+VERSIONERR	The client and server versions do not match. Please update your client.
+CON	Connecting...
+PURCHASEOK	Purchase complete. Remaining Balance: 
+DAMAGE	DAMAGE
+ARMOR	ARMOR
+SPEED	SPEED
+PLEINPUTREDEEM	Please input your key for redemption.
+LOW	Low
+NORMAL	Normal
+HIGH	High
+BEST	Best
+LOADING	Loading
+KS	Karma Shards
+KC	Karma Crystals
+INCTHREAT	Increase Threat 
+INCTHREATINFO	Spend Karma Shards to raise the threat level.
+DECTHREAT	Decrease Threat 
+DECTHREATINFO	Spend Karma Shards to lower the threat level.
+LOADINGPWAM	Loading. Please wait a moment.
+RCB	[#FF3C00]right-click[#FFFFFF] to buy
+RCS	[#FF3C00]right-click[#FFFFFF] to sell
+RCT	[#FF3C00]right-click[#FFFFFF] to transmute
+RCE	[#FF3C00]right-click[#FFFFFF] to equip
+RCSU	[#FF3C00]right-click[#FFFFFF] to summon
+RCU	[#FF3C00]right-click[#FFFFFF] to unequip
+LEVEL	Level 
+REQLEVEL	Requires Level 
+PROWERREQLV	Prowess abilities improve with POWER.     Requires POWER 
+FORTITRREQLV	Fortitude abilities improve with DEFENSE.     Requires DEFENSE 
+CUNNINGRREQLV	Cunning abilities improve with SKILL.     Requires SKILL 
+FURTHERTA	Further training adds:
+FLAMET	Flametongue
+AVAILABLETRA	Available Training : 
+MAX	Max
+ENTERNAME	Enter Name
+CREATECHARINPUTERR	Character names must be at least 3 characters long with no spaces or symbols.
+CREATEINGCHARA	Creating Character...
+PROWESS	Prowess
+FORTITUDE	Fortitude
+CUNNING	Cunning
+LOGININPUTERR	The account name you entered is not a valid email address..
+ALLCARABSII	All Cunning abilities receive a bonus.     Skill is increased.
+ALLCARABDII	All Fortitude abilities receive a bonus.     Defense is increased.
+ALLCARABPII	All Prowess abilities receive a bonus.     Power is increased.
+RECON	Reconnecting ...
+SECURE	SECURE
+LOWTHREAT	LOW THREAT
+OVERRUN	OVERRUN
+eItemError_BuyNotEnoughMoneny	You don't have enough Karma to complete this transaction.
+eGS_LessReviveItem	You don't have enough Shinigami Scrolls.
+eGS_LessLevel	You do not meet the level requirement.
+eCreateCharacter_AlreadyNickName	Character name is already in use.
+eCreateCharacter_CharacterFull	You have reached the maximum number of characters.
+eCreateCharacter_ParamError	Your name contains invalid characters.
+eItemError_BagFull	Your inventory is full.
+eGS_SkillNotExist	That skill no longer exists.
+eItemError_NoExist	That item no longer exists.
+eUserAlreadyOnline	You are already logged in.
+eWrongAccountOrPwd	Account name or password are incorrect.
+eMission_have_buy_area	You have already purchased this area.
+eGS_UserStateError	A server error occurred. Please reload the game.
+eItemError_rareItemSellOut	Sorry Hunter, this item has sold out.
+eItemError_BuyCantFindItem	This item is currently out of stock.
+eItemError_SellOut	Sorry Hunter, this item has sold out.
+eGift_NotExist	Invalid key. Please check that you have entered the key correctly.
+eGift_HaveBeenUsed	This key has already been redeemed.
+eGS_SkillColding	You are currently training another Ability.
+eItemCraftError_ParamError	You don't have the required materials for this upgrade.
+ePetError_repeatPet	You have already summoned this pet.
+SEARCHFRIENDLIST	Search Friend List
+FREE	Free
+DURATION30M	Duration 30 minutes
+RCC	[#FF3C00]right-click[#FFFFFF] to call
+WANTED	WANTED
+BOSS	Boss
+UNKNOWNAREA	Unknown Area
+REQPOWER	Requires        POWER
+REQDEFENSE	Requires        DEFENSE
+REQSKILL	Requires        SKILL
+NODISCIPLINE	You don’t have enough Discipline points to learn this yet

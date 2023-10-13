@@ -1,0 +1,29 @@
+INT	STRING	STRING	STRING	STRING
+ID	Title	Content	LeftImage	RightImage
+ID	CardTitle	Description	LeftImage	RightImage
+10001	[FFFFFF]Yomi Island	[000000]Demonic creatures called [FF0000]Yokai[000000] have overrun Yomi Island! They're destroying our [FF0000]Village![000000]		
+10002	[FFFFFF]Movement	[FF0000]Left-Click[000000] to talk to the injured villager		
+10003	[FFFFFF]Save Us!	[000000]Help! My family is being attacked by demonic wolves, save them!		
+10004	[FFFFFF]Attack	[000000]Quickly, a wolf is up ahead, [FF0000]Left-Click[000000] on an enemy to attack it!		
+10005	[FFFFFF]Karma Shards	[000000]When Yokai are killed their blood instantly crystallizes, forming [FF0000]Karma Shards [000000]which can be used as tradable currency.		
+10006	[FFFFFF]Interactions	[000000]Interact with [FF0000]Glowing objects [000000]to recover [FF0000]Loot [000000]and [FF0000]Karma Shards.[000000]		
+10007	[FFFFFF]Combat	[FF0000]Follow[000000] the arrows to the next combat area		
+10008				
+10009				
+10010	[FFFFFF]Consumable	[000000]And your health is low to fight, eat some [FF0000]Food [000000]to recover [FF0000]Health		
+10011	[FFFFFF]Abilities	[000000]There are more enemies ahead, [FF0000]Right-Click [000000]to use your Special [FF0000]Ability!		
+10012				
+10013				
+10014				
+10015				
+10016	[FFFFFF]Materials	[000000]The enemy dropped a [FF0000]Material[000000], you can use this to upgrade your equipment!		
+10017	[FFFFFF]Inventory	[000000]The Amano Harbinger dropped loot! Once collected, you can view loot from your [FF0000]Inventory		
+10018	[FFFFFF]Mission Complete	[000000]You have saved the [FF0000]Village[000000]! The residents are now able to return to their homes. 		
+10019	[FFFFFF]Mission Complete	[000000]When ready, click on the [FF0000]Green Amulet [000000]to complete the mission.		
+10020	[FFFFFF]Sshate	[000000]Master Demonologist		
+10021		[000000]You are lost,but not alone.We will protect you.We will bring you home.		
+10022	[FFFFFF]Here lies Linus	[000000]The Second Best Fighter in the World		
+10023		[000000]This statue made for the demon hunter from the Northlands, Henrik Mygren.Held the enemy waves at bay until succumbing to his ortalwounds.Gave his fellow demon hunters time to gather to push the Yokai back.		
+10024		[000000]Happy 21st Birthday, Alice! Love,C.A.T.
+		
+10025		[000000]Dante's Bridge		

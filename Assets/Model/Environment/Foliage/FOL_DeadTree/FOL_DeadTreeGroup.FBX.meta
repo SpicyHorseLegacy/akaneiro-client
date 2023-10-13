@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 1de2f8e513d8edd4293dcf3f3f783f0a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: FOL_DeadTreeGroup02
+    100002: FOL_DeadTreeGroup03
+    100004: FOL_DeadTreeGroup01
+    100006: //RootNode
+    100008: FOL_DeadTreeGroup05
+    100010: FOL_DeadTreeGroup04
+    100012: FOL_DeadTreeGroup07
+    100014: FOL_DeadTreeGroup06
+    400000: FOL_DeadTreeGroup02
+    400002: FOL_DeadTreeGroup03
+    400004: FOL_DeadTreeGroup01
+    400006: //RootNode
+    400008: FOL_DeadTreeGroup05
+    400010: FOL_DeadTreeGroup04
+    400012: FOL_DeadTreeGroup07
+    400014: FOL_DeadTreeGroup06
+    2300000: FOL_DeadTreeGroup02
+    2300002: FOL_DeadTreeGroup03
+    2300004: FOL_DeadTreeGroup01
+    2300006: FOL_DeadTreeGroup05
+    2300008: FOL_DeadTreeGroup04
+    2300010: FOL_DeadTreeGroup07
+    2300012: FOL_DeadTreeGroup06
+    3300000: FOL_DeadTreeGroup02
+    3300002: FOL_DeadTreeGroup03
+    3300004: FOL_DeadTreeGroup01
+    3300006: FOL_DeadTreeGroup05
+    3300008: FOL_DeadTreeGroup04
+    3300010: FOL_DeadTreeGroup07
+    3300012: FOL_DeadTreeGroup06
+    4300000: FOL_DeadTreeA001
+    4300002: FOL_DeadTreeD001
+    4300004: FOL_DeadTreeB001
+    4300006: FOL_DeadTreeB002
+    4300008: FOL_DeadTreeB003
+    4300010: FOL_DeadTreeA002
+    4300012: FOL_DeadTreeB004
+    4300014: FOL_DeadTreeGroup
+    4300016: FOL_DeadTreeGroup04
+    4300018: FOL_DeadTreeGroup01
+    4300020: FOL_DeadTreeGroup06
+    4300022: FOL_DeadTreeGroup02
+    4300024: FOL_DeadTreeGroup03
+    4300026: FOL_DeadTreeGroup05
+    4300028: FOL_DeadTreeGroup07
+    4300030: FOL_DeadTreeC001
+    4300032: FOL_DeadTreeC002
+    4300034: FOL_DeadTreeC003
+    7400000: Take 001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

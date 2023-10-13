@@ -1,0 +1,34 @@
+INT	STRING	INT	INT	INT	FLOAT	STRING	STRING	INT	INT	STRING	INT	INT
+ID	EnchantString	AttachChance	EnchantLevel	StatusID	Value	Enchant Desc String 1	Enchant Desc String 2	EnchantType	IconID	Enchant Name	Min	Max
+ID	Enchant String	(NOT USED) Attach Chance	Enchant Level	StatusID	Value	Enchant Desc String 1	Enchant Desc String 2	EnchantType	IconID	Name String	Min Item Level for Enchant	Max Item Level for Enchant
+101	Raging I	20	1	70101	1.5	5% Boost to 	Attack Damage	1	1	Raging 	1	60
+102	Raging II	8	2	70102	1.5	10% Boost to 	Attack Damage	1	1	Raging 	3	60
+103	Raging III	2	3	70103	1.5	15% Boost to 	Attack Damage	1	1	Raging 	6	60
+104	Raging IV	0	4	70104	2	20% Boost to 	Attack Damage	1	1	Raging 	60	60
+105	Raging V	0	5	70105	2	25% Boost to 	Attack Damage	1	1	Raging 	60	60
+106	Raging VI	0	6	70106	2	30% Boost to 	Attack Damage	1	1	Raging 	60	60
+107	Raging VII	0	7	70107	3	35% Boost to 	Attack Damage	1	1	Raging 	60	60
+108	Raging VIII	0	8	70108	3	40% Boost to 	Attack Damage	1	1	Raging 	60	60
+109	Raging IX	0	9	70109	3	45% Boost to 	Attack Damage	1	1	Raging 	60	60
+110	Raging X	0	10	70110	4	50% Boost to 	Attack Damage	1	1	Raging 	60	60
+201	Thirsty I	22	1	72701	1.5	5% Chance to 	Steal Health	2	2	Thirsty 	1	60
+202	Thirsty II	8	2	72702	1.5	10% Chance to 	Steal Health	2	2	Thirsty 	3	60
+203	Thirsty III	2	3	72703	1.5	15% Chance to 	Steal Health	2	2	Thirsty 	6	60
+204	Thirsty IV	0	4	72704	2	20% Chance to 	Steal Health	2	2	Thirsty 	60	60
+205	Thirsty V	0	5	72705	2	25% Chance to 	Steal Health	2	2	Thirsty 	60	60
+206	Thirsty VI	0	6	72706	2	30% Chance to 	Steal Health	2	2	Thirsty 	60	60
+207	Thirsty VII	0	7	72707	3	35% Chance to 	Steal Health	2	2	Thirsty 	60	60
+208	Thirsty VIII	0	8	72708	3	40% Chance to 	Steal Health	2	2	Thirsty 	60	60
+209	Thirsty IX	0	9	72709	3	45% Chance to 	Steal Health	2	2	Thirsty 	60	60
+210	Thirsty X	0	10	72710	4	50% Chance to 	Steal Health	2	2	Thirsty 	60	60
+301	Brutal I	25	1	71901	1.5	3% Boost to 	Cause Stun	3	3	Brutal 	1	60
+302	Brutal II	10	2	71902	1.5	6% Boost to 	Cause Stun	3	3	Brutal 	3	60
+303	Brutal III	3	3	71903	1.5	9% Boost to 	Cause Stun	3	3	Brutal 	6	60
+304	Brutal IV	0	4	71904	2	12% Boost to 	Cause Stun	3	3	Brutal 	60	60
+305	Brutal V	0	5	71905	2	15% Boost to 	Cause Stun	3	3	Brutal 	60	60
+306	Brutal VI	0	6	71906	2	18% Boost to 	Cause Stun	3	3	Brutal 	60	60
+307	Brutal VII	0	7	71907	3	21% Boost to 	Cause Stun	3	3	Brutal 	60	60
+308	Brutal VIII	0	8	71908	3	24% Boost to 	Cause Stun	3	3	Brutal 	60	60
+309	Brutal IX	0	9	71909	3	27% Boost to 	Cause Stun	3	3	Brutal 	60	60
+310	Brutal X	0	10	71910	4	30% Boost to 	Cause Stun	3	3	Brutal 	60	60
+800	Swift and True	0	10	80201	15	5% Boost to speed 	when energy is full	0	13	Clever Huntsman's 	60	60

@@ -1,0 +1,8 @@
+INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT	INT
+PlatFormID	GetKarmaShards1	PayMoney1	GetKarmaShards2	PayMoney2	GetKarmaShards3	PayMoney3	GetKarmaShards4	PayMoney4	GetKarmaShards5	PayMoney5	RealMoney1	RealMoney2	RealMoney3	RealMoney4	RealMoney5	GetKarmaCrystals1	PayMoney1	GetKarmaCrystals2	PayMoney2	GetKarmaCrystals3	PayMoney3	GetKarmaCrystals4	PayMoney4	GetKarmaCrystals5	PayMoney5	RealMoney1	RealMoney2	RealMoney3	RealMoney4	RealMoney5
+PlatFormID	GetKarmaShards1	PayMoney1	GetKarmaShards2	PayMoney2	GetKarmaShards3	PayMoney3	GetKarmaShards4	PayMoney4	GetKarmaShards5	PayMoney5	RealMoney1	RealMoney2	RealMoney3	RealMoney4	RealMoney5	GetKarmaCrystals1	PayMoney1	GetKarmaCrystals2	PayMoney2	GetKarmaCrystals3	PayMoney3	GetKarmaCrystals4	PayMoney4	GetKarmaCrystals5	PayMoney5	RealMoney1	RealMoney2	RealMoney3	RealMoney4	RealMoney5
+0	12000	50	25000	100	55000	200	150000	500	350000	1000	5	10	20	50	100	50	50	110	100	240	200	650	500	1500	1000	5	10	20	50	100
+1	12000	50	25000	100	55000	200	150000	500	350000	1000	5	10	20	50	100	50	50	110	100	240	200	650	500	1500	1000	5	10	20	50	100
+2	12000	50	25000	100	55000	200	150000	500	350000	1000	5	10	20	50	100	50	50	110	100	240	200	650	500	1500	1000	5	10	20	50	100
+3	12000	50	25000	100	55000	200	150000	500	350000	1000	5	10	20	50	100	50	50	110	100	240	200	650	500	1500	1000	5	10	20	50	100
+4	12000	50	25000	100	55000	200	150000	500	350000	1000	5	10	20	50	100	50	50	110	100	240	200	650	500	1500	1000	5	10	20	50	100

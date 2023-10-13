@@ -1,0 +1,8 @@
+STRING	FLOAT	FLOAT	FLOAT	INT	INT	FLOAT	FLOAT	FLOAT	INT	STRING
+TemplateName	PosX	PosY	PosZ	IsHide	IsDrag	ScaleX	ScaleY	ScaleZ	PreLoad	Description
+TemplateName	PosX	PosY	PosZ	IsHide	IsDrag	ScaleX	ScaleY	ScaleZ	PreLoad	Description
+CharInfo_Equips	0	0	0	0	0	1	1	1	1	abc
+CharInfo_Abilities	0	0	0	0	0	1	1	1	1	abc
+CharInfo_BG	20	0	100	0	0	1	1	1	1	abc
+CharInfo_Tooltips	0	0	0	0	0	1	1	1	1	abc
+CharInfo_DragItem	0	0	0	0	0	1	1	1	1	abc

@@ -1,0 +1,96 @@
+INT	STRING	INT	INT	INT	FLOAT	FLOAT	INT	FLOAT	STRING	STRING	INT	STRING
+ID	Color	AttachChance	GemProgramType	GemTelent	EffectBonus	Value	Value	Value	Gem Desc String 1	Gem Desc String 2	IconID	Gem Name
+ID	Gem Type	Attach Chance %	GemProgramType	GemTelent	Gem Effect Formula	Shop Price Value	Gem Trail VFX	Gem Effect Bonus	Gem Desc String 1	Gem Desc String 2	IconID	Name String
+501	Ruby	12	1	1	0.2	2.5	0	9	Stat Boost: 	Power +9	1	Ruby 
+502	Ruby II	6	1	1	0.2	2.5	0	18	Stat Boost: 	Power +18	1	Ruby 
+503	Ruby III	2	1	1	0.2	2.5	0	27	Stat Boost: 	Power +27	1	Ruby 
+504	Ruby IV	0	1	1	0.2	2.5	0	36	Stat Boost: 	Power +36	1	Ruby 
+505	Ruby V	0	1	1	0.2	2.5	0	45	Stat Boost: 	Power +45	1	Ruby 
+506	Ruby VI	0	1	1	0.2	2.5	0	54	Stat Boost: 	Power +54	1	Ruby 
+507	Ruby VII	0	1	1	0.2	2.5	0	63	Stat Boost: 	Power +63	1	Ruby 
+508	Ruby VIII	0	1	1	0.2	2.5	0	72	Stat Boost: 	Power +72	1	Ruby 
+509	Ruby IX	0	1	1	0.2	2.5	0	81	Stat Boost: 	Power +81	1	Ruby 
+510	Ruby X	0	1	1	0.2	2.5	0	90	Stat Boost: 	Power +90	1	Ruby 
+601	Sapphire	12	1	4	0.2	2.5	0	9	Stat Boost: 	Skill +9	2	Sapphire 
+602	Sapphire II	6	1	4	0.2	2.5	0	18	Stat Boost: 	Skill +18	2	Sapphire 
+603	Sapphire III	2	1	4	0.2	2.5	0	27	Stat Boost: 	Skill +27	2	Sapphire 
+604	Sapphire IV	0	1	4	0.2	2.5	0	36	Stat Boost: 	Skill +36	2	Sapphire 
+605	Sapphire V	0	1	4	0.2	2.5	0	45	Stat Boost: 	Skill +45	2	Sapphire 
+606	Sapphire VI	0	1	4	0.2	2.5	0	54	Stat Boost: 	Skill +54	2	Sapphire 
+607	Sapphire VII	0	1	4	0.2	2.5	0	63	Stat Boost: 	Skill +63	2	Sapphire 
+608	Sapphire VIII	0	1	4	0.2	2.5	0	72	Stat Boost: 	Skill +72	2	Sapphire 
+609	Sapphire IX	0	1	4	0.2	2.5	0	81	Stat Boost: 	Skill +81	2	Sapphire 
+610	Sapphire X	0	1	4	0.2	2.5	0	90	Stat Boost: 	Skill +90	2	Sapphire 
+701	Emerald	12	1	2	0.2	2.5	0	9	Stat Boost: 	Defense +9	3	Emerald 
+702	Emerald II	6	1	2	0.2	2.5	0	18	Stat Boost: 	Defense +18	3	Emerald 
+703	Emerald III	2	1	2	0.2	2.5	0	27	Stat Boost: 	Defense +27	3	Emerald 
+704	Emerald IV	0	1	2	0.2	2.5	0	36	Stat Boost: 	Defense +36	3	Emerald 
+705	Emerald V	0	1	2	0.2	2.5	0	45	Stat Boost: 	Defense +45	3	Emerald 
+706	Emerald VI	0	1	2	0.2	2.5	0	54	Stat Boost: 	Defense +54	3	Emerald 
+707	Emerald VII	0	1	2	0.2	2.5	0	63	Stat Boost: 	Defense +63	3	Emerald 
+708	Emerald VIII	0	1	2	0.2	2.5	0	72	Stat Boost: 	Defense +72	3	Emerald 
+709	Emerald IX	0	1	2	0.2	2.5	0	81	Stat Boost: 	Defense +81	3	Emerald 
+710	Emerald X	0	1	2	0.2	2.5	0	90	Stat Boost: 	Defense +90	3	Emerald 
+801	Garnet	12	1	3	0.1	3.5	0	6	Stat Boost: 	Power and Defense +6	4	Garnet 
+802	Garnet II	6	1	3	0.1	3.5	0	12	Stat Boost: 	Power and Defense +12	4	Garnet 
+803	Garnet III	2	1	3	0.1	3.5	0	18	Stat Boost: 	Power and Defense +18	4	Garnet 
+804	Garnet IV	0	1	3	0.1	3.5	0	24	Stat Boost: 	Power and Defense +24	4	Garnet 
+805	Garnet V	0	1	3	0.1	3.5	0	30	Stat Boost: 	Power and Defense +30	4	Garnet 
+806	Garnet VI	0	1	3	0.1	3.5	0	36	Stat Boost: 	Power and Defense +36	4	Garnet 
+807	Garnet VII	0	1	3	0.1	3.5	0	42	Stat Boost: 	Power and Defense +42	4	Garnet 
+808	Garnet VIII	0	1	3	0.1	3.5	0	48	Stat Boost: 	Power and Defense +48	4	Garnet 
+809	Garnet IX	0	1	3	0.1	3.5	0	54	Stat Boost: 	Power and Defense +54	4	Garnet 
+810	Garnet X	0	1	3	0.1	3.5	0	60	Stat Boost: 	Power and Defense +60	4	Garnet 
+901	Amethyst	8	1	5	0.1	3.5	0	6	Stat Boost: 	Skill and Power +6	5	Amethyst 
+902	Amethyst II	3	1	5	0.1	3.5	0	12	Stat Boost: 	Skill and Power +12	5	Amethyst 
+903	Amethyst III	1	1	5	0.1	3.5	0	18	Stat Boost: 	Skill and Power +18	5	Amethyst 
+904	Amethyst IV	0	1	5	0.1	3.5	0	24	Stat Boost: 	Skill and Power +24	5	Amethyst 
+905	Amethyst V	0	1	5	0.1	3.5	0	30	Stat Boost: 	Skill and Power +30	5	Amethyst 
+906	Amethyst VI	0	1	5	0.1	3.5	0	36	Stat Boost: 	Skill and Power +36	5	Amethyst 
+907	Amethyst VII	0	1	5	0.1	3.5	0	42	Stat Boost: 	Skill and Power +42	5	Amethyst 
+908	Amethyst VIII	0	1	5	0.1	3.5	0	48	Stat Boost: 	Skill and Power +48	5	Amethyst 
+909	Amethyst IX	0	1	5	0.1	3.5	0	54	Stat Boost: 	Skill and Power +54	5	Amethyst 
+910	Amethyst X	0	1	5	0.1	3.5	0	60	Stat Boost: 	Skill and Power +60	5	Amethyst 
+1001	Malachite	8	1	6	0.1	3.5	0	6	Stat Boost: 	Defense and Skill +6	6	Malachite 
+1002	Malachite II	3	1	6	0.1	3.5	0	12	Stat Boost: 	Defense and Skill +12	6	Malachite 
+1003	Malachite III	1	1	6	0.1	3.5	0	18	Stat Boost: 	Defense and Skill +18	6	Malachite 
+1004	Malachite IV	0	1	6	0.1	3.5	0	24	Stat Boost: 	Defense and Skill +24	6	Malachite 
+1005	Malachite V	0	1	6	0.1	3.5	0	30	Stat Boost: 	Defense and Skill +30	6	Malachite 
+1006	Malachite VI	0	1	6	0.1	3.5	0	36	Stat Boost: 	Defense and Skill +36	6	Malachite 
+1007	Malachite VII	0	1	6	0.1	3.5	0	42	Stat Boost: 	Defense and Skill +42	6	Malachite 
+1008	Malachite VIII	0	1	6	0.1	3.5	0	48	Stat Boost: 	Defense and Skill +48	6	Malachite 
+1009	Malachite IX	0	1	6	0.1	3.5	0	54	Stat Boost: 	Defense and Skill +54	6	Malachite 
+1010	Malachite X	0	1	6	0.1	3.5	0	60	Stat Boost: 	Defense and Skill +60	6	Malachite 
+1101	Obsidian	1	1	7	0.2	5	0	15	Stat Boost: 	All +15	7	Obsidian 
+1102	Obsidian II	0	1	7	0.2	5	0	18	Stat Boost: 	All +18	7	Obsidian 
+1103	Obsidian III	0	1	7	0.2	5	0	21	Stat Boost: 	All +21	7	Obsidian 
+1104	Obsidian IV	0	1	7	0.2	5	0	24	Stat Boost: 	All +24	7	Obsidian 
+1105	Obsidian V	0	1	7	0.2	5	0	27	Stat Boost: 	All +27	7	Obsidian 
+1106	Obsidian VI	0	1	7	0.2	5	0	30	Stat Boost: 	All +30	7	Obsidian 
+1107	Obsidian VII	0	1	7	0.2	5	0	33	Stat Boost: 	All +33	7	Obsidian 
+1108	Obsidian VIII	0	1	7	0.2	5	0	36	Stat Boost: 	All +36	7	Obsidian 
+1109	Obsidian IX	0	1	7	0.2	5	0	39	Stat Boost: 	All +39	7	Obsidian 
+1110	Obsidian X	0	1	7	0.2	5	0	45	Stat Boost: 	All +45	7	Obsidian 
+1201	Gold	0	2	16	0.2	5	0	0.03	3% boost to 	Karma Shard value	8	Golden 
+1202	Gold II	0	2	16	0.2	5	0	0.06	6% boost to 	Karma Shard value	8	Golden 
+1203	Gold III	0	2	16	0.2	5	0	0.09	9% boost to 	Karma Shard value	8	Golden 
+1204	Gold IV	0	2	16	0.2	5	0	0.12	12% boost to 	Karma Shard value	8	Golden 
+1205	Gold V	0	2	16	0.2	5	0	0.15	15% boost to 	Karma Shard value	8	Golden 
+1206	Gold VI	0	2	16	0.2	5	0	0.18	18% boost to 	Karma Shard value	8	Golden 
+1207	Gold VII	0	2	16	0.2	5	0	0.21	21% boost to 	Karma Shard value	8	Golden 
+1208	Gold VIII	0	2	16	0.2	5	0	0.24	24% boost to 	Karma Shard value	8	Golden 
+1209	Gold IX	0	2	16	0.2	5	0	0.27	27% boost to 	Karma Shard value	8	Golden 
+1210	Gold X	0	2	16	0.2	5	0	0.3	30% boost to 	Karma Shard value	8	Golden 
+1301	Jade	2	1	7	0.2	5	0	3	Stat Boost: 	All +3	9	Jade 
+1302	Jade II	1	1	7	0.2	5	0	6	Stat Boost: 	All +6	9	Jade 
+1303	Jade III	0	1	7	0.2	5	0	9	Stat Boost: 	All +9	9	Jade 
+1304	Jade IV	0	1	7	0.2	5	0	12	Stat Boost: 	All +12	9	Jade 
+1305	Jade V	0	1	7	0.2	5	0	15	Stat Boost: 	All +15	9	Jade 
+1306	Jade VI	0	1	7	0.2	5	0	18	Stat Boost: 	All +18	9	Jade 
+1307	Jade VII	0	1	7	0.2	5	0	21	Stat Boost: 	All +21	9	Jade 
+1308	Jade VIII	0	1	7	0.2	5	0	24	Stat Boost: 	All +24	9	Jade 
+1309	Jade IX	0	1	7	0.2	5	0	27	Stat Boost: 	All +27	9	Jade 
+1310	Jade X	0	1	7	0.2	5	0	30	Stat Boost: 	All +30	9	Jade 
+100	Meteor 	0	1	7	0.2	5	0	30	Stat Boost: 	All +10	7	Meteor 
+101	Steam Gem 	0	1	7	0.2	5	0	27	Stat Boost: 	All +27	9	Steam 
+999	Ancient Jade	0	3	8	0.5	0.05	0	5	5% boost to 	Mission XP	9	Ancient 

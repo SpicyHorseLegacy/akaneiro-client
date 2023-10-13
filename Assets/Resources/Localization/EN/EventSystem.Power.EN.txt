@@ -1,0 +1,39 @@
+INT	STRING	STRING	STRING	INT	INT
+ID	Title	Description1	Description2	Power	class
+ID	Title	Description1	Description2	Power	class
+10001	New Ability Available!	You now have enough POWER to learn [FF0000]Seeing Red I[-]	Speak to Trainer Takeda to begin your training.	30	1
+10002	New Ability Available!	You now have enough POWER to learn [FF0000]Rain of Blows I[-]	Speak to Trainer Takeda to begin your training.	30	1
+10003	New Ability Available!	You now have enough POWER to learn [FF0000]Hungry Cleave I[-]	Speak to Trainer Takeda to begin your training.	60	1
+10004	New Ability Available!	You now have enough POWER to learn [FF0000]Shockwave I[-]	Speak to Trainer Takeda to begin your training.	60	1
+10005	New Ability Available!	You now have enough POWER to learn [FF0000]Swath of Destruction I[-]	Speak to Trainer Takeda to begin your training.	90	1
+10006	New Ability Available!	You now have enough POWER to learn [FF0000]Meteor Rain I[-]	Speak to Trainer Takeda to begin your training.	150	1
+10007	New Ability Available!	You now have enough POWER to learn [FF0000]Seeing Red II[-]	Speak to Trainer Takeda to begin your training.	210	1
+10008	New Ability Available!	You now have enough POWER to learn [FF0000]Rain of Blows II[-]	Speak to Trainer Takeda to begin your training.	210	1
+10009	New Ability Available!	You now have enough POWER to learn [FF0000]Hungry Cleave II[-]	Speak to Trainer Takeda to begin your training.	240	1
+10010	New Ability Available!	You now have enough POWER to learn [FF0000]Shockwave II[-]	Speak to Trainer Takeda to begin your training.	240	1
+10011	New Ability Available!	You now have enough POWER to learn [FF0000]Swath of Destruction II[-]	Speak to Trainer Takeda to begin your training.	270	1
+10012	New Ability Available!	You now have enough POWER to learn [FF0000]Meteor Rain II[-]	Speak to Trainer Takeda to begin your training.	330	1
+10013	New Ability Available!	You now have enough POWER to learn [FF0000]Seeing Red III[-]	Speak to Trainer Takeda to begin your training.	390	1
+10014	New Ability Available!	You now have enough POWER to learn [FF0000]Rain of Blows III[-]	Speak to Trainer Takeda to begin your training.	390	1
+10015	New Ability Available!	You now have enough POWER to learn [FF0000]Hungry Cleave III[-]	Speak to Trainer Takeda to begin your training.	420	1
+10016	New Ability Available!	You now have enough POWER to learn [FF0000]Shockwave III[-]	Speak to Trainer Takeda to begin your training.	420	1
+10017	New Ability Available!	You now have enough POWER to learn [FF0000]Swath of Destruction III[-]	Speak to Trainer Takeda to begin your training.	450	1
+10018	New Ability Available!	You now have enough POWER to learn [FF0000]Meteor Rain III[-]	Speak to Trainer Takeda to begin your training.	510	1
+10019	New Ability Available!	You now have enough POWER to learn [FF0000]Seeing Red IV[-]	Speak to Trainer Takeda to begin your training.	570	1
+10020	New Ability Available!	You now have enough POWER to learn [FF0000]Rain of Blows IV[-]	Speak to Trainer Takeda to begin your training.	570	1
+10021	New Ability Available!	You now have enough POWER to learn [FF0000]Hungry Cleave IV[-]	Speak to Trainer Takeda to begin your training.	600	1
+10022	New Ability Available!	You now have enough POWER to learn [FF0000]Shockwave IV[-]	Speak to Trainer Takeda to begin your training.	600	1
+10023	New Ability Available!	You now have enough POWER to learn [FF0000]Swath of Destruction IV[-]	Speak to Trainer Takeda to begin your training.	630	1
+10024	New Ability Available!	You now have enough POWER to learn [FF0000]Meteor Rain IV[-]	Speak to Trainer Takeda to begin your training.	690	1
+10025	New Ability Available!	You now have enough POWER to learn [FF0000]Seeing Red V[-]	Speak to Trainer Takeda to begin your training.	750	1
+10026	New Ability Available!	You now have enough POWER to learn [FF0000]Rain of Blows V[-]	Speak to Trainer Takeda to begin your training.	750	1
+10027	New Ability Available!	You now have enough POWER to learn [FF0000]Hungry Cleave V[-]	Speak to Trainer Takeda to begin your training.	780	1
+10028	New Ability Available!	You now have enough POWER to learn [FF0000]Shockwave V[-]	Speak to Trainer Takeda to begin your training.	780	1
+10029	New Ability Available!	You now have enough POWER to learn [FF0000]Swath of Destruction V[-]	Speak to Trainer Takeda to begin your training.	810	1
+10030	New Ability Available!	You now have enough POWER to learn [FF0000]Seeing Red VI[-]	Speak to Trainer Takeda to begin your training.	870	1
+10031	New Ability Available!	You now have enough POWER to learn [FF0000]Rain of Blows VI[-]	Speak to Trainer Takeda to begin your training.	870	1
+10032	New Ability Available!	You now have enough POWER to learn [FF0000]Meteor Rain V[-]	Speak to Trainer Takeda to begin your training.	870	1
+10033	New Ability Available!	You now have enough POWER to learn [FF0000]Hungry Cleave VI[-]	Speak to Trainer Takeda to begin your training.	900	1
+10034	New Ability Available!	You now have enough POWER to learn [FF0000]Shockwave VI[-]	Speak to Trainer Takeda to begin your training.	900	1
+10035	New Ability Available!	You now have enough POWER to learn [FF0000]Swath of Destruction VI[-]	Speak to Trainer Takeda to begin your training.	930	1
+10036	New Ability Available!	You now have enough POWER to learn [FF0000]Meteor Rain VI[-]	Speak to Trainer Takeda to begin your training.	990	1

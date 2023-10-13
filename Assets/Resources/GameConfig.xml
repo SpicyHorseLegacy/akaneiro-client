@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameConfig>
+	<DisciplineMultiplier Attack="2" Defense="5" Critical="0.25"/>
+	<CharAttr ArmorBase="2000" ArmorEquip="10000" CritBase="135" CritChance="0"/>
+ 
+  
+</GameConfig>

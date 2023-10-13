@@ -1,0 +1,12 @@
+INT	STRING	STRING	STRING
+ImgID	Title	Info1	Info2
+ImgID	Title	Info1	Info2
+0	Movement	[#ffff00]Left-click [#ffffff]to move about the world.	[#ffff00]Click and hold [#ffffff]to maintain movement.
+1	Attacking	[#ffff00]Left-click [#ffffff]on a valid target to attack it with the currently equipped weapon.	[#ffff00]Click and hold [#ffffff]to attack the target continuously.
+2	Attacking	[#ffffff]Press the [#ffff00]SHIFT [#ffffff]key while attacking to hold your position.	
+3	Abilities	[#ffff00]Right-click [#ffffff]to use primary abilities or press the ability hotkey.	[#ffffff]You can also [#ffff00]Left-click[#ffffff] the ability buttons directly.
+4	Health and Energy	[#ffffff]Keep an eye on Health gauge; When it's low - withdraw or fight to the death.	[#ffffff]Collecting Karma from dead enemies restores some health.
+5	Health and Energy	[#ffffff]Energy fuels ability use. Be wary of entering battle when energy is low.	[#ffffff]Energy regenerates even faster when not in combat.
+6	More Help	[#ffffff]Access this and other help information at any time from the game menu.	
+7	About Karma	[#ffffff]Demonic creatures, called Yokai, have overrun Yomi Island.	[#ffffff]When Yokai are killed their blood instantly crystallizes, forming Karma Shards.
+8	About Karma	[#ffffff]Karma Shards can be used by Akane Hunters as tradable currency or to master new abilities.	[#ffffff]Karma also restores a small amount of HP. Collect as much as possible to stay fighting fit.

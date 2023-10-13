@@ -1,0 +1,9 @@
+STRING	FLOAT	FLOAT	FLOAT	INT	INT	FLOAT	FLOAT	FLOAT	INT	STRING
+TemplateName	PosX	PosY	PosZ	IsHide	IsDrag	ScaleX	ScaleY	ScaleZ	PreLoad	Description
+TemplateName	PosX	PosY	PosZ	IsHide	IsDrag	ScaleX	ScaleY	ScaleZ	PreLoad	Description
+SelectBase	0	0	700	0	0	1	1	1	1	abc
+SelectList	640	124	-1	0	0	1	1	1	1	abc
+MoneyBar	256	340	150	0	0	0.95	0.95	1	0	abc
+KarmaRecharge	0	0	-400	0	0	1	1	1	0	abc
+CrystalRecharge	0	0	-400	0	0	1	1	1	0	abc
+CharInfo_Stat	-522	12	0	0	0	0.8	0.8	1	0	abc

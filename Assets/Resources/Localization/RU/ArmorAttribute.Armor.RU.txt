@@ -1,0 +1,7 @@
+INT	STRING	INT	INT	INT
+ID	Weapon	Chance 	 Amount	Value
+Armor ID	Weapon	Armor Type Drop Chance %	Armor Amount	Value
+2001	шлем	30	400	12
+2002	нагрудник	25	800	12
+2003	дзубон	30	500	12
+2010	плащ	15	300	12

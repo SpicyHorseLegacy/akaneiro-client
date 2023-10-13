@@ -1,0 +1,33 @@
+INT	INT	INT	INT	INT	INT	INT	STRING	STRING	STRING
+ID	EquipClass	MasteryLevel	MasteryType	karmaCost	PlayerLVNeeded	BuffID	Name	Description	Description
+ID	EquipClass	MasteryLevel	MasteryType	karmaCost	PlayerLVNeeded	BuffID	Name	Description	Description
+1001	1	1	0	1000	1	101001	Dueling I	Focus on precision, skill and lethality.	Increases Critical Damage when using a single one-handed weapon.
+1002	1	2	0	2500	5	101002	Dueling II	Focus on precision, skill and lethality.	Further increases Critical Damage when using a single one-handed weapon.
+1003	1	3	0	5000	12	101003	Dueling III	Focus on precision, skill and lethality.	Further increases Critical Damage when using a single one-handed weapon.
+1004	1	4	0	10000	20	101004	Dueling IV	Focus on precision, skill and lethality.	Further increases Critical Damage when using a single one-handed weapon.
+1005	1	5	0	20000	30	101005	Dueling V	Focus on precision, skill and lethality.	Further increases Critical Damage when using a single one-handed weapon.
+2001	2	1	0	1000	1	102001	Dual Wielding I	Savage assaults executed with lightning speed.	Increases Attack Speed when dual wielding weapons.
+2002	2	2	0	2500	5	102002	Dual Wielding II	Savage assaults executed with lightning speed.	Further increases Attack Speed when dual wielding weapons.
+2003	2	3	0	5000	12	102003	Dual Wielding III	Savage assaults executed with lightning speed.	Further increases Attack Speed when dual wielding weapons.
+2004	2	4	0	10000	20	102004	Dual Wielding IV	Savage assaults executed with lightning speed.	Further increases Attack Speed when dual wielding weapons.
+2005	2	5	0	20000	30	102005	Dual Wielding V	Savage assaults executed with lightning speed.	Further increases Attack Speed when dual wielding weapons.
+3001	4	1	0	1000	1	103001	Two-Handed I	Sweeping, powerful blows disorient enemies.	Increases chance of Stunning when using a two-handed weapon.
+3002	4	2	0	2500	5	103002	Two-Handed II	Sweeping, powerful blows disorient enemies.	Further increases chance of Stunning when using a two-handed weapon.
+3003	4	3	0	5000	12	103003	Two-Handed III	Sweeping, powerful blows disorient enemies.	Further increases chance of Stunning when using a two-handed weapon.
+3004	4	4	0	10000	20	103004	Two-Handed IV	Sweeping, powerful blows disorient enemies.	Further increases chance of Stunning when using a two-handed weapon.
+3005	4	5	0	20000	30	103005	Two-Handed V	Sweeping, powerful blows disorient enemies.	Further increases chance of Stunning when using a two-handed weapon.
+4001	8	1	1	1000	1	104001	Light Armor I	Puts a swift spring in your step.	Increases Movement speed  for each piece of Light Armor equipped.
+4002	8	2	1	2500	5	104002	Light Armor II	Puts a swift spring in your step.	Further increases Movement speed for each piece of Light Armor equipped.
+4003	8	3	1	5000	12	104003	Light Armor III	Puts a swift spring in your step.	Further increases Movement speed for each piece of Light Armor equipped.
+4004	8	4	1	10000	20	104004	Light Armor IV	Puts a swift spring in your step.	Further increases Movement speed for each piece of Light Armor equipped.
+4005	8	5	1	20000	30	104005	Light Armor V	Puts a swift spring in your step.	Further increases Movement speed for each piece of Light Armor equipped.
+5001	16	1	1	1000	1	105001	Medium Armor I	Outclass your opponents with a balanced approach.	Improves Energy Regen for each piece of Medium Armor equipped.
+5002	16	2	1	2500	5	105002	Medium Armor II	Outclass your opponents with a balanced approach.	Further improves Energy Regen for each piece of Medium Armor equipped.
+5003	16	3	1	5000	12	105003	Medium Armor III	Outclass your opponents with a balanced approach.	Further improves Energy Regen for each piece of Medium Armor equipped.
+5004	16	4	1	10000	20	105004	Medium Armor IV	Outclass your opponents with a balanced approach.	Further improves Energy Regen for each piece of Medium Armor equipped.
+5005	16	5	1	20000	30	105005	Medium Armor V	Outclass your opponents with a balanced approach.	Further improves Energy Regen for each piece of Medium Armor equipped.
+6001	32	1	1	1000	1	106001	Heavy Armor I	Channel great stamina to recover from wounds.	Improves Health Regen for each piece of Heavy Armor equipped.
+6002	32	2	1	2500	5	106002	Heavy Armor II	Channel great stamina to recover from wounds.	Further improves Health Regen for each piece of Heavy Armor equipped.
+6003	32	3	1	5000	12	106003	Heavy Armor III	Channel great stamina to recover from wounds.	Further improves Health Regen for each piece of Heavy Armor equipped.
+6004	32	4	1	10000	20	106004	Heavy Armor IV	Channel great stamina to recover from wounds.	Further improves Health Regen for each piece of Heavy Armor equipped.
+6005	32	5	1	20000	30	106005	Heavy Armor V	Channel great stamina to recover from wounds.	Further improves Health Regen for each piece of Heavy Armor equipped.

@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: bc5f1a4cd9ef51941b95c378d313e9ba
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: polySurface10
+    100002: CH_AKA_Hessian_M_Chest01
+    100004: polySurface15_polySurface9_pasted__CH_Aka_M_Head_group
+    100006: //RootNode
+    100008: CH_AKA_Hessian_M_Leg01
+    100010: Object001
+    100012: Bip001
+    100014: Bip001 Cloak
+    100016: Bip001 Head
+    100018: Bip001 L Calf
+    100020: Bip001 L Clavicle
+    100022: Bip001 L Finger0
+    100024: Bip001 L Finger01
+    100026: Bip001 L Finger1
+    100028: Bip001 L Finger11
+    100030: Bip001 L Finger2
+    100032: Bip001 L Finger21
+    100034: Bip001 L Foot
+    100036: Bip001 L Forearm
+    100038: Bip001 L Hand
+    100040: Bip001 L Thigh
+    100042: Bip001 L Toe0
+    100044: Bip001 L UpperArm
+    100046: Bip001 Neck
+    100048: Bip001 Pelvis
+    100050: Bip001 Prop1
+    100052: Bip001 Prop2
+    100054: Bip001 R Calf
+    100056: Bip001 R Clavicle
+    100058: Bip001 R Finger0
+    100060: Bip001 R Finger01
+    100062: Bip001 R Finger1
+    100064: Bip001 R Finger11
+    100066: Bip001 R Finger2
+    100068: Bip001 R Finger21
+    100070: Bip001 R Foot
+    100072: Bip001 R Forearm
+    100074: Bip001 R Hand
+    100076: Bip001 R Thigh
+    100078: Bip001 R Toe0
+    100080: Bip001 R UpperArm
+    100082: Bip001 Spine
+    100084: Bip001 Spine1
+    100086: Root
+    400000: polySurface10
+    400002: CH_AKA_Hessian_M_Chest01
+    400004: polySurface15_polySurface9_pasted__CH_Aka_M_Head_group
+    400006: //RootNode
+    400008: CH_AKA_Hessian_M_Leg01
+    400010: Object001
+    400012: Bip001
+    400014: Bip001 Cloak
+    400016: Bip001 Head
+    400018: Bip001 L Calf
+    400020: Bip001 L Clavicle
+    400022: Bip001 L Finger0
+    400024: Bip001 L Finger01
+    400026: Bip001 L Finger1
+    400028: Bip001 L Finger11
+    400030: Bip001 L Finger2
+    400032: Bip001 L Finger21
+    400034: Bip001 L Foot
+    400036: Bip001 L Forearm
+    400038: Bip001 L Hand
+    400040: Bip001 L Thigh
+    400042: Bip001 L Toe0
+    400044: Bip001 L UpperArm
+    400046: Bip001 Neck
+    400048: Bip001 Pelvis
+    400050: Bip001 Prop1
+    400052: Bip001 Prop2
+    400054: Bip001 R Calf
+    400056: Bip001 R Clavicle
+    400058: Bip001 R Finger0
+    400060: Bip001 R Finger01
+    400062: Bip001 R Finger1
+    400064: Bip001 R Finger11
+    400066: Bip001 R Finger2
+    400068: Bip001 R Finger21
+    400070: Bip001 R Foot
+    400072: Bip001 R Forearm
+    400074: Bip001 R Hand
+    400076: Bip001 R Thigh
+    400078: Bip001 R Toe0
+    400080: Bip001 R UpperArm
+    400082: Bip001 Spine
+    400084: Bip001 Spine1
+    400086: Root
+    2300000: polySurface10
+    2300002: CH_AKA_Hessian_M_Chest01
+    2300004: polySurface15_polySurface9_pasted__CH_Aka_M_Head_group
+    2300006: CH_AKA_Hessian_M_Leg01
+    2300008: Object001
+    3300000: polySurface10
+    3300002: CH_AKA_Hessian_M_Chest01
+    3300004: polySurface15_polySurface9_pasted__CH_Aka_M_Head_group
+    3300006: CH_AKA_Hessian_M_Leg01
+    3300008: Object001
+    4300000: CH_AKA_Hessian_M_Chest01
+    4300002: polySurface10
+    4300004: Object001
+    4300006: polySurface15_polySurface9_pasted__CH_Aka_M_Head_group
+    4300008: CH_AKA_Hessian_M_Leg01
+    11100000: //RootNode
+    13700000: CH_AKA_Hessian_M_Chest01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

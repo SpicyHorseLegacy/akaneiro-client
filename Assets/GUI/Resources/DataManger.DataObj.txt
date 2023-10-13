@@ -1,0 +1,5 @@
+STRING	STRING
+DataName	Description
+DataName	Description
+PlayerData	abc
+AccountData	abc

@@ -1,0 +1,27 @@
+INT	STRING	INT	INT	STRING	STRING	STRING
+prefabID	prefab	Min	Max	Quality Name String	Gem Color + Gem Extra String	Type Name String
+Weapon Prefab	Cloak Prefab	Min Item Level for Prefab	Max Item Level for Prefab	Quality Name String	Not used anymore (was Thead)	Type Name String
+1	Cloak_S01	1	5	грубый 		короткий плащ
+2	CloakHood_S01	2	6	грубый 		короткий капюшон
+19	Cloak_S02	5	10	изящный 		короткий плащ
+20	CloakHood_S02	6	11	изящный 		короткий капюшон
+3	Cloak_S03	10	15	охотничий 		короткий плащ
+4	CloakHood_S03	11	16	охотничий 		короткий капюшон
+5	Cloak_S04	16	25	акане 		короткий плащ
+6	CloakHood_S04	17	28	акане 		короткий капюшон
+7	Cloak_M01	6	11	грубый 		плащ
+8	CloakHood_M01	7	12	грубый 		капюшон
+21	Cloak_M02	11	16	изящный 		плащ
+22	CloakHood_M02	12	17	изящный 		капюшон
+9	Cloak_M03	16	21	охотничий 		плащ
+10	CloakHood_M03	17	22	охотничий 		капюшон
+11	Cloak_M04	21	30	акане 		плащ
+12	CloakHood_M04	26	33	акане 		капюшон
+13	Cloak_L01	11	16	грубый 		длинный плащ
+14	CloakHood_L01	12	17	грубый 		длинный капюшон
+23	Cloak_L02	16	21	изящный 		длинный плащ
+24	CloakHood_L02	17	22	изящный 		длинный капюшон
+15	Cloak_L03	21	30	охотничий 		длинный плащ
+16	CloakHood_L03	26	33	охотничий 		длинный капюшон
+17	Cloak_L04	30	36	акане 		длинный плащ
+18	CloakHood_L04	33	40	акане 		длинный капюшон

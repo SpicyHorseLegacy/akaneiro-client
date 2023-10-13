@@ -1,0 +1,16 @@
+STRING	FLOAT	FLOAT	FLOAT	INT	INT	FLOAT	FLOAT	FLOAT	INT	STRING
+TemplateName	PosX	PosY	PosZ	IsHide	IsDrag	ScaleX	ScaleY	ScaleZ	PreLoad	Description
+TemplateName	PosX	PosY	PosZ	IsHide	IsDrag	ScaleX	ScaleY	ScaleZ	PreLoad	Description
+GameHud_AbilitySlots	0	0	550	0	0	1	1	1	1	abc
+GameHud_HPMP	0	0	540	0	0	1	1	1	1	abc
+OtherBTNS	640	360	550	0	0	1	1	1	1	abc
+MoneyBar	245	339	0	0	0	1	1	1	1	abc
+Ping	544	339	550	0	0	1	1	1	1	abc
+FoodSlot	525	-302	550	0	0	1	1	1	1	abc
+GameHud_BTNGroup_CharInfo	0	0	550	0	0	1	1	1	1	abc
+GameHud_Social	0	0	550	0	0	1	1	1	1	abc
+Shop_ConsumableItem	0	0	-10	0	0	1	1	1	1	abc
+Shop_BG	0	0	300	0	0	1	1	1	1	abc
+Shop_BG2	0	0	300	0	0	1	1	1	1	abc
+KarmaRecharge	0	0	-400	0	0	1	1	1	0	abc
+CrystalRecharge	0	0	-400	0	0	1	1	1	0	e

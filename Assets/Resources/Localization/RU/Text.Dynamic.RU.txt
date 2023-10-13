@@ -1,0 +1,92 @@
+STRING	STRING
+TextIndex	Russian
+TextIndex	Russian
+DISCONCHEAT	Сервер зарегистрировал подозрительное поведение вашей учетной записи. Убедитесь, что у вас установлена последняя версия игры.
+DISFROMSERVER	Отключение от сервера.
+INVALIDCODE	Неправильно введен код.
+YOURECEIVE	Вы получаете
+CONABORTED	Связь прекращена
+PROWESSABISTAT	Способности отваги улучшает параметр СИЛА
+FORTITUDEABISTAT	Способности стойкости улучшает параметр ЗАЩИТА
+CUNNINGABISTAT	Способности коварства улучшает параметр ИСКУСНОСТЬ
+CONTOSERVER	Подключение к серверу…
+ACCORPASSERR	Неправильное название учетной записи или пароль.
+VERSIONERR	Версии клиента и сервера не совпадают. Пожалуйста, обновите клиент игры.
+CON	Подключение…
+PURCHASEOK	Покупка совершена. Ваш баланс: 
+DAMAGE	УРОН
+ARMOR	БРОНЯ
+SPEED	СКОРОСТЬ
+PLEINPUTREDEEM	Введите код для погашения:
+LOW	Низкое
+NORMAL	Среднее
+HIGH	Высокое
+BEST	Лучшее
+LOADING	Загрузка
+KS	Осколки кармы
+KC	Кристаллы кармы
+INCTHREAT	Повысить угрозу
+INCTHREATINFO	Потратить осколки кармы, чтобы поднять уровень угрозы.
+DECTHREAT	Снизить угрозу
+DECTHREATINFO	Потратить осколки кармы, чтобы снизить уровень угрозы.
+LOADINGPWAM	Загрузка. Пожалуйста, подождите.
+RCB	[#FF3C00]щелкните правой кнопкой[#FFFFFF], чтобы купить 
+RCS	[#FF3C00]щелкните правой кнопкой[#FFFFFF], чтобы продать
+RCT	[#FF3C00]щелкните правой кнопкой[#FFFFFF], чтобы превратить
+RCE	[#FF3C00]щелкните правой кнопкой[#FFFFFF], чтобы надеть
+RCSU	[#FF3C00]щелкните правой кнопкой[#FFFFFF], чтобы снять
+RCU	Уровень
+LEVEL	Требуется уровень
+REQLEVEL	Способности отваги зависят от СИЛЫ.     Требуется уровень 
+PROWERREQLV	Способности стойкости зависят от ЗАЩИТЫ.     Требуется уровень 
+FORTITRREQLV	Способности коварства зависят от ИСКУСНОСТИ.     Требуется уровень 
+CUNNINGRREQLV	Дальнейшие тренировки дают:
+FURTHERTA	Язык пламени
+FLAMET	Доступна тренировка : 
+AVAILABLETRA	Макс.
+MAX	Введите имя
+ENTERNAME	В имени персонажа должно быть не меньше 3 букв без пробелов и спец. символов.
+CREATECHARINPUTERR	Создание персонажа…
+CREATEINGCHARA	Отвага
+PROWESS	Стойкость
+FORTITUDE	Коварство
+CUNNING	Название учетной записи не является правильным адресом электронной почты.
+LOGININPUTERR	Все способности группы "коварство" улучшены.     Искусность увеличена.
+ALLCARABSII	Все способности группы "стойкость" улучшены.     Защита увеличена.
+ALLCARABDII	Все способности группы "отвага" улучшены.     Сила увеличена.
+ALLCARABPII	Восстанавливаем подключение…
+RECON	БЕЗОПАСНО
+SECURE	НИЗКАЯ УГРОЗА
+LOWTHREAT	ПОЛЧИЩА
+OVERRUN	У вас недостаточно кармы для этой операции
+eItemError_BuyNotEnoughMoneny	У вас недостаточно свитков синигами.
+eGS_LessReviveItem	У вас недостаточно высокий уровень.
+eGS_LessLevel	Имя персонажа уже используется.
+eCreateCharacter_AlreadyNickName	У вас максимальное количество персонажей.
+eCreateCharacter_CharacterFull	В вашем имени использованы недопустимые символы.
+eCreateCharacter_ParamError	Ваше снаряжение переполнено.
+eItemError_BagFull	Этого умения больше нет.
+eGS_SkillNotExist	Этого предмета больше нет.
+eItemError_NoExist	Вы уже вошли в игру.
+eUserAlreadyOnline	Название учетной записи или пароль введены неправильно.
+eWrongAccountOrPwd	Вы уже разблокировали эту область.
+eMission_have_buy_area	На сервере произошла ошибка. Пожалуйста, перезагрузите игру.
+eGS_UserStateError	Приносим извинения, этот предмет уже распродан.
+eItemError_rareItemSellOut	Этого предмета нет в продаже.
+eItemError_BuyCantFindItem	Приносим извинения, этот предмет уже распродан.
+eItemError_SellOut	Неправильный ключ. Пожалуйста, убедитесь, что вы ввели ключ правильно.
+eGift_NotExist	Этот ключ уже был погашен.
+eGift_HaveBeenUsed	Просмотреть список друзей
+SEARCHFRIENDLIST	Бесплатно
+FREE	Длительность 30 секунд
+DURATION30M	[#FF3C00]щелкните правой кнопкой[#FFFFFF], чтобы позвать
+RCC	РАЗЫСКИВАЕТСЯ
+WANTED	Босс
+BOSS	Неизвестная область
+UNKNOWNAREA	RU Unknown Area
+REQPOWER	RU Requires  POWER
+REQDEFENSE	RU Requires  DEFENSE
+REQSKILL	RU Requires  SKILL
+NODISCIPLINE	You don’t have enough Discipline points to learn this yet
+CHOOSEDISCIPLINE	Please choose a discipline to upgrade your stats.
+RESTARTGAME	You need to restart the game to fully enjoy your new quality settings.

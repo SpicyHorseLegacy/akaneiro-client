@@ -1,0 +1,43 @@
+INT	STRING	INT	INT	FLOAT	INT	INT	INT	FLOAT	STRING	STRING	FLOAT	INT	INT	INT	STRING	INT	INT
+ID	Element 	AttachChance 	ElementDamage	AreaDamage	Percent	Element	SkillID	Value	Element Desc String 1	Element Desc String 2	DamagePercent	DamageAngle	DamageRadius	IconID	Element Name	Min	Max
+ID	Element Damage Type 	(NOT USED) Attach Chance	Element Level	Damage Modifier	Percent	Element	StatusID	Value	Element Desc String 1	Element Desc String 2	DamagePercent	DamageAngle	DamageRadius	IconID	Name String	Min Item Level for Element	Max Item Level for Element
+101	Frost I	14	1	0.8	100	1	72201	2	5% Chance to 	Freeze enemies	0.5	360	0	1	Frost 	1	60
+102	Frost II	8	2	0.8	100	1	72202	2	10% Chance to 	Freeze enemies	0.6	360	0	1	Frost 	3	60
+103	Frost III	3	3	0.8	100	1	72203	2	15% Chance to 	Freeze enemies	0.75	360	0	1	Frost 	6	60
+104	Frost IV	0	4	0.8	100	1	72204	4	20% Chance to 	Freeze enemies	0	360	0	1	Frost 	60	60
+105	Frost V	0	5	0.8	100	1	72205	4	25% Chance to 	Freeze enemies	0	360	0	1	Frost 	60	60
+106	Frost VI	0	6	0.8	100	1	72206	4	30% Chance to 	Freeze enemies	0	360	0	1	Frost 	60	60
+107	Frost VII	0	7	0.8	100	1	72207	6	35% Chance to 	Freeze enemies	0	360	0	1	Frost 	60	60
+108	Frost VIII	0	8	0.8	100	1	72208	6	40% Chance to 	Freeze enemies	0	360	0	1	Frost 	60	60
+109	Frost IX	0	9	0.8	100	1	72209	6	45% Chance to 	Freeze enemies	0	360	0	1	Frost 	60	60
+110	Frost X	0	10	0.8	100	1	72210	8	50% Chance to 	Freeze enemies	0	360	0	1	Frost 	60	60
+201	Flame I	14	1	0.8	100	0	72601	2	5% Chance to 	Burn enemies	0.02	360	0	2	Flame 	1	60
+202	Flame II	8	2	0.8	100	0	72602	2	10% Chance to 	Burn enemies	0.05	360	0	2	Flame 	3	60
+203	Flame III	3	3	0.8	100	0	72603	2	15% Chance to 	Burn enemies	0.07	360	0	2	Flame 	6	60
+204	Flame IV	0	4	0.8	100	0	72604	4	20% Chance to 	Burn enemies	0	360	0	2	Flame 	60	60
+205	Flame V	0	5	0.8	100	0	72605	4	25% Chance to 	Burn enemies	0	360	0	2	Flame 	60	60
+206	Flame VI	0	6	0.8	100	0	72606	4	30% Chance to 	Burn enemies	0	360	0	2	Flame 	60	60
+207	Flame VII	0	7	0.8	100	0	72607	6	35% Chance to 	Burn enemies	0	360	0	2	Flame 	60	60
+208	Flame VIII	0	8	0.8	100	0	72608	6	40% Chance to 	Burn enemies	0	360	0	2	Flame 	60	60
+209	Flame IX	0	9	0.8	100	0	72609	6	45% Chance to 	Burn enemies	0	360	0	2	Flame 	60	60
+210	Flame X	0	10	0.8	100	0	72610	8	50% Chance to 	Burn enemies	0	360	0	2	Flame 	60	60
+301	Blast I	14	1	0.8	100	2	72401	2	4% Chance to 	Blast enemies	0	360	0	3	Blast 	1	60
+302	Blast II	8	2	0.8	100	2	72402	2	8% Chance to 	Blast enemies	0	360	0	3	Blast 	3	60
+303	Blast III	3	3	0.8	100	2	72403	2	12% Chance to 	Blast enemies	0	360	0	3	Blast 	6	60
+304	Blast IV	0	4	0.8	100	2	72404	4	16% Chance to 	Blast enemies	0	360	0	3	Blast 	60	60
+305	Blast V	0	5	0.8	100	2	72405	4	20% Chance to 	Blast enemies	0	360	0	3	Blast 	60	60
+306	Blast VI	0	6	0.8	100	2	72406	4	24% Chance to 	Blast enemies	0	360	0	3	Blast 	60	60
+307	Blast VII	0	7	0.8	100	2	72407	6	28% Chance to 	Blast enemies	0	360	0	3	Blast 	60	60
+308	Blast VIII	0	8	0.8	100	2	72408	6	32% Chance to 	Blast enemies	0	360	0	3	Blast 	60	60
+309	Blast IX	0	9	0.8	100	2	72409	6	36% Chance to 	Blast enemies	0	360	0	3	Blast 	60	60
+310	Blast X	0	10	0.8	100	2	72410	8	40% Chance to 	Blast enemies	0	360	0	3	Blast 	60	60
+401	Storm I	14	1	0.8	100	3	72001	2	5% Chance to 	Shock enemies	0	360	0	4	Storm 	1	60
+402	Storm II	8	2	0.8	100	3	72002	2	10% Chance to 	Shock enemies	0	360	0	4	Storm 	3	60
+403	Storm III	3	3	0.8	100	3	72003	2	15% Chance to 	Shock enemies	0	360	0	4	Storm 	6	60
+404	Storm IV	0	4	0.8	100	3	72004	4	20% Chance to 	Shock enemies	0	360	0	4	Storm 	60	60
+405	Storm V	0	5	0.8	100	3	72005	4	25% Chance to 	Shock enemies	0	360	0	4	Storm 	60	60
+406	Storm VI	0	6	0.8	100	3	72006	4	30% Chance to 	Shock enemies	0	360	0	4	Storm 	60	60
+407	Storm VII	0	7	0.8	100	3	72007	6	35% Chance to 	Shock enemies	0	360	0	4	Storm 	60	60
+408	Storm VIII	0	8	0.8	100	3	72008	6	40% Chance to 	Shock enemies	0	360	0	4	Storm 	60	60
+409	Storm IX	0	9	0.8	100	3	72009	6	45% Chance to 	Shock enemies	0	360	0	4	Storm 	60	60
+410	Storm X	0	10	0.8	100	3	72010	8	50% Chance to 	Shock enemies	0	360	0	4	Storm 	60	60

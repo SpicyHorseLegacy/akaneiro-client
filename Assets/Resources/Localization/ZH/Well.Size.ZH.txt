@@ -1,0 +1,13 @@
+INT	FLOAT	INT	FLOAT	STRING	STRING
+Level	Value	Cost	Hours	Description	UpgradeButton
+Level	Value	Crystal Cost	Hours	Description	UpgradeButton
+1	60	0	1	Bucket collects Karma Shards for 60 minutes	Increase timer by 10 minutes
+2	70	1	1.16666666666667	Bucket collects Karma Shards for 70 minutes	Increase timer by 10 minutes
+3	80	2	1.33333333333333	Bucket collects Karma Shards for 80 minutes	Increase timer by 10 minutes
+4	90	3	1.5	Bucket collects Karma Shards for 90 minutes	Increase timer by 10 minutes
+5	100	4	1.66666666666667	Bucket collects Karma Shards for 100 minutes	Increase timer by 10 minutes
+6	110	5	1.83333333333333	Bucket collects Karma Shards for 110 minutes	Increase timer by 10 minutes
+7	120	6	2	Bucket collects Karma Shards for 120 minutes	Increase timer by 10 minutes
+8	130	7	2.16666666666667	Bucket collects Karma Shards for 130 minutes	Increase timer by 10 minutes
+9	140	8	2.33333333333333	Bucket collects Karma Shards for 140 minutes	Increase timer by 10 minutes
+10	150	9	2.5	Bucket collects Karma Shards for 150 minutes	Increase timer by 10 minutes

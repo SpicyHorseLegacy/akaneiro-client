@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: 4037050027829a04db9c19ce1c02f1ce
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CATRigHub01
+    100004: CATRigHub01Bone01
+    100006: CATRigHub01Bone02
+    100008: CATRigLLeg1_B
+    100010: CATRigLLeg1_F
+    100012: CATRigLLeg2_B
+    100014: CATRigLLeg2_F
+    100016: CATRigLLeg3
+    100018: CATRigLLeg3 1
+    100020: CATRigRLeg1_B
+    100022: CATRigRLeg1_F
+    100024: CATRigRLeg2_B
+    100026: CATRigRLeg2_F
+    100028: CATRigRLeg3
+    100030: CATRigRLeg3_B
+    100032: CH_Jubokko_Fruit04
+    100034: Root
+    400000: //RootNode
+    400002: CATRigHub01
+    400004: CATRigHub01Bone01
+    400006: CATRigHub01Bone02
+    400008: CATRigLLeg1_B
+    400010: CATRigLLeg1_F
+    400012: CATRigLLeg2_B
+    400014: CATRigLLeg2_F
+    400016: CATRigLLeg3
+    400018: CATRigLLeg3 1
+    400020: CATRigRLeg1_B
+    400022: CATRigRLeg1_F
+    400024: CATRigRLeg2_B
+    400026: CATRigRLeg2_F
+    400028: CATRigRLeg3
+    400030: CATRigRLeg3_B
+    400032: CH_Jubokko_Fruit04
+    400034: Root
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: CH_Jubokko_Fruit04
+    11100000: //RootNode
+    13700000: CH_Jubokko_Fruit04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

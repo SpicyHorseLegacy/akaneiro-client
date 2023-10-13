@@ -1,0 +1,28 @@
+INT	STRING	INT	INT	STRING	STRING	STRING
+prefabID	prefab	Min	Max	Quality Name String	Gem Color + Gem Extra String	Type Name String
+Weapon Prefab	Cloak Prefab	Min Item Level for Prefab	Max Item Level for Prefab	Quality Name String	Not used anymore (was Thead)	Type Name String
+1	Cloak_S01	1	5	Rough 		Short Cloak
+2	CloakHood_S01	2	6	Rough 		Short Hood
+19	Cloak_S02	5	10	Fine 		Short Cloak
+20	CloakHood_S02	6	11	Fine 		Short Hood
+3	Cloak_S03	10	15	Hunting 		Short Cloak
+4	CloakHood_S03	11	16	Hunting 		Short Hood
+5	Cloak_S04	16	25	Akane 		Short Cloak
+6	CloakHood_S04	17	28	Akane 		Short Hood
+7	Cloak_M01	6	11	Rough 		Cloak
+8	CloakHood_M01	7	12	Rough 		Hood
+21	Cloak_M02	11	16	Fine 		Cloak
+22	CloakHood_M02	12	17	Fine 		Hood
+9	Cloak_M03	16	21	Hunting 		Cloak
+10	CloakHood_M03	17	22	Hunting 		Hood
+11	Cloak_M04	21	30	Akane 		Cloak
+12	CloakHood_M04	26	33	Akane 		Hood
+13	Cloak_L01	11	16	Rough 		Long Cloak
+14	CloakHood_L01	12	17	Rough 		Long Hood
+23	Cloak_L02	16	21	Fine 		Long Cloak
+24	CloakHood_L02	17	22	Fine 		Long Hood
+15	Cloak_L03	21	30	Hunting 		Long Cloak
+16	CloakHood_L03	26	33	Hunting 		Long Hood
+17	Cloak_L04	30	36	Akane 		Long Cloak
+18	CloakHood_L04	33	40	Akane 		Long Hood
+101	Cloak_redcap	0	0	Hooded 		Cloak

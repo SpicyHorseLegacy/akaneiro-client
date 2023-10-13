@@ -1,0 +1,315 @@
+STRING	STRING
+TextIndex	English
+TextIndex	English
+UNLOCK	UNLOCK
+EXIT	EXIT
+CHANGETHREAT	Are you sure you want to Trade Karma to change the Threat level?
+BACK	BACK
+REWARDOFFERED	REWARD OFFERED:
+INCREASEDTHREATTIME	Increased Threat in
+MISSIONOBJECTIVE	Mission Objective:
+GETKS	GET KARMA SHARDS
+GETKC	GET KARMA CRYSTALS
+GOODVALUE	Good Value
+BESTVALUE	Best Value
+AMOUNT	Amount:
+OK	OK
+ENTERNAME	Enter name
+GENDER	Gender
+AVATAR	Avatar
+DISCIPLINE	Discipline
+SELECT	Select
+RETURNMENU	Return to Menu
+DISFROMSER	Disconnected from server.
+PLAYERSTATS	Player Stats
+BASESTATS	BASE STATS
+BONUSES	BONUSES
+STATS	Stats
+RECORD	Record
+POWER	Power
+DEFENSE	Defense
+SKILL	Skill
+HEALTH	Health
+ENERGY	Energy
+MAINDPS	Mainhand DPS :
+OFFDPS	Offhand DPS :
+CRITICALCHANCE	Critical Chance :
+CRITICALDMG	Critical Damage :
+DMGREDUCTION	Damage Reduction :
+DMGBONUS	Dmg Bonus:
+RESISTANCE	Resistance:
+INV	Inventory
+TRANSMUTE	Transmute 
+MAINHAND	main hand
+OFFHAND	off hand
+CHOOSEABI	Choose Abilities
+CHOOSEAGROUP	Choose a group:
+OPTIONS	Options
+GAMEMENU	GAME MENU
+SETTINGS	Settings
+HELPIDX	Help Index
+GIFTCODE	Gift Code
+BUGREPORT	Bug Report
+RETURNVILLAGE	Return to Village
+LOGOUT	Log Out
+QUITGAME	Quit Game
+GAMEPLAY	GAME PLAY
+VIDEO	VIDEO
+AUTOATK	Auto Attack
+AUTOFADELOOTNAME	Auto-Fade Loot Names
+FULLSCREEN	Full Screen
+SHADOWS	Shadows
+QUALITY	Quality
+LOW	Low
+NORMAL	Normal
+HIGH	High
+BEST	Best
+AUDIO	AUDIO
+SOUNDFX	Sound FX
+MUSIC	Music
+MUTESOUNDFX	Mute Sound FX
+MUTEMUSIC	Mute Music
+TASKCOMPLETE	TASK COMPLETE :
+XP	EXP
+FILTERSETTING	Filter Setting
+PUBLIC	Public
+DEBUG	Debug
+SYSTEM	System
+COLORSETTING	Color Setting
+VENDORGATO	Vendor Gato
+STATGROWTH	Stat Growth
+NEXT	Next
+YOUARELEVEL	You are now[#FFFF00] Level
+LOADING	Loading
+REGISTER	Register
+EMAILADDR	Email address
+PASSWORD	Password
+LOGIN	Login
+KARMASHARDS	Karma Shards
+KARMACRYSTALS	Karma Crystals
+MAPUNLOCK	Map Unlock
+PACKAGE1	Package 1
+PACKAGE2	Package 2
+PACKAGE3	Package 3
+COMINGSOON	Coming Soon...
+UNLOCKMAPPAG1	Unlock Yomi Island: Areas 2 - 8!
+UNLOCKMAPPAG2	  Unlock Yomi Island:          Areas 2 - 8!         Plus 8888 karma!
+CHOOSEACTION	Choose an action:
+ESCAPEPRAYER	Escape Prayer
+FREE	Free
+ESCTOVILLAGE	Escape to Yomi Village
+XPEARNLOST	Karma and XP earnings are lost
+ITEMANDKARMARETAINED	Items are retained
+REVIVALPRAYER	Revival Prayer
+RETURNFULLPOWER	Return to Full Power
+SMITENEARBYENEMIES	Smite nearby enemies
+SHINIGAMISCROLL	Resurgence
+RETURNWITHVENGANCE	Return with a  Vengeance
+INCVFOR7SECONDS	Invincible for 7 seconds
+SUPERSMITEENEMIES	Super-smite nearby enemies
+NOPENALTYEARN	No penalty to earnings
+HUNTER	Hunter
+DELETE	Delete
+LEVEL	Level
+NEWRECRUIT	New Recruit
+SUMMONERSHIMIZU	Summoner Shimizu
+SUMMON	Summon
+FRIENDS	Friends
+ALL	All
+ABIIMPROVESTAT	Abilities improve stat
+TRAINERTAKEDA	Trainer Takeda
+GIFTFROMTHEVILLAGE	Gifts from the village
+MARKYOURATTENDANCE	Return daily to receive gifts of increasing value
+THANKS	 Thanks!
+CONGRATULATIONS	Congratulations!
+YOUHAVERECEIVED	You have received 
+GREAT	Great!
+EQUIPPED	EQUIPPED
+DAMAGE	DAMAGE
+SPEED	SPEED
+VALUE	Value
+NOTENOUGHTMONEY	You don't have enough Karma to complete this transaction.
+LEVELCAPS	Level Cap [          ]
+MISSIONSUCCESS	Mission Success:
+MISSIONSUMMARY	Mission Summary
+KARMAREWARDBONUS	Karma Reward Bonus
+EXPBREAKDOWN	Experience Breakdown
+MISSIONEARNINGS	Mission Earnings
+THREATBOUNS	Threat Bonus
+TOTALEXP	Total Experience
+PING	Ping
+ACTIVITIES	Activities
+CONTINUE	Continue
+YOUHAVEEARNED	You have earned
+THREATBALANCE	Threat Balance
+THREATBALANCEINFO	Lower Threat = Better loot drops Higher threat = More experience
+CHOOSEALLY	Choose Your Ally
+CHOOSEMISS	Choose Your Mission
+WELCOMETOAKA	Establishing connection...
+SHOWDETAIL	Click any icon to show details.
+STAT	STATS
+ABILITIES	ABILITIES
+TRAILS	TRAILS
+ATTACKSPEED	Attack Speed : 
+MOVESPEED	Move Speed :
+TOTALARMOR	Total Armor :
+HEALTHREGEN	Health Regen :
+ENERGYREGEN	Energy Regen :
+FLAMECHANCE	Flame Chance :
+FROSTCHANCE	Frost Chance :
+BLASTCHANCE	Blast Chance :
+SHOCKCHANCE	Shock Chance :
+FLAMERESIST	Flame Resist :
+FROSTRESIST	Frost Resist :
+BLASTRESIST	Blast Resist :
+SHOCKRESIST	Shock Resist :
+PROWESS	Prowess
+FORTITUDE	Fortitude
+CUNNING	Cunning
+CREATE	Create
+BONUS	Bonus
+MASTERY	Mastery
+STARTINGABILITY	Starting Abilities:
+GENERAL	General
+TYPEMESSAGE	Type your Message here
+LOSELOOT	You will [ffff00]LOSE[-] this loot unless you [ffff00]REVIVE[-] now!
+CARRYON	CARRY ON
+CRYSTALREVIVEHINT	>> Invincible for 7 sec >> Super-smite nearby enemies >> No penatly to earnings
+KARMAREVIVEHINT	>> 50% penalty to earnings
+RIGHTCLICK	[FF8800]right-click [FFFFFF]to use
+KARMARECHARGE	Karma Recharge
+SERVERADDRESS	Server Address:
+INPUTIP	Input your IP
+PORT	Port:
+INPUTPORT	Input your port
+USERNAME	Username:
+INPUTACCOUNTNAME	Input your account name
+NOACCOUNT	No Account?
+REMEMBER	Remember
+MISSIONONCOOLDOWN	This mission is on cool down
+MISSION	Mission
+EASY	EASY
+HARD	HARD
+MEDIUM	MEDIUM
+OVERRUN	OVERRUN
+HUNT	HUNT
+LOCKED	LOCKED
+RECOMMENDEDLEVEL	Recommended level:
+SPEEDUP	SPEED UP
+TOUNLOCK	COMPLETE HARD TO UNLOCK
+SELECTDIFFICULTY	Select Difficulty
+ENTERCODE	please enter code here
+SEND	SEND
+HELP	HELP
+BACKTOVILLAGE	Back to Village
+PLAY	PLAY
+DELETEHINT1	Are you sure you want to delete
+DELETEHINT2	and all items attached to this character?
+CANCEL	Cancel
+BEGINTRAINING	BEGIN TRAINING
+REACHMAXLEVEL	You have reached the maximum level!
+ENERGYREQUIRED	_---- [00c6ff]Energy Required : --[-] [ff0000]---:[-] --- [ff0000]---:[-] ---
+NEXTLEVEL	Next Level
+ENERGYREQUIREDEXTRA	_---- [00c6ff]Energy Required : --[-] [ff0000]---:[-] --- [ff0000]---:[-] --- [ffd200]Extra : ---[-]
+HAVEPOWER	[ff0000]Have : [-]--- Power
+NEEDPOWER	[ff0000]Need : [-]--- Power
+GET	GET
+CITEMNAME	Consumable item name
+PURCHASESUCCESS	Purchase success
+ITEMNAME	Item Name
+BUNDLES	BUNDLES
+FOOD	FOOD
+DRINKS	DRINKS
+MATERIALS	MATERIALS
+UNIQUE	UNIQUE
+WEAPONS	WEAPONS
+ARMOR	ARMOR
+ACCESSORIES	ACCESSORIES
+SPECIAL	SPECIAL
+WEAPON	WEAPON
+PLAYERNAME	PlayerName
+NO	No
+PLAYTUTORIAL	Do you want to play tutorial mission?
+YES	Yes
+UPGRADEATTRIBUTE	UPGRADE ATTRIBUTE
+BONUSTOMELEEDMG	[FF0000]5%[-] bonus to melee damage
+CANNOTUPGRADED	This attribute cannot be further upgraded
+100SUCCESS	[00FF00]100%[-] SUCCESS
+50SUCCESS	50% SUCCESS
+INCRAFTING	Crafting in progress…
+SELECTATTR	Select the Attribute you want to Upgrade
+ENCHANTX	Enchant X
+ELEMENTX	Element X
+50SHOCK	[ff0000]50%[-] to shock enmeies
+GOLDX	Gold X
+ATTRINCREASED	Defence and Skill increased by [ff0000]2[-]
+ITEMTYPE	ITEM TYPE
+CHOOSEITEM	CHOOSE AN ITEM
+EQUIPPEDITEMS	EQUIPPED ITEMS
+INVENTORYITEMS	INVENTORY ITEMS
+TAKEALL	Take all
+MAILTITLE	MAIL TITLE
+EMPTY	Empty
+MAILBOX	MAILBOX
+SUMMONHELPER	SPIRIT HELPERS
+UNLOCKSPRITE	You need to reach level 22 to unlock this sprite.
+PETNAME	PET NAME
+CALL	CALL
+INCREASEPOWERWATK	Increase base power by 20% 3% chance to explode when attacking
+SUMMON1H	SUMMON 1 Hour
+SUMMON1D	SUMMON 1 Day
+SUMMON1W	SUMMON 1 Week
+FINISHNOW	FINISH NOW !
+INCREASESIZE	INCREASE SIZE
+STASHBOX	STASH BOX
+ADDSLOTS	Adds another 12 slots to the Stash Box
+NEWTAB	New Tab
+HIGHTHREATBONUS	High Threat Bonus
+MATERIALSCOLLECTED	MATERIALS COLLECTED
+MISSIONNAME	mission name
+SUCCESS	SUCCESS!
+1HAXE	1 hand axe
+FAST	FAST
+SELECTED	SELECTED
+SELL	SELL
+USE	USE
+DRAGTOEQUIP	Drag [FFFFFF]to equip[-]
+ATTACKS	Attacks:
+HPLOST	Health Lost:
+MPUSED	Energy Used:
+FOODEATEN	Food Eaten:
+DRINKSCONSUMED	Drinks Consumed:
+DEATHS	Deaths:
+REVIVES	Revives:
+UNDEAD	Undead:
+TOTALS	Totals
+KARMACOLLECT	Karma Collected:
+KARMASPENT	Karma Spent:
+CRYSTALOWNED	Crystals Owned:
+CRYSTALSPENT	Crystals Spent:
+ALLIESSUM	Allies Summoned:
+PETSUM	Pets Summoned:
+ITEMSOLD	Items Sold:
+BOSSKILLS	Boss Kills
+UPGRADE	UPGRADE
+SELECTDISCIPLINE	SELECT DISCIPLINE
+LEVELUP	LEVEL UP
+REWARDS	Rewards:
+YOUDEFEATED	YOU DEFEATED:
+BMASTERY	MASTERY
+BINVENTORY	Inventory
+SelectMission	Select Mission
+DEFAULT	Set Default
+WOLVES	Wolves:
+IMPS	Imps:
+WEREWOLVES	Werewolves:
+TREES	Trees:
+BUGS	Bugs:
+ONI	Oni:
+ENEMYKILLS	Enemy Kills
+OPENBROWSER	OPEN IN BROWSER
+BUGREPORTDESC	To report a bug, please go to our website : \n http://support.spicyhorse.com
+MISSIONREWARDS	REWARDS
+CONFIRMQUIT	Are you sure you want to quit the game ?
+CONFIRMDELETEMAIL	Are you sure you want to delete this mail ?
+COLLAPSED	COLLAPSED

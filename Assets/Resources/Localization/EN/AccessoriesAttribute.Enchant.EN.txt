@@ -1,0 +1,34 @@
+INT	STRING	INT	INT	INT	FLOAT	STRING	STRING	INT	INT	STRING	INT	INT
+ID	Enchant	 Chance 	EnchantLevel	StatusID	Value	Desc1	Desc2	EnchantType	IconID	Enchant Name	Min	Max
+ID	Enchant String	(NOT USED) Attach Chance %	Enchant Level	StatusID	Value	Enchant Desc String 1	Enchant Desc String 2	EnchantType	IconID	Name String	Min Item Level for Enchant	Max Item Level for Enchant
+101	Nimble I	20	1	70801	1.5	1% Boost to 	Move Speed	1	4	Nimble 	1	60
+102	Nimble II	8	2	70802	1.5	2% Boost to 	Move Speed	1	4	Nimble 	3	60
+103	Nimble III	2	3	70803	1.5	3% Boost to 	Move Speed	1	4	Nimble 	6	60
+104	Nimble IV	0	4	70804	2	4% Boost to 	Move Speed	1	4	Nimble 	60	60
+105	Nimble V	0	5	70805	2	5% Boost to 	Move Speed	1	4	Nimble 	60	60
+106	Nimble VI	0	6	70806	2	6% Boost to 	Move Speed	1	4	Nimble 	60	60
+107	Nimble VII	0	7	70807	3	7% Boost to 	Move Speed	1	4	Nimble 	60	60
+108	Nimble VIII	0	8	70808	3	8% Boost to 	Move Speed	1	4	Nimble 	60	60
+109	Nimble IX	0	9	70809	3	9% Boost to 	Move Speed	1	4	Nimble 	60	60
+110	Nimble X	0	10	70810	4	10% Boost to 	Move Speed	1	4	Nimble 	60	60
+201	Hyper I	22	1	70201	1.5	1.5% Boost to 	Total Energy	2	5	Hyper 	1	60
+202	Hyper II	8	2	70202	1.5	3% Boost to 	Total Energy	2	5	Hyper 	3	60
+203	Hyper III	2	3	70203	1.5	4.5% Boost to 	Total Energy	2	5	Hyper 	6	60
+204	Hyper IV	0	4	70204	2	6% Boost to 	Total Energy	2	5	Hyper 	60	60
+205	Hyper V	0	5	70205	2	7.5% Boost to 	Total Energy	2	5	Hyper 	60	60
+206	Hyper VI	0	6	70206	2	9% Boost to 	Total Energy	2	5	Hyper 	60	60
+207	Hyper VII	0	7	70207	3	10.5% Boost to 	Total Energy	2	5	Hyper 	60	60
+208	Hyper VIII	0	8	70208	3	12% Boost to 	Total Energy	2	5	Hyper 	60	60
+209	Hyper IX	0	9	70209	3	13.5% Boost to 	Total Energy	2	5	Hyper 	60	60
+210	Hyper X	0	10	70210	4	15% Boost to 	Total Energy	2	5	Hyper 	60	60
+301	Precision I	25	1	71701	1.5	2% Boost to 	Critical Chance	3	6	Precise 	1	60
+302	Precision II	10	2	71702	1.5	4% Boost to 	Critical Chance	3	6	Precise 	3	60
+303	Precision III	3	3	71703	1.5	6% Boost to 	Critical Chance	3	6	Precise 	6	60
+304	Precision IV	0	4	71704	2	8% Boost to 	Critical Chance	3	6	Precise 	60	60
+305	Precision V	0	5	71705	2	10% Boost to 	Critical Chance	3	6	Precise 	60	60
+306	Precision VI	0	6	71706	2	12% Boost to 	Critical Chance	3	6	Precise 	60	60
+307	Precision VII	0	7	71707	3	14% Boost to 	Critical Chance	3	6	Precise 	60	60
+308	Precision VIII	0	8	71708	3	16% Boost to 	Critical Chance	3	6	Precise 	60	60
+309	Precision IX	0	9	71709	3	18% Boost to 	Critical Chance	3	6	Precise 	60	60
+310	Precision X	0	10	71710	4	20% Boost to 	Critical Chance	3	6	Precise 	60	60
+800	Balance Seeker	0	10	80301	15	10% of highest base stat 	added to lowest	0	10	Akane Signet 	60	60

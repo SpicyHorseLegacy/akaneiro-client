@@ -1,0 +1,10 @@
+INT	INT	STRING	INT	STRING	STRING	INT	INT
+ID	Species	Name	KS Rent 2 days	Description	Buff	EffectIdx	LevelReq
+ID	Species	Name	Ingame Money	Name	Buff Description	Status ID in Ability.xlsx	LevelReq
+1001	3	Inugami	250	Inugami	Dog spirit. Increases Power.	50101	1
+2001	2	Maneki Neko	320	Maneki Neko	Cat spirit. Increases Skill.	50201	1
+3001	1	Yosuzume	1200	Yosuzume	Bird spirit. Increases Energy regen.	50301	8
+4001	4	Nishikigoi	500	Nishikigoi	Fish spirit. Increases Health regen.	50401	4
+5001	5	Nihonzaru	1800	Nihonzaru	Monkey spirit. Increases max Energy.	50501	12
+6001	6	Ishigame	560	Ishigame	Turtle spirit. Increases Defense.	50601	4
+7001	7	Kabuki Kozo	2200	Kabuki Kozo	Yokai spirit. Increases Attack Speed.	50701	12

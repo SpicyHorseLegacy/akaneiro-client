@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: d5846bd5546436144ac4486f716943a0
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: FOL_DeadTreeGroup11
+    100002: FOL_DeadTreeGroup10
+    100004: FOL_DeadTreeGroup09
+    100006: FOL_DeadTreeGroup08
+    100008: //RootNode
+    100010: FOL_DeadTreeGroup14
+    100012: FOL_DeadTreeGroup13
+    100014: FOL_DeadTreeGroup12
+    400000: FOL_DeadTreeGroup11
+    400002: FOL_DeadTreeGroup10
+    400004: FOL_DeadTreeGroup09
+    400006: FOL_DeadTreeGroup08
+    400008: //RootNode
+    400010: FOL_DeadTreeGroup14
+    400012: FOL_DeadTreeGroup13
+    400014: FOL_DeadTreeGroup12
+    2300000: FOL_DeadTreeGroup11
+    2300002: FOL_DeadTreeGroup10
+    2300004: FOL_DeadTreeGroup09
+    2300006: FOL_DeadTreeGroup08
+    2300008: FOL_DeadTreeGroup14
+    2300010: FOL_DeadTreeGroup13
+    2300012: FOL_DeadTreeGroup12
+    3300000: FOL_DeadTreeGroup11
+    3300002: FOL_DeadTreeGroup10
+    3300004: FOL_DeadTreeGroup09
+    3300006: FOL_DeadTreeGroup08
+    3300008: FOL_DeadTreeGroup14
+    3300010: FOL_DeadTreeGroup13
+    3300012: FOL_DeadTreeGroup12
+    4300000: FOL_DeadTreeGroup08
+    4300002: FOL_DeadTreeGroup09
+    4300004: FOL_DeadTreeGroup10
+    4300006: FOL_DeadTreeGroup11
+    4300008: FOL_DeadTreeGroup12
+    4300010: FOL_DeadTreeGroup13
+    4300012: FOL_DeadTreeGroup14
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

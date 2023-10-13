@@ -1,0 +1,43 @@
+INT	STRING	INT	INT	STRING	STRING	STRING	FLOAT	INT	FLOAT	INT	INT	STRING	INT	INT
+ID	Element Type	Chance 	Element Level	Element Desc String 1	Element Desc String 2	Status Effect	Status Effect Bonus %	Element Impact VFX	Value	Element	IconID	Element Name	Min	Max
+ID	Element String	(NOT USED) Attach Chance %	Element Level	Element Desc String 1	Element Desc String 2	Status Effect	Status Effect Bonus %	Element Impact VFX	Value	Element	IconID	Name String	Min Item Level for Element	Max Item Level for Element
+101	Fur-Lined I	14	1	2% Resistance to 	Frost Damage	ResistFrost	0.02	0	2	5	5	Fur-Lined 	1	60
+102	Fur-Lined II	8	2	4% Resistance to 	Frost Damage	ResistFrost	0.04	0	2	5	5	Fur-Lined 	3	60
+103	Fur-Lined III	3	3	6% Resistance to 	Frost Damage	ResistFrost	0.06	0	2	5	5	Fur-Lined 	6	60
+104	Fur-Lined IV	0	4	8% Resistance to 	Frost Damage	ResistFrost	0.08	0	4	5	5	Fur-Lined 	60	60
+105	Fur-Lined V	0	5	10% Resistance to 	Frost Damage	ResistFrost	0.1	0	4	5	5	Fur-Lined 	60	60
+106	Fur-Lined VI	0	6	12% Resistance to 	Frost Damage	ResistFrost	0.12	0	4	5	5	Fur-Lined 	60	60
+107	Fur-Lined VII	0	7	14% Resistance to 	Frost Damage	ResistFrost	0.14	0	6	5	5	Fur-Lined 	60	60
+108	Fur-Lined VIII	0	8	16% Resistance to 	Frost Damage	ResistFrost	0.16	0	6	5	5	Fur-Lined 	60	60
+109	Fur-Lined IX	0	9	18% Resistance to 	Frost Damage	ResistFrost	0.18	0	6	5	5	Fur-Lined 	60	60
+110	Fur-Lined X	0	10	20% Resistance to 	Frost Damage	ResistFrost	0.2	0	8	5	5	Fur-Lined 	60	60
+201	Chilled I	14	1	2% Resistance to 	Flame Damage	ResistFlame	0.02	0	2	4	6	Chilled 	1	60
+202	Chilled II	8	2	4% Resistance to 	Flame Damage	ResistFlame	0.04	0	2	4	6	Chilled 	3	60
+203	Chilled III	3	3	6% Resistance to 	Flame Damage	ResistFlame	0.06	0	2	4	6	Chilled 	6	60
+204	Chilled IV	0	4	8% Resistance to 	Flame Damage	ResistFlame	0.08	0	4	4	6	Chilled 	60	60
+205	Chilled V	0	5	10% Resistance to 	Flame Damage	ResistFlame	0.1	0	4	4	6	Chilled 	60	60
+206	Chilled VI	0	6	12% Resistance to 	Flame Damage	ResistFlame	0.12	0	4	4	6	Chilled 	60	60
+207	Chilled VII	0	7	14% Resistance to 	Flame Damage	ResistFlame	0.14	0	6	4	6	Chilled 	60	60
+208	Chilled VIII	0	8	16% Resistance to 	Flame Damage	ResistFlame	0.16	0	6	4	6	Chilled 	60	60
+209	Chilled IX	0	9	18% Resistance to 	Flame Damage	ResistFlame	0.18	0	6	4	6	Chilled 	60	60
+210	Chilled X	0	10	20% Resistance to 	Flame Damage	ResistFlame	0.2	0	8	4	6	Chilled 	60	60
+301	Plated I	14	1	2% Resistance to 	Explosion Damage	ResistExplosion	0.02	0	2	6	7	Plated 	1	60
+302	Plated II	8	2	4% Resistance to 	Explosion Damage	ResistExplosion	0.04	0	2	6	7	Plated 	3	60
+303	Plated III	3	3	6% Resistance to 	Explosion Damage	ResistExplosion	0.06	0	2	6	7	Plated 	6	60
+304	Plated IV	0	4	8% Resistance to 	Explosion Damage	ResistExplosion	0.08	0	4	6	7	Plated 	60	60
+305	Plated V	0	5	10% Resistance to 	Explosion Damage	ResistExplosion	0.1	0	4	6	7	Plated 	60	60
+306	Plated VI	0	6	12% Resistance to 	Explosion Damage	ResistExplosion	0.12	0	4	6	7	Plated 	60	60
+307	Plated VII	0	7	14% Resistance to 	Explosion Damage	ResistExplosion	0.14	0	6	6	7	Plated 	60	60
+308	Plated VIII	0	8	16% Resistance to 	Explosion Damage	ResistExplosion	0.16	0	6	6	7	Plated 	60	60
+309	Plated IX	0	9	18% Resistance to 	Explosion Damage	ResistExplosion	0.18	0	6	6	7	Plated 	60	60
+310	Plated X	0	10	20% Resistance to 	Explosion Damage	ResistExplosion	0.2	0	8	6	7	Plated 	60	60
+401	Insulated I	14	1	2% Resistance to 	Storm Damage	ResistStorm	0.02	0	2	7	8	Insulated 	1	60
+402	Insulated II	8	2	4% Resistance to 	Storm Damage	ResistStorm	0.04	0	2	7	8	Insulated 	3	60
+403	Insulated III	3	3	6% Resistance to 	Storm Damage	ResistStorm	0.06	0	2	7	8	Insulated 	6	60
+404	Insulated IV	0	4	8% Resistance to 	Storm Damage	ResistStorm	0.08	0	4	7	8	Insulated 	60	60
+405	Insulated V	0	5	10% Resistance to 	Storm Damage	ResistStorm	0.1	0	4	7	8	Insulated 	60	60
+406	Insulated VI	0	6	12% Resistance to 	Storm Damage	ResistStorm	0.12	0	4	7	8	Insulated 	60	60
+407	Insulated VII	0	7	14% Resistance to 	Storm Damage	ResistStorm	0.14	0	6	7	8	Insulated 	60	60
+408	Insulated VIII	0	8	16% Resistance to 	Storm Damage	ResistStorm	0.16	0	6	7	8	Insulated 	60	60
+409	Insulated IX	0	9	18% Resistance to 	Storm Damage	ResistStorm	0.18	0	6	7	8	Insulated 	60	60
+410	Insulated X	0	10	20% Resistance to 	Storm Damage	ResistStorm	0.2	0	8	7	8	Insulated 	60	60

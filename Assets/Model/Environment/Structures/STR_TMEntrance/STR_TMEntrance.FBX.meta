@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: e767dbf5f73495d44bb326e2c8f2f80e
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: STR_TempleDoorA
+    4300002: STR_TempleWallB
+    4300004: STR_TempleWallC003
+    4300006: STR_TempleWallC004
+    4300008: STR_TempleWallB001
+    4300010: STR_TemplePillaA001
+    4300012: STR_TemplePillaB001
+    4300014: STR_TemplePillaA002
+    4300016: STR_TemplePillaB002
+    4300018: STR_TemplePillaB003
+    4300020: STR_TemplePillaB004
+    4300022: STR_TempleWallC006
+    4300024: STR_TempleWallC007
+    4300026: STR_TempleWallB002
+    4300028: STR_TemplePillaA003
+    4300030: STR_TemplePillaB005
+    4300032: STR_TemplePillaA004
+    4300034: STR_TemplePillaB006
+    4300036: STR_TempleWallB003
+    4300038: STR_TempleWallC008
+    4300040: STR_TemplePillaA005
+    4300042: STR_TempleWallC009
+    4300044: Box001
+    4300046: Box002
+    4300048: STR_TemplePillaA006
+    4300050: STR_TempleWallC010
+    4300052: STR_TempleWallC011
+    4300054: STR_TemplePillaB007
+    4300056: STR_TemplePillaB008
+    4300058: STR_TemplePillaB009
+    4300060: STR_TemplePillaB010
+    4300062: STR_TemplePillaB011
+    4300064: STR_TemplePillaB012
+    4300066: Box003
+    4300068: Box004
+    4300070: STR_StoneStairB
+    4300072: PRP_TempleFenceA
+    4300074: PRP_TempleFenceA001
+    4300076: PRP_TempleFenceA002
+    4300078: PRP_TempleFenceA003
+    4300080: PRP_TempleFenceA004
+    4300082: STR_TMEntrance
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

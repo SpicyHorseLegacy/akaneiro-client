@@ -1,0 +1,5 @@
+INT	STRING	INT	INT	INT
+ID	Weapon	Chance 	Value	 Amount
+AccessoryID	Weapon	Drop Chance %	Value	Armor Amount
+3001	Ring	55	11	150
+3002	Necklace	45	13	150

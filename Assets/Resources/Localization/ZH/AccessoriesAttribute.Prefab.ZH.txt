@@ -1,0 +1,13 @@
+INT	STRING	INT	INT
+prefabID	prefab	Min	Max
+Weapon Prefab	Weapon Prefab	Min Item Level for Prefab	Max Item Level for Prefab
+1	ACC01	1	6
+2	ACC02	1	10
+3	ACC03	4	12
+4	ACC04	9	18
+5	ACC05	13	24
+6	ACC06	18	30
+7	ACC07	22	36
+8	ACC08	27	42
+9	ACC09	31	48
+10	ACC10	36	54

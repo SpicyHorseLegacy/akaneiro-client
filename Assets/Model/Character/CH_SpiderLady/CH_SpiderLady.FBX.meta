@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 532abe61ad81e5047b1ff6c1cd6ef17f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001
+    100004: Bip001 Head
+    100006: Bip001 L Clavicle
+    100008: Bip001 L Finger0
+    100010: Bip001 L Finger01
+    100012: Bip001 L Finger1
+    100014: Bip001 L Finger11
+    100016: Bip001 L Finger2
+    100018: Bip001 L Finger21
+    100020: Bip001 L Forearm
+    100022: Bip001 L Hand
+    100024: Bip001 L UpperArm
+    100026: Bip001 Neck
+    100028: Bip001 Pelvis
+    100030: Bip001 R Clavicle
+    100032: Bip001 R Finger0
+    100034: Bip001 R Finger01
+    100036: Bip001 R Finger1
+    100038: Bip001 R Finger11
+    100040: Bip001 R Finger2
+    100042: Bip001 R Finger21
+    100044: Bip001 R Forearm
+    100046: Bip001 R Hand
+    100048: Bip001 R UpperArm
+    100050: Bip001 Spine
+    100052: Bip001 Spine1
+    100054: Bone_Skirt_B_00
+    100056: Bone_Skirt_B_01
+    100058: Bone_Skirt_B_02
+    100060: Bone_Skirt_F_00
+    100062: Bone_Skirt_F_01
+    100064: Bone_Skirt_F_02
+    100066: Bone_Skirt_L_00
+    100068: Bone_Skirt_L_01
+    100070: Bone_Skirt_L_02
+    100072: Bone_Skirt_R_00
+    100074: Bone_Skirt_R_01
+    100076: Bone_Skirt_R_02
+    100078: CH_SpiderLady
+    100080: Root
+    400000: //RootNode
+    400002: Bip001
+    400004: Bip001 Head
+    400006: Bip001 L Clavicle
+    400008: Bip001 L Finger0
+    400010: Bip001 L Finger01
+    400012: Bip001 L Finger1
+    400014: Bip001 L Finger11
+    400016: Bip001 L Finger2
+    400018: Bip001 L Finger21
+    400020: Bip001 L Forearm
+    400022: Bip001 L Hand
+    400024: Bip001 L UpperArm
+    400026: Bip001 Neck
+    400028: Bip001 Pelvis
+    400030: Bip001 R Clavicle
+    400032: Bip001 R Finger0
+    400034: Bip001 R Finger01
+    400036: Bip001 R Finger1
+    400038: Bip001 R Finger11
+    400040: Bip001 R Finger2
+    400042: Bip001 R Finger21
+    400044: Bip001 R Forearm
+    400046: Bip001 R Hand
+    400048: Bip001 R UpperArm
+    400050: Bip001 Spine
+    400052: Bip001 Spine1
+    400054: Bone_Skirt_B_00
+    400056: Bone_Skirt_B_01
+    400058: Bone_Skirt_B_02
+    400060: Bone_Skirt_F_00
+    400062: Bone_Skirt_F_01
+    400064: Bone_Skirt_F_02
+    400066: Bone_Skirt_L_00
+    400068: Bone_Skirt_L_01
+    400070: Bone_Skirt_L_02
+    400072: Bone_Skirt_R_00
+    400074: Bone_Skirt_R_01
+    400076: Bone_Skirt_R_02
+    400078: CH_SpiderLady
+    400080: Root
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: CH_SpiderLady
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CH_SpiderLady
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

@@ -1,0 +1,46 @@
+INT	STRING	INT	STRING	INT	INT	INT	INT	STRING
+ID	Name	ItemCategory	ItemFunction	StatusEffect	BuffID	StatusEffectBonus	item type	short description
+Number	Name	ItemCategory	NOT USED. SEE Props.xlsx	StatusEffect	BuffID	StatusEffectBonus	item type	short description
+20057	Small Energy Potion	1	Drink to recover 1500 Energy over 1 second	8	75605	0	2	Recover Energy
+20058	Small Health Potion	1	Drink to recover 1500 Health over 1 second	9	75705	0	2	Recover Health
+20059	Medium Energy Potion	1	Drink to recover 4500 Energy over 3 seconds	8	75606	0	2	Recover Energy
+20060	Medium Health Potion	1	Drink to recover 4500 Health over 3 seconds	9	75706	0	2	Recover Health
+20061	Large Energy Potion	1	Drink to recover 8000 Energy over 5 seconds	8	75607	0	2	Recover Energy
+20062	Large Health Potion	1	Drink to recover 8000 Health over 5 seconds	9	75707	0	2	Recover Health
+20019	Hojicha Tea	1	Charcoal roasted tea, doubles base Energy regen rate (10 mins)	8	75602	0	2	Energy Regen
+20020	Chrysanthemum Tea	1	Colorful and fragrant, doubles base HP regen rate (10 mins)	9	75702	0	2	Health Regen
+20017	Shochu	1	Earthy distilled beverage, gives 80% boost to monster XP (10 mins)	6	75502	0	2	XP Boost
+20018	Awamori	5	Aged rice wine, gives a large boost to loot drop quality (10 mins)	7	75802	800	2	Loot Quality
+20000	Spicy Sushi	1	A spicy kick, gives a small boost to POWER (5 mins)	1	75001	0	3	Boost Power
+20009	Sea Urchin Sushi	1	Local delicacy, more than doubles base POWER stat (10 mins)	1	75002	0	3	Boost Power
+20001	Caviar Onigiri	1	Fresh treat, gives a small boost to SKILL (5 mins)	2	75101	0	3	Boost Skill
+20010	Kagami Mochi	1	Traditional treat, more than doubles base SKILL stat (10 mins)	2	75102	0	3	Boost Skill
+20002	Mint Tofu	1	Fragrant snack, gives a small boost to DEFENSE (5 mins)	3	75201	0	3	Boost Defense
+20014	Dorayaki	1	Red bean confectionary, more than doubles base DEFENSE stat (10 mins)	3	75202	0	3	Boost Defense
+20003	Garlic Snapper	1	Herb baked fish, gives a small boost to Movement speed (5 mins)	4	75301	0	3	Movement Speed
+20015	Fugu Tempura	1	Carefully prepared, increases Movement Speed by 20% (10 mins)	4	75302	0	3	Movement Speed
+20004	Ginseng Soba	1	Chilled noodle, gives a small boost to Critical Chance (5 mins)	5	75401	0	3	Critical Chance
+20016	Sukiyaki	1	Simmering hot pot, increases Critical Chance by 25% (10 mins)	5	75402	0	3	Critical Chance
+6001	Pelts	1	Pelts	0	0	0	-1	
+6002	Metal	1	Metal	0	0	0	-1	
+6003	Timber	1	Timber	0	0	0	-1	
+6004	Cloth	1	Cloth	0	0	0	-1	
+6005	Teeth	1	Teeth	0	0	0	-1	
+6006	Vine	1	Vine	0	0	0	-1	
+6007	Resin	1	Resin	0	0	0	-1	
+6008	Flux	1	Flux	0	0	0	-1	
+6009	Leather	1	Leather	0	0	0	-1	
+7001	Ruby	1	Ruby	0	0	0	-1	
+7002	Emerald	1	Emerald	0	0	0	-1	
+7003	Sapphire	1	Sapphire	0	0	0	-1	
+7004	Garnet	1	Garnet	0	0	0	-1	
+7005	Amethyst	1	Amethyst	0	0	0	-1	
+7006	Malachite	1	Malachite	0	0	0	-1	
+7007	Obsidian	1	Obsidian	0	0	0	-1	
+7008	Jade	1	Jade	0	0	0	-1	
+7009	Gold	1	Gold	0	0	0	-1	
+8001	Frost Core	1	Frost Core	0	0	0	-1	
+8002	Lava Core	1	Lava Core	0	0	0	-1	
+8003	Blast Core	1	Blast Core	0	0	0	-1	
+8004	Storm Core	1	Storm Core	0	0	0	-1	
+9001	Karma Core	1	Karma Core	0	0	0	-1	

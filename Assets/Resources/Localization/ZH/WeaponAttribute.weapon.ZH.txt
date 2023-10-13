@@ -1,0 +1,14 @@
+INT	STRING	STRING	INT	INT	INT	FLOAT	FLOAT	INT	STRING	INT	FLOAT
+WeaponID	Weapon	WeaponClass	DropChance 	DamageRange 	Damage Range	AttackRate	AttackRange	AttackAngle	Speed	Value	Attack Speed
+WeaponID	Weapon	WeaponClass	Drop Chance %	Damage Range (min)	Damage Range (max)	Attack Rate (p sec)	Attack Range	Attack Angle	Speed	Value	Attack Speed
+1001	Katana	One-handed 	12	200	320	1.25	1.5	60	Fast	8	0.9
+1002	Axe	One-handed 	14	80	400	1.25	1.5	60	Fast	5	0.9
+1003	Club	One-handed 	12	120	200	1.5	1.5	60	Very Fast	8	0.8
+1004	Mace	One-handed 	12	280	320	1	1.5	60	Normal	8	1
+1008	Sickle	One-handed 	8	240	280	1.5	1.5	60	Very Fast	12	0.8
+1009	Cutlass	One-handed 	5	120	340	1.5	1.5	60	Fast	14	0.9
+1005	Nodachi	Two-handed 	12	400	680	0.75	2	90	Slow	8	1.1
+1006	Great Axe	Two-handed 	10	200	800	0.75	2	90	Slow	10	1.1
+1007	Great Maul	Two-handed 	10	520	640	0.5	2	90	Very Slow	10	1.2
+1010	Claymore	Two-handed 	5	360	840	0.5	2	90	Very Slow	14	1.2
+4001	Razzle Dazzle	Two-handed 	0	999	999	1.5	5	180	Very Fast	14	0.8

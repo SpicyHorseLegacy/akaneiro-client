@@ -1,0 +1,13 @@
+INT	FLOAT	INT	INT	STRING	STRING
+Level	Value	Cost	PerHour	Description	UpgradeButton
+Level	Value	Crystal Cost	PerHour	Description	UpgradeButton
+1	6.68	0	100	Bucket collects 100 Karma Shards per 15mins	Increase Karma Shard earnings by 10%
+2	7.348	1	110	Bucket collects 110 Karma Shards per 15mins	Increase Karma Shard earnings by 10%
+3	8.0828	2	121	Bucket collects 121 Karma Shards per 15mins	Increase Karma Shard earnings by 10%
+4	8.89108	3	133	Bucket collects 133 Karma Shards per 15mins	Increase Karma Shard earnings by 10%
+5	9.780188	4	146	Bucket collects 146 Karma Shards per 15mins	Increase Karma Shard earnings by 10%
+6	10.7582068	5	161	Bucket collects 161 Karma Shards per 15mins	Increase Karma Shard earnings by 10%
+7	11.83402748	6	177	Bucket collects 177 Karma Shards per 15mins	Increase Karma Shard earnings by 10%
+8	13.017430228	7	195	Bucket collects 195 Karma Shards per 15mins	Increase Karma Shard earnings by 10%
+9	14.3191732508	8	214	Bucket collects 214 Karma Shards per 15mins	Increase Karma Shard earnings by 10%
+10	15.75109057588	9	236	Bucket collects 236 Karma Shards per 15mins	Increase Karma Shard earnings by 10%

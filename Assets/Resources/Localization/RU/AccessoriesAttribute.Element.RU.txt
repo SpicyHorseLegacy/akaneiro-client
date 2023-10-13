@@ -1,0 +1,43 @@
+INT	STRING	INT	INT	STRING	FLOAT	INT	FLOAT	STRING	STRING	INT	INT	STRING	INT	INT	INT
+ID	Element 	Chance	Element Level	StatusEffect	StatusEffectBonus %	ElementImpac VFX	Value	ElementDescString 1	ElementDescString 2	Element	IconID	Element Name	Min	Max	StatusID
+ID	Element String	(NOT USED) Attach Chance %	Element Level	Status Effect	Status Effect Bonus %	Element Impact VFX	Value	Element Desc String 1	Element Desc String 2	Element	IconID	Name String	Min Item Level for Element	Max Item Level for Element	StatusID
+101	Холодное I	14	1	ResistFreezeSlow	4	0	2	4% бонус к 	Resist Freeze	1	1	холодное 	1	60	74301
+102	Холодное II	8	2	ResistFreezeSlow	8	0	2	8% бонус к 	Resist Freeze	1	1	холодное 	12	60	74302
+103	Холодное III	3	3	ResistFreezeSlow	12	0	2	12% бонус к 	Resist Freeze	1	1	холодное 	25	60	74303
+104	Холодное IV	0	4	ResistFreezeSlow	16	0	4	16% бонус к 	Resist Freeze	1	1	холодное 	60	60	74304
+105	Холодное V	0	5	ResistFreezeSlow	20	0	4	20% бонус к 	Resist Freeze	1	1	холодное 	60	60	74305
+106	Холодное VI	0	6	ResistFreezeSlow	24	0	4	24% бонус к 	Resist Freeze	1	1	холодное 	60	60	74306
+107	Холодное VII	0	7	ResistFreezeSlow	28	0	6	28% бонус к 	Resist Freeze	1	1	холодное 	60	60	74307
+108	Холодное VIII	0	8	ResistFreezeSlow	32	0	6	32% бонус к 	Resist Freeze	1	1	холодное 	60	60	74308
+109	Холодное IX	0	9	ResistFreezeSlow	36	0	6	36% бонус к 	Resist Freeze	1	1	холодное 	60	60	74309
+110	Холодное X	0	10	ResistFreezeSlow	45	0	8	45% бонус к 	Resist Freeze	1	1	холодное 	60	60	74310
+201	Огненное I	14	1	ResistFlameDoT	4	0	2	4% бонус к 	Resist Flame	0	2	огненное 	1	60	74311
+202	Огненное II	8	2	ResistFlameDoT	8	0	2	8% бонус к 	Resist Flame	0	2	огненное 	12	60	74312
+203	Огненное III	3	3	ResistFlameDoT	12	0	2	12% бонус к 	Resist Flame	0	2	огненное 	25	60	74313
+204	Огненное IV	0	4	ResistFlameDoT	16	0	4	16% бонус к 	Resist Flame	0	2	огненное 	60	60	74314
+205	Огненное V	0	5	ResistFlameDoT	20	0	4	20% бонус к 	Resist Flame	0	2	огненное 	60	60	74315
+206	Огненное VI	0	6	ResistFlameDoT	24	0	4	24% бонус к 	Resist Flame	0	2	огненное 	60	60	74316
+207	Огненное VII	0	7	ResistFlameDoT	28	0	6	28% бонус к 	Resist Flame	0	2	огненное 	60	60	74317
+208	Огненное VIII	0	8	ResistFlameDoT	32	0	6	32% бонус к 	Resist Flame	0	2	огненное 	60	60	74318
+209	Огненное IX	0	9	ResistFlameDoT	36	0	6	36% бонус к 	Resist Flame	0	2	огненное 	60	60	74319
+210	Огненное X	0	10	ResistFlameDoT	45	0	8	45% бонус к 	Resist Flame	0	2	огненное 	60	60	74320
+301	Взрывное I	14	1	ResistExplosion 	4	0	2	4% бонус к 	Resist Explosion 	2	3	взрывное 	1	60	74321
+302	Взрывное II	8	2	ResistExplosion 	8	0	2	8% бонус к 	Resist Explosion 	2	3	взрывное 	12	60	74322
+303	Взрывное III	3	3	ResistExplosion 	12	0	2	12% бонус к 	Resist Explosion 	2	3	взрывное 	25	60	74323
+304	Взрывное IV	0	4	ResistExplosion 	16	0	4	16% бонус к 	Resist Explosion 	2	3	взрывное 	60	60	74324
+305	Взрывное V	0	5	ResistExplosion 	20	0	4	20% бонус к 	Resist Explosion 	2	3	взрывное 	60	60	74325
+306	Взрывное VI	0	6	ResistExplosion 	24	0	4	24% бонус к 	Resist Explosion 	2	3	взрывное 	60	60	74326
+307	Взрывное VII	0	7	ResistExplosion 	28	0	6	28% бонус к 	Resist Explosion 	2	3	взрывное 	60	60	74327
+308	Взрывное VIII	0	8	ResistExplosion 	32	0	6	32% бонус к 	Resist Explosion 	2	3	взрывное 	60	60	74328
+309	Взрывное IX	0	9	ResistExplosion 	36	0	6	36% бонус к 	Resist Explosion 	2	3	взрывное 	60	60	74329
+310	Взрывное X	0	10	ResistExplosion 	45	0	8	45% бонус к 	Resist Explosion 	2	3	взрывное 	60	60	74330
+401	Штормовое I	14	1	ResistStormStun	4	0	2	4% бонус к 	Resist Storm	3	4	штормовое 	1	60	74331
+402	Штормовое II	8	2	ResistStormStun	8	0	2	8% бонус к 	Resist Storm	3	4	штормовое 	12	60	74332
+403	Штормовое III	3	3	ResistStormStun	12	0	2	12% бонус к 	Resist Storm	3	4	штормовое 	25	60	74333
+404	Штормовое IV	0	4	ResistStormStun	16	0	4	16% бонус к 	Resist Storm	3	4	штормовое 	60	60	74334
+405	Штормовое V	0	5	ResistStormStun	20	0	4	20% бонус к 	Resist Storm	3	4	штормовое 	60	60	74335
+406	Штормовое VI	0	6	ResistStormStun	24	0	4	24% бонус к 	Resist Storm	3	4	штормовое 	60	60	74336
+407	Штормовое VII	0	7	ResistStormStun	28	0	6	28% бонус к 	Resist Storm	3	4	штормовое 	60	60	74337
+408	Штормовое VIII	0	8	ResistStormStun	32	0	6	32% бонус к 	Resist Storm	3	4	штормовое 	60	60	74338
+409	Штормовое IX	0	9	ResistStormStun	36	0	6	36% бонус к 	Resist Storm	3	4	штормовое 	60	60	74339
+410	Штормовое X	0	10	ResistStormStun	45	0	8	45% бонус к 	Resist Storm	3	4	штормовое 	60	60	74340

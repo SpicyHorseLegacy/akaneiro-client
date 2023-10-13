@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 9b14ca14abe1f20499004b86761f1ed3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bip001 L Finger1
+    100002: Bip001 L Finger01
+    100004: Bip001 L Finger0Nub
+    100006: Bip001 L Finger1Nub
+    100008: Bip001 L Finger2
+    100010: Bip001 R Finger21
+    100012: Bip001 R Finger2Nub
+    100014: Bip001 L Finger2Nub
+    100016: Bip001 L Finger3
+    100018: Bip001 L Finger31
+    100020: Bip001 L Finger3Nub
+    100022: Bip001 R Clavicle
+    100024: Bip001 R UpperArm
+    100026: Bip001 R Forearm
+    100028: Bip001 R Finger0
+    100030: Bip001 R Finger01
+    100032: Bip001 R Finger0Nub
+    100034: Bip001 R Finger1
+    100036: Bip001 R Finger11
+    100038: Bip001 L Finger21
+    100040: Bip001 L Finger11
+    100042: Bip001 R Finger1Nub
+    100044: Bip001 R Finger31
+    100046: Bip001 R Finger3Nub
+    100048: Bip001 L HorseLink
+    100050: Bip001 L Toe0Nub
+    100052: Bip001 R HorseLink
+    100054: Bip001 R Toe0Nub
+    100056: Bip001 Bip001 Tail00
+    100058: Bip001 Bip001 Tail01
+    100060: Bip001 Bip001 Tail02
+    100062: Bip001 Bip001 Tail00Nub
+    100064: Bip001 R Finger3
+    100066: Bip001 R Finger2
+    100068: Bip001 L Finger0
+    100070: Bip001 L Forearm
+    100072: Bip001 L UpperArm
+    100074: Bip001 L Clavicle
+    100076: Bip001 Footsteps
+    100078: Bip001 R Toe0
+    100080: Bone_Thigh_R01
+    100082: Bone_Thigh_L01
+    100084: //RootNode
+    100086: Bone001
+    100088: Bip001 R Foot
+    100090: Bip001 R Calf
+    100092: Bip001 R Thigh
+    100094: Bip001 L Toe0
+    100096: Bip001 L Foot
+    100098: Bip001 L Calf
+    100100: Bip001 L Thigh
+    100102: Bone_Flag_R01
+    100104: Bone_Flag_R
+    100106: Bone_Flag_M01
+    100108: Bone_Flag_M
+    100110: Bone_Flag_L03
+    100112: Bone_Flag_L02
+    100114: Bone_Flag_L01
+    100116: Bone_Flag_L
+    100118: WP_BloodFang
+    100120: Bip001 Prop1
+    100122: Bip001 R Hand
+    100124: Bone_Forearm
+    100126: Bip001 L Hand
+    100128: Bone_Mouth
+    100130: Bip001 HeadNub
+    100132: Bip001 Head
+    100134: Bip001 Neck
+    100136: Bip001 Spine2
+    100138: Bip001 Spine1
+    100140: Bip001 Spine
+    100142: Bip001 Pelvis
+    100144: Bip001
+    100146: Refbox
+    100148: Root
+    100150: CH_BloodFang
+    100152: Bone002
+    400000: Bip001 L Finger1
+    400002: Bip001 L Finger01
+    400004: Bip001 L Finger0Nub
+    400006: Bip001 L Finger1Nub
+    400008: Bip001 L Finger2
+    400010: Bip001 R Finger21
+    400012: Bip001 R Finger2Nub
+    400014: Bip001 L Finger2Nub
+    400016: Bip001 L Finger3
+    400018: Bip001 L Finger31
+    400020: Bip001 L Finger3Nub
+    400022: Bip001 R Clavicle
+    400024: Bip001 R UpperArm
+    400026: Bip001 R Forearm
+    400028: Bip001 R Finger0
+    400030: Bip001 R Finger01
+    400032: Bip001 R Finger0Nub
+    400034: Bip001 R Finger1
+    400036: Bip001 R Finger11
+    400038: Bip001 L Finger21
+    400040: Bip001 L Finger11
+    400042: Bip001 R Finger1Nub
+    400044: Bip001 R Finger31
+    400046: Bip001 R Finger3Nub
+    400048: Bip001 L HorseLink
+    400050: Bip001 L Toe0Nub
+    400052: Bip001 R HorseLink
+    400054: Bip001 R Toe0Nub
+    400056: Bip001 Bip001 Tail00
+    400058: Bip001 Bip001 Tail01
+    400060: Bip001 Bip001 Tail02
+    400062: Bip001 Bip001 Tail00Nub
+    400064: Bip001 R Finger3
+    400066: Bip001 R Finger2
+    400068: Bip001 L Finger0
+    400070: Bip001 L Forearm
+    400072: Bip001 L UpperArm
+    400074: Bip001 L Clavicle
+    400076: Bip001 Footsteps
+    400078: Bip001 R Toe0
+    400080: Bone_Thigh_R01
+    400082: Bone_Thigh_L01
+    400084: //RootNode
+    400086: Bone001
+    400088: Bip001 R Foot
+    400090: Bip001 R Calf
+    400092: Bip001 R Thigh
+    400094: Bip001 L Toe0
+    400096: Bip001 L Foot
+    400098: Bip001 L Calf
+    400100: Bip001 L Thigh
+    400102: Bone_Flag_R01
+    400104: Bone_Flag_R
+    400106: Bone_Flag_M01
+    400108: Bone_Flag_M
+    400110: Bone_Flag_L03
+    400112: Bone_Flag_L02
+    400114: Bone_Flag_L01
+    400116: Bone_Flag_L
+    400118: WP_BloodFang
+    400120: Bip001 Prop1
+    400122: Bip001 R Hand
+    400124: Bone_Forearm
+    400126: Bip001 L Hand
+    400128: Bone_Mouth
+    400130: Bip001 HeadNub
+    400132: Bip001 Head
+    400134: Bip001 Neck
+    400136: Bip001 Spine2
+    400138: Bip001 Spine1
+    400140: Bip001 Spine
+    400142: Bip001 Pelvis
+    400144: Bip001
+    400146: Refbox
+    400148: Root
+    400150: CH_BloodFang
+    400152: Bone002
+    2300000: WP_BloodFang
+    2300002: Refbox
+    3300000: WP_BloodFang
+    3300002: Refbox
+    4300000: CH_BloodFang
+    4300002: Refbox
+    4300004: WP_BloodFang
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: CH_BloodFang
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

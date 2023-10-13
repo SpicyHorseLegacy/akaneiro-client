@@ -1,0 +1,12 @@
+INT	STRING	INT	INT	INT	FLOAT	STRING	STRING	INT	INT	STRING	INT	INT
+ID	Enchant	 Chance 	EnchantLevel	StatusID	Value	Desc1	Desc2	EnchantType	IconID	Enchant Name	Min	Max
+ID	Enchant String	(NOT USED) Attach Chance %	Enchant Level	StatusID	Value	Enchant Desc String 1	Enchant Desc String 2	EnchantType	IconID	Name String	Min Item Level for Enchant	Max Item Level for Enchant
+101	Nimble I	20	1	70801	1.5	Small boost to 	move speed	1	4	Nimble 	1	60
+102	Nimble II	8	2	70802	2	Moderate boost to 	move speed	1	4	Nimble 	12	60
+103	Nimble III	2	3	70803	3	Large boost to 	move speed	1	4	Nimble 	25	60
+201	Hyper I	22	1	70201	1.5	Small boost to 	total energy	2	5	Hyper 	1	60
+202	Hyper II	8	2	70202	2	Moderate boost to 	total energy	2	5	Hyper 	12	60
+203	Hyper III	2	3	70203	3	Large boost to 	total energy	2	5	Hyper 	25	60
+301	Precision I	25	1	71701	1.5	Small boost to 	critical chance	3	6	Precise 	1	60
+302	Precision II	10	2	71702	2	Moderate boost to 	critical chance	3	6	Precise 	12	60
+303	Precision III	3	3	71703	3	Large boost to 	critical chance	3	6	Precise 	25	60

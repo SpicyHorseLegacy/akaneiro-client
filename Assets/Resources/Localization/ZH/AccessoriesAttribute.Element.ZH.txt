@@ -1,0 +1,15 @@
+INT	STRING	INT	INT	STRING	FLOAT	INT	FLOAT	STRING	STRING	INT	INT	STRING	INT	INT
+ID	Element 	Chance	Element Level	StatusEffect	StatusEffectBonus %	ElementImpac VFX	Value	ElementDescString 1	ElementDescString 2	Element	IconID	Element Name	Min	Max
+ID	Element String	(NOT USED) Attach Chance %	Element Level	Status Effect	Status Effect Bonus %	Element Impact VFX	Value	Element Desc String 1	Element Desc String 2	Element	IconID	Name String	Min Item Level for Element	Max Item Level for Element
+101	Frost I	14	1	BonusFrost 	0.2	0	2	Small boost to 	frost damage	1	5	Frost 	1	60
+102	Frost II	8	2	BonusFrost 	0.3	0	4	Moderate boost to 	frost damage	1	5	Frost 	12	60
+103	Frost III	3	3	BonusFrost 	0.5	0	6	Large boost to 	frost damage	1	5	Frost 	25	60
+201	Flame I	14	1	BonusFlame 	0.2	0	2	Small boost to 	flame damage	0	6	Flame 	1	60
+202	Flame II	8	2	BonusFlame 	0.3	0	4	Moderate boost to 	flame damage	0	6	Flame 	12	60
+203	Flame III	3	3	BonusFlame 	0.5	0	6	Large boost to 	flame damage	0	6	Flame 	25	60
+301	Blast I	14	1	BonusExplosion 	0.2	0	2	Small boost to 	explosive damage	2	7	Blast 	1	60
+302	Blast II	8	2	BonusExplosion 	0.3	0	4	Moderate boost to 	explosive damage	2	7	Blast 	12	60
+303	Blast III	3	3	BonusExplosion 	0.5	0	6	Large boost to 	explosive damage	2	7	Blast 	25	60
+401	Storm I	14	1	BonusStorm 	0.2	0	2	Small boost to 	storm damage	3	8	Storm 	1	60
+402	Storm II	8	2	BonusStorm 	0.3	0	4	Moderate boost to 	storm damage	3	8	Storm 	12	60
+403	Storm III	3	3	BonusStorm 	0.5	0	6	Large boost to 	storm damage	3	8	Storm 	25	60

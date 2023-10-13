@@ -1,0 +1,106 @@
+INT	STRING	STRING	STRING	INT	INT	INT	INT	INT	INT	INT	INT	STRING	STRING	INT	STRING	INT
+ID	Name	PicID	Des	SellPrice	Bind	CanTransaction	Accumulation	LevelRequirement	Type	EquipPoint	MaxCount	OTHERATTR	BundleName	SecondType	Des2	isUseRealMoney
+Number	Name	picture for  the prop	Description	sell price 	Bind	can trade or not	what's the max number in a cell in bag and inventory	Level Requirement	Type	EquipPoint	can take max count	other attribute	BundleName	SecondType	Description2	isUseRealMoney
+1001	Katana	1001	Katana	10	0	1	1	0	7	7	0			0	Katana	0
+1002	Axe	1002	Axe	10	0	1	1	0	7	7	0			0	Axe	0
+1003	Club	1003	Club	10	0	1	1	0	7	7	0			0	Club	0
+1004	Mace	1004	Mace	10	0	1	1	0	7	7	0			0	Mace	0
+1005	Nodachi	1005	Nodachi	10	0	1	1	0	8	7	0			0	Nodachi	0
+1006	Great Axe	1006	Great Axe	10	0	1	1	0	8	7	0			0	Great Axe	0
+1007	Great Maul	1007	Great Maul	10	0	1	1	0	8	7	0			0	Great Maul	0
+1008	Sickle	1008	Sickle	10	0	1	1	0	7	7	0			0	Sickle	0
+1009	Cutlass	1009	Cutlass	10	0	1	1	0	7	7	0			0	Cutlass	0
+1010	Claymore	1010	Claymore	10	0	1	1	0	8	7	0			0	Claymore	0
+1011	Claw	1011	Claw	10	0	1	1	0	7	7	0			0	Claw	0
+1012	Fist	1012	Fist	10	0	1	1	0	7	7	0			0	Fist	0
+2001	Helm	2001	Helm	10	0	1	1	0	1	1	0			0	Helm	0
+2002	Breastplate	2002	Breastplate	10	0	1	1	0	3	3	0			0	Breastplate	0
+2003	Breeches	2003	Breeches	10	0	1	1	0	6	6	0			0	Breeches	0
+2010	Cloak	2010	Cloak	10	0	1	1	0	4	4	0			0	Cloak	0
+3001	Ring	3001	Ring	10	0	1	1	0	5	5	0			0	Ring	0
+3002	Necklace	3002	Necklace	10	0	1	1	0	2	2	0			0	Necklace	0
+4001	Razzle Dazzle	1010	Unique Item	1000000	1	0	1	0	8	7	0			0	Unique Item	0
+4002	Red Cap's Cloak	2010	Kickstarter Exclusive	1000000	1	0	1	0	4	4	0			0	Cloak	0
+4003	Gasha Claw	1011	Claw	10	0	1	1	0	7	7	0			0	Claw	0
+4004	Crab Claw	1011	Claw	10	0	1	1	0	7	7	0			0	Claw	0
+4005	Kuma Fist	1012	Fist	10	0	1	1	0	7	7	0			0	Fist	0
+4006	Boxing Fist	1012	Fist	10	0	1	1	0	7	7	0			0	Fist	0
+4050	Protector	1013	Kickstarter Backer Weapon	10	0	1	1	0	7	7	0			0	Protector	0
+4051	Sumasshu	1014	Kickstarter Backer Weapon	10	0	1	1	0	8	7	0			0	Sumasshu	0
+4052	Arekusu's Fury	1015	Kickstarter Backer Weapon	10	0	1	1	0	8	7	0			0	Arekusu's Fury	0
+4053	Spider	1016	Kickstarter Backer Weapon	10	0	1	1	0	7	7	0			0	Spider	0
+4054	Amaterasu's Sword	1017	Kickstarter Backer Weapon	10	0	1	1	0	7	7	0			0	Amaterasu's Sword	0
+4055	Gladius	1018	Kickstarter Backer Weapon	10	0	1	1	0	7	7	0			0	Gladius	0
+4056	Nils Katana	1019	Kickstarter Backer Weapon	10	0	1	1	0	7	7	0			0	Nils Katana	0
+4057	Demon Swatter	1020	Kickstarter Backer Weapon	10	0	1	1	0	7	7	0			0	Demon Swatter	0
+4058	Akantor Katana	1021	Kickstarter Backer Weapon	10	0	1	1	0	7	7	0			0	Akantor Katana	0
+4059	SPGBlade	1022	Kickstarter Backer Weapon	10	0	1	1	0	8	7	0			0	SPGBlade	0
+4060	Zigwiglig	1023	Kickstarter Backer Weapon	10	0	1	1	0	7	7	0			0	Zigwiglig	0
+4061	Hellish Hammer	1024	Kickstarter Backer Weapon	10	0	1	1	0	8	7	0			0	Hellish Hammer	0
+4062	Ao's Shakujo	1025	Kickstarter Backer Weapon	10	0	1	1	0	8	7	0			0	Ao's Shakujo	0
+5001	WolfHeart	5001	Wolf Heart	10	0	0	2	0	9	9	0			0	Wolf Heart	0
+5002	GhostclawAmulet	5002		10	0	0	2	0	9	9	0			0		0
+5003	StolenIdol	5003		10	0	0	2	0	9	9	0			0		0
+5004	AbbotJournal	5004		10	0	0	2	0	9	9	0			0		0
+5005	ChiefAttackPlans	5005		10	0	0	2	0	9	9	0			0		0
+5006	GhostclawHistory	5006		10	0	0	2	0	9	9	0			0		0
+5007	GhostclawDoctrine	5007		10	0	0	2	0	9	9	0			0		0
+5008	Skull	5008		10	0	0	2	0	9	9	0			0		0
+5009	Seed	5009		10	0	0	2	0	9	9	0			0		0
+5010	Temple Relic	5010		10	0	0	2	0	9	9	0			0		0
+6001	Pelts	6001	Known for enhancing Nimble Enchants	5	0	0	99	0	13	10	0			0	Pelts	1
+6002	Metal	6002	Known for enhancing Precision Enchants	5	0	0	99	0	13	10	0			0	Metal	1
+6003	Timber	6003	Known for enhancing Hyper Enchants	5	0	0	99	0	13	10	0			0	Timber	1
+6004	Cloth	6004	Known for enhancing Healthy Enchants	5	0	0	99	0	13	10	0			0	Cloth	1
+6005	Teeth	6005	Known for enhancing Fortified Enchants	5	0	0	99	0	13	10	0			0	Teeth	1
+6006	Vine	6006	Known for enhancing Focused Enchants	5	0	0	99	0	13	10	0			0	Vine	1
+6007	Resin	6007	Known for enhancing Brutal Enchants	5	0	0	99	0	13	10	0			0	Resin	1
+6008	Flux	6008	Known for enhancing Raging Enchants	5	0	0	99	0	13	10	0			0	Flux	1
+6009	Leather	6009	Known for enhancing Thirsty Enchants	5	0	0	99	0	13	10	0			0	Leather	1
+7001	Ruby	7001	Known for its Prowess qualities	10	0	0	99	0	11	10	0			0	Ruby	1
+7002	Emerald	7002	Known for its Fortitude qualities	10	0	0	99	0	11	10	0			0	Emerald	1
+7003	Sapphire	7003	Known for its Cunning qualities	10	0	0	99	0	11	10	0			0	Sapphire	1
+7004	Garnet	7004	Known for its Prowess and Fortitude qualities	10	0	0	99	0	11	10	0			0	Garnet	1
+7005	Amethyst	7005	Known for its Cunning and Prowess qualities	10	0	0	99	0	11	10	0			0	Amethyst	1
+7006	Malachite	7006	Known for its Fortitude and Cunning qualities	10	0	0	99	0	11	10	0			0	Malachite	1
+7007	Obsidian	7007	Known for increasing all Discipline qualities	10	0	0	99	0	11	10	0			0	Obsidian	1
+7008	Jade	7008	Known for increasing all Discipline qualities	10	0	0	99	0	11	10	0			0	Jade	1
+7009	Gold	7009	Known for increasing Karma Shard Value	10	0	0	99	0	11	10	0			0	Gold	1
+8001	Frost Core	8001	Known for enhancing Slow Elements	15	0	0	99	0	12	10	0			0	Frost Core	1
+8002	Lava Core	8002	Known for enhancing Burn Elements	15	0	0	99	0	12	10	0			0	Lava Core	1
+8003	Blast Core	8003	Known for enhancing Knockback Elements	15	0	0	99	0	12	10	0			0	Blast Core	1
+8004	Storm Core	8004	Known for enhancing Stun Elements	15	0	0	99	0	12	10	0			0	Storm Core	1
+9001	Karma Core	9001	The core of cores	20	0	0	99	0	13	10	0			0	Karma Core	1
+20000	Spicy Sushi	20000	A spicy kick, gives a small boost to POWER (5 mins)	150	0	0	99	0	14	10	0			4	Spicy Sushi	0
+20001	Caviar Onigiri	20001	Fresh treat, gives a small boost to SKILL (5 mins)	150	0	0	99	0	14	10	0			4	Caviar Onigiri	0
+20002	Mint Tofu	20002	Fragrant snack, gives a small boost to DEFENSE (5 mins)	150	0	0	99	0	14	10	0			4	Mint Tofu	0
+20003	Garlic Snapper	20003	Herb baked fish, gives a small boost to Movement speed (5 mins)	450	0	0	99	0	14	10	0			4	Garlic Snapper	0
+20004	Ginseng Soba	20004	Chilled noodle, gives a small boost to Critical Chance (5 mins)	300	0	0	99	0	14	10	0			4	Ginseng Soba	0
+20005	Yomi Sake	20005	Local rice wine, gives a small boost to XP earnings (5 mins)	1500	0	0	99	0	14	10	0			5	Yomi Sake	0
+20006	Plum Wine	20006	Sweet fruit wine, gives a small boost to loot drop quality (5 mins)	450	0	0	99	0	14	10	0			5	Plum Wine	0
+20007	Green Tea	20007	Warm and soothing, gives a small boost to Energy regen (5 mins)	750	0	0	99	0	14	10	0			5	Green Tea	0
+20008	Red Tea	20008	Slightly bitter but tasty, gives a small boost to HP regen (5 mins)	750	0	0	99	0	14	10	0			5	Red Tea	0
+20009	Sea Urchin Sushi	20000	Local delicacy, more than doubles base POWER stat (10 mins)	15	0	0	99	0	14	10	0			4	Spicy Sushi 2	1
+20010	Kagami Mochi	20001	Traditional treat, more than doubles base SKILL stat (10 mins)	15	0	0	99	0	14	10	0			4	Caviar Onigiri 2	1
+20014	Dorayaki	20002	Red bean confectionary, more than doubles base DEFENSE stat (10 mins)	15	0	0	99	0	14	10	0			4	Mint Tofu 2	1
+20015	Fugu Tempura	20003	Carefully prepared, increases Movement Speed by 20% (10 mins)	10	0	0	99	0	14	10	0			4	Garlic Snapper 2	1
+20016	Sukiyaki	20004	Simmering hot pot, increases Critical Chance by 25% (10 mins)	10	0	0	99	0	14	10	0			4	Ginseng Soba 2	1
+20017	Shochu	20005	Earthy distilled beverage, gives 80% boost to monster XP (10 mins)	35	0	0	99	0	14	10	0			5	Yomi Sake 2	1
+20018	Awamori	20006	Aged rice wine, gives a large boost to loot drop quality (10 mins)	40	0	0	99	0	14	10	0			5	Plum Wine 2	1
+20019	Hojicha Tea	20007	Charcoal roasted tea, doubles base Energy regen rate (10 mins)	25	0	0	99	0	14	10	0			5	Green Tea 2	1
+20020	Chrysanthemum Tea	20008	Colorful and fragrant, doubles base HP regen rate (10 mins)	25	0	0	99	0	14	10	0			5	Red Tea 2	1
+20057	Small Energy Potion	20007	Recover 750 Energy per second for 2 seconds	250	0	0	99	0	14	10	0			5	Green Tea	0
+20058	Small Health Potion	20008	Recover 1500 Health per second for 1 second	250	0	0	99	0	14	10	0			5	Red Tea	0
+20059	Medium Energy Potion	20007	Recover 750 Energy per second for 6 seconds	400	0	0	99	0	14	10	0			5	Green Tea	0
+20060	Medium Health Potion	20008	Recover 1500 Health per second for 3 seconds	400	0	0	99	0	14	10	0			5	Red Tea	0
+20061	Large Energy Potion	20007	Recover 800 Energy per second for 10 seconds	1	0	0	99	0	14	10	0			5	Green Tea	1
+20062	Large Health Potion	20008	Recover 1600 Health per second for 5 seconds	1	0	0	99	0	14	10	0			5	Red Tea	1
+20011	Recall Prayer	20011	Retain some mission earnings if escaping.	10	0	0	99	0	14	10	0			0	Recall Prayer	0
+20012	Akane Contract	20012	Use to receive 5 Akane Badges.	10	0	0	99	0	14	10	0			0	Akane Contract	0
+20013	Stash Size	20013	Add an extra loot bag. Carry more!	10	0	0	99	0	14	10	0			0	Stash Size	0
+20100	1 Shinigami Scroll	20010	Use when Collapsed to revive and smite surrounding enemies.	15	0	0	99	0	14	10	0			6	Revival Prayer	1
+20101	5 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	50	0	0	99	0	14	10	0			6	Revival Prayer	1
+20102	10 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	85	0	0	99	0	14	10	0			6	Revival Prayer	1
+20103	20 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	150	0	0	99	0	14	10	0			6	Revival Prayer	1
+20104	50 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	300	0	0	99	0	14	10	0			6	Revival Prayer	1
+20105	100 Shinigami Scrolls	20010	Use when Collapsed to revive and smite surrounding enemies.	500	0	0	99	0	14	10	0			6	Revival Prayer	1
